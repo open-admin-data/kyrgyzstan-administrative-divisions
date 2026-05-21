@@ -1,0 +1,30 @@
+{
+  "id": "KG07000000000",
+  "level": 1,
+  "level_name": {
+    "local": "Область",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Талас",
+    "en": "Talas",
+    "slug": "talas-kg07"
+  },
+  "code": {
+    "id": "KG07000000000",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5,
+    "settlement": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.445",
+    "lon": "72.133"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "KG02420510010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Орто-Токой",
+      "en": "Orto-Tokoy",
+      "slug": "orto-tokoy-51001"
+    },
+    "code": {
+      "id": "KG02420510010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02420000010",
+      "level": 2,
+      "name": {
+        "local": "Балыкчы ш.",
+        "en": "Balykchy (city)",
+        "slug": "balykchy-city-00001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02420000010",
+        "level": 2,
+        "name": {
+          "local": "Балыкчы ш.",
+          "en": "Balykchy (city)",
+          "slug": "balykchy-city-00001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721900"
+    ],
+    "geo": {
+      "lat": "42.35",
+      "lon": "76.024"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

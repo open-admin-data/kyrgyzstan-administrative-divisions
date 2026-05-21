@@ -1,0 +1,49 @@
+{
+  "id": "KG02210000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Жети-Өгүз",
+    "en": "Jeti-Oguz",
+    "slug": "jeti-oguz-g0221"
+  },
+  "code": {
+    "id": "KG02210000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG02000000000",
+    "level": 1,
+    "name": {
+      "local": "Ысык-Көл",
+      "en": "Issyk-Kul",
+      "slug": "issyk-kul-kg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 12
+  },
+  "zip_codes": [
+    "722300"
+  ],
+  "geo": {
+    "lat": "41.881",
+    "lon": "78.176"
+  },
+  "metadata": {},
+  "source": {}
+}

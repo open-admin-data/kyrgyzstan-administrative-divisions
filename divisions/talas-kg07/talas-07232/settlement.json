@@ -1,0 +1,730 @@
+[
+  {
+    "id": "KG07232804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Арал",
+      "en": "Aral",
+      "slug": "aral-32804"
+    },
+    "code": {
+      "id": "KG07232804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720601"
+    ],
+    "geo": {
+      "lat": "42.56",
+      "lon": "72.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232829000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Айдаралиев",
+      "en": "Aydaraliev",
+      "slug": "aydaraliev-32829"
+    },
+    "code": {
+      "id": "KG07232829000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.426",
+      "lon": "73.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бекмолдоев",
+      "en": "Bekmoldoev",
+      "slug": "bekmoldoev-32825"
+    },
+    "code": {
+      "id": "KG07232825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.363",
+      "lon": "72.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232843000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бердике Баатыр",
+      "en": "Berdike Baatyr",
+      "slug": "berdike-baatyr-32843"
+    },
+    "code": {
+      "id": "KG07232843000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.332",
+      "lon": "72.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232810000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жерге-Тал",
+      "en": "Djergetal",
+      "slug": "djergetal-23281"
+    },
+    "code": {
+      "id": "KG07232810000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.488",
+      "lon": "72.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232813000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Долон",
+      "en": "Dolon",
+      "slug": "dolon-32813"
+    },
+    "code": {
+      "id": "KG07232813000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722409"
+    ],
+    "geo": {
+      "lat": "42.628",
+      "lon": "72.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232862000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Калба",
+      "en": "Kalba",
+      "slug": "kalba-32862"
+    },
+    "code": {
+      "id": "KG07232862000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724106"
+    ],
+    "geo": {
+      "lat": "42.287",
+      "lon": "72.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232861000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Суу",
+      "en": "Kara-Suu",
+      "slug": "kara-suu-32861"
+    },
+    "code": {
+      "id": "KG07232861000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.47",
+      "lon": "72.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көк-Ой",
+      "en": "Kok-Oy",
+      "slug": "kok-oy-23282"
+    },
+    "code": {
+      "id": "KG07232820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.595",
+      "lon": "72.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232860000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кууганды",
+      "en": "Kuugandy",
+      "slug": "kuugandy-23286"
+    },
+    "code": {
+      "id": "KG07232860000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.603",
+      "lon": "72.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Нуржанов",
+      "en": "Nurjanov",
+      "slug": "nurjanov-32832"
+    },
+    "code": {
+      "id": "KG07232832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.49",
+      "lon": "72.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232859000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Өмүралиев",
+      "en": "Omuraliev",
+      "slug": "omuraliev-32859"
+    },
+    "code": {
+      "id": "KG07232859000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.396",
+      "lon": "72.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232847000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Осмонкулов",
+      "en": "Osmonkulov",
+      "slug": "osmonkulov-32847"
+    },
+    "code": {
+      "id": "KG07232847000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07232000000",
+      "level": 2,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-07232"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07232000000",
+        "level": 2,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.351",
+      "lon": "72.947"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

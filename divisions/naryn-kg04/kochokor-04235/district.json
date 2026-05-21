@@ -1,0 +1,49 @@
+{
+  "id": "KG04235000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Кочкор",
+    "en": "Kochokor",
+    "slug": "kochokor-04235"
+  },
+  "code": {
+    "id": "KG04235000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG04000000000",
+    "level": 1,
+    "name": {
+      "local": "Нарын",
+      "en": "Naryn",
+      "slug": "naryn-kg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 11
+  },
+  "zip_codes": [
+    "722800"
+  ],
+  "geo": {
+    "lat": "42.095",
+    "lon": "75.614"
+  },
+  "metadata": {},
+  "source": {}
+}

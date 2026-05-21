@@ -1,0 +1,786 @@
+[
+  {
+    "id": "KG02205805000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Булуң",
+      "en": "Ak-Bulun",
+      "slug": "ak-bulun-05805"
+    },
+    "code": {
+      "id": "KG02205805000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.614",
+      "lon": "78.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Чий",
+      "en": "Ak-Chiy",
+      "slug": "ak-chiy-20584"
+    },
+    "code": {
+      "id": "KG02205840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.642",
+      "lon": "78.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205807000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бөрү-Баш",
+      "en": "Beryu-Bash",
+      "slug": "beryu-bash-05807"
+    },
+    "code": {
+      "id": "KG02205807000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.54",
+      "lon": "78.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205850000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Челпек",
+      "en": "Chelpek",
+      "slug": "chelpek-20585"
+    },
+    "code": {
+      "id": "KG02205850000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.463",
+      "lon": "78.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205852000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Эңилчек",
+      "en": "Enilchek",
+      "slug": "enilchek-05852"
+    },
+    "code": {
+      "id": "KG02205852000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.02",
+      "lon": "79.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205855000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жыргалаң",
+      "en": "Jyrgalan",
+      "slug": "jyrgalan-05855"
+    },
+    "code": {
+      "id": "KG02205855000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.607",
+      "lon": "79.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Жал",
+      "en": "Kara-Djal",
+      "slug": "kara-djal-05812"
+    },
+    "code": {
+      "id": "KG02205812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.571",
+      "lon": "78.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205813000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Каракол",
+      "en": "Karakol",
+      "slug": "karakol-05813"
+    },
+    "code": {
+      "id": "KG02205813000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721320"
+    ],
+    "geo": {
+      "lat": "42.63",
+      "lon": "78.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205818000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кереге-Таш",
+      "en": "Kerege-Tash",
+      "slug": "kerege-tash-05818"
+    },
+    "code": {
+      "id": "KG02205818000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.536",
+      "lon": "78.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Нововознесеновка",
+      "en": "Novovoznesenovka",
+      "slug": "novovoznesenovka-05825"
+    },
+    "code": {
+      "id": "KG02205825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.571",
+      "lon": "78.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Октябрь",
+      "en": "Oktyabr'",
+      "slug": "oktyabr-05832"
+    },
+    "code": {
+      "id": "KG02205832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723003"
+    ],
+    "geo": {
+      "lat": "42.506",
+      "lon": "78.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205835000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Отрадное",
+      "en": "Otradnoe",
+      "slug": "otradnoe-05835"
+    },
+    "code": {
+      "id": "KG02205835000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721814"
+    ],
+    "geo": {
+      "lat": "42.623",
+      "lon": "78.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205844000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Тепкен",
+      "en": "Tepken",
+      "slug": "tepken-05844"
+    },
+    "code": {
+      "id": "KG02205844000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.627",
+      "lon": "78.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02205848000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Теплоключенка",
+      "en": "Teploklyuchenka",
+      "slug": "teploklyuchenka-05848"
+    },
+    "code": {
+      "id": "KG02205848000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02205000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02205000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721800"
+    ],
+    "geo": {
+      "lat": "42.521",
+      "lon": "78.53"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

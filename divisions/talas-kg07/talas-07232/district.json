@@ -1,0 +1,49 @@
+{
+  "id": "KG07232000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Талас",
+    "en": "Talas",
+    "slug": "talas-07232"
+  },
+  "code": {
+    "id": "KG07232000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG07000000000",
+    "level": 1,
+    "name": {
+      "local": "Талас",
+      "en": "Talas",
+      "slug": "talas-kg07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG07000000000",
+      "level": 1,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-kg07"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 13
+  },
+  "zip_codes": [
+    "724200"
+  ],
+  "geo": {
+    "lat": "42.409",
+    "lon": "72.912"
+  },
+  "metadata": {},
+  "source": {}
+}

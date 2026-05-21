@@ -1,0 +1,49 @@
+{
+  "id": "KG06242000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ноокат",
+    "en": "Nookat",
+    "slug": "nookat-06242"
+  },
+  "code": {
+    "id": "KG06242000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG06000000000",
+    "level": 1,
+    "name": {
+      "local": "Ош",
+      "en": "Osh",
+      "slug": "osh-kg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 14
+  },
+  "zip_codes": [
+    "723400"
+  ],
+  "geo": {
+    "lat": "40.106",
+    "lon": "72.712"
+  },
+  "metadata": {},
+  "source": {}
+}

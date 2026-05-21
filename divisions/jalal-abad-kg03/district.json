@@ -1,0 +1,639 @@
+[
+  {
+    "id": "KG03211000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Аксы",
+      "en": "Aksy",
+      "slug": "aksy-03211"
+    },
+    "code": {
+      "id": "KG03211000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 12
+    },
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.566",
+      "lon": "72.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03204000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ала-Бука",
+      "en": "Ala-Buka",
+      "slug": "ala-buka-03204"
+    },
+    "code": {
+      "id": "KG03204000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 8
+    },
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.427",
+      "lon": "70.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03207000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Базар-Коргон",
+      "en": "Bazar-Korgon",
+      "slug": "bazar-korgon-03207"
+    },
+    "code": {
+      "id": "KG03207000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 9
+    },
+    "zip_codes": [
+      "720800"
+    ],
+    "geo": {
+      "lat": "41.235",
+      "lon": "72.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03230000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Чаткал",
+      "en": "Chatkal",
+      "slug": "chatkal-g0323"
+    },
+    "code": {
+      "id": "KG03230000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 4
+    },
+    "zip_codes": [
+      "721700"
+    ],
+    "geo": {
+      "lat": "41.712",
+      "lon": "70.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03410000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Жалал-Абад ш.",
+      "en": "Jalal-Abad (city)",
+      "slug": "jalal-abad-city-00001"
+    },
+    "code": {
+      "id": "KG03410000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 0
+    },
+    "zip_codes": [
+      "720900"
+    ],
+    "geo": {
+      "lat": "40.933",
+      "lon": "72.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03440000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Кара-Көл ш.",
+      "en": "Kara-Kul (city)",
+      "slug": "kara-kul-city-00001"
+    },
+    "code": {
+      "id": "KG03440000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 1
+    },
+    "zip_codes": [
+      "721000"
+    ],
+    "geo": {
+      "lat": "41.724",
+      "lon": "73.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220400010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Көк-Жаңгак ш.",
+      "en": "Kok-Zhangak (city)",
+      "slug": "kok-zhangak-city-40001"
+    },
+    "code": {
+      "id": "KG03220400010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 0
+    },
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "41.013",
+      "lon": "73.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03430000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Майлуу-Суу ш.",
+      "en": "Mailuu-Suu (city)",
+      "slug": "mailuu-suu-city-00001"
+    },
+    "code": {
+      "id": "KG03430000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 1
+    },
+    "zip_codes": [
+      "721101"
+    ],
+    "geo": {
+      "lat": "41.258",
+      "lon": "72.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03215000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ноокен",
+      "en": "Nooken",
+      "slug": "nooken-03215"
+    },
+    "code": {
+      "id": "KG03215000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 9
+    },
+    "zip_codes": [
+      "721200"
+    ],
+    "geo": {
+      "lat": "41.232",
+      "lon": "72.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Сузак",
+      "en": "Suzak",
+      "slug": "suzak-g0322"
+    },
+    "code": {
+      "id": "KG03220000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 13
+    },
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "41.09",
+      "lon": "73.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03420000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Таш-Көмүр ш.",
+      "en": "Tash-Kumir (city)",
+      "slug": "tash-kumir-city-00001"
+    },
+    "code": {
+      "id": "KG03420000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 2
+    },
+    "zip_codes": [
+      "721400"
+    ],
+    "geo": {
+      "lat": "41.373",
+      "lon": "72.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03223000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Тогуз-Торо",
+      "en": "Toguz-Toro",
+      "slug": "toguz-toro-03223"
+    },
+    "code": {
+      "id": "KG03223000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 5
+    },
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.309",
+      "lon": "73.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Токтогул",
+      "en": "Toktogul",
+      "slug": "toktogul-03225"
+    },
+    "code": {
+      "id": "KG03225000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 11
+    },
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.831",
+      "lon": "73.191"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

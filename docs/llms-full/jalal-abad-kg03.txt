@@ -1,0 +1,374 @@
+# Jalal-Abad — Kyrgyzstan Administrative Divisions
+
+> 13 districts, 75 settlements
+> Code: KG03000000000
+> Coordinates: 41.513, 73.218
+> Last updated: 2026-05-21. License: CC-BY-4.0.
+
+## Districts
+
+### Аксы (Aksy)
+
+Code: KG03211000000, Coordinates: 41.566, 72.03
+Settlements: 12
+
+#### Ак-Жол (Ak-Jol)
+
+Code: KG03211804000, Postal: 720600, Coordinates: 41.549, 72.224
+
+#### Ак-Суу (Ak-Suu)
+
+Code: KG03211824000, Postal: 723016, Coordinates: 41.361, 72.123
+
+#### Авлетим (Avletim)
+
+Code: KG03211808000, Postal: 720601, Coordinates: 41.654, 71.912
+
+#### Жаңы-Жол (Djany-Djol)
+
+Code: KG03211813000, Postal: 720600, Coordinates: 41.607, 72.134
+
+#### Жерге-Тал (Djerge-Tal)
+
+Code: KG03211860000, Postal: 720600, Coordinates: 41.575, 71.828
+
+#### Кара-Жыгач (Kara-Jygach)
+
+Code: KG03211832000, Postal: 720600, Coordinates: 41.652, 72.104
+
+#### Кара-Суу (Kara-Suu)
+
+Code: KG03211857000, Postal: 720600, Coordinates: 41.71, 72.089
+
+#### Кашка-Суу (Kashka-Suu)
+
+Code: KG03211836000, Postal: 720600, Coordinates: 41.586, 71.657
+
+#### Кербен (Kerben (city))
+
+Code: KG03211610010, Postal: 720600, Coordinates: 41.507, 71.773
+
+#### Кызыл-Туу (Kyzyl-Tuu)
+
+Code: KG03211849000, Postal: 720600, Coordinates: 41.702, 72.005
+
+#### Мавлянов (Mavlyanov)
+
+Code: KG03211842000, Postal: 720600, Coordinates: 41.398, 71.899
+
+#### Назаралиев (Nazaraliev)
+
+Code: KG03211863000, Postal: 720600, Coordinates: 41.184, 72.124
+
+### Ала-Бука (Ala-Buka)
+
+Code: KG03204000000, Coordinates: 41.427, 70.925
+Settlements: 8
+
+#### Ак-Коргон (Ak-Korgon)
+
+Code: KG03204804000, Postal: 721500, Coordinates: 41.378, 71.611
+
+#### Ак-Там (Ak-Tam)
+
+Code: KG03204806000, Postal: 721500, Coordinates: 41.491, 71.557
+
+#### Ала-Бука (Ala-Buka)
+
+Code: KG03204808000, Postal: 721500, Coordinates: 41.438, 71.512
+
+#### Көк-Серек (Kek-Serek)
+
+Code: KG03204827000, Postal: 721500, Coordinates: 41.254, 71.203
+
+#### Көк-Таш (Kek-Tash)
+
+Code: KG03204856000, Postal: 721500, Coordinates: 41.21, 71.092
+
+#### Өрүктү (Oruktu)
+
+Code: KG03204847000, Postal: 721500, Coordinates: 41.388, 71.373
+
+#### Биринчи Май (Pervomay)
+
+Code: KG03204850000, Postal: 722608, Coordinates: 41.388, 71.139
+
+#### Төрөгелди Балтагулов (Torogeldi Baltagulov)
+
+Code: KG03204855000, Postal: 721500, Coordinates: 41.356, 71.542
+
+### Базар-Коргон (Bazar-Korgon)
+
+Code: KG03207000000, Coordinates: 41.235, 72.887
+Settlements: 9
+
+#### Акман (Akman)
+
+Code: KG03207808000, Postal: 720800, Coordinates: 40.986, 72.798
+
+#### Арстанбап (Arstanbap)
+
+Code: KG03207826000, Postal: 720800, Coordinates: 41.336, 72.915
+
+#### Базар-Коргон (Bazar-Korgon)
+
+Code: KG03207812000, Postal: 720800, Coordinates: 40.997, 72.748
+
+#### Бешик-Жон (Beshik-Jon)
+
+Code: KG03207815000, Postal: 720800, Coordinates: 41.059, 72.837
+
+#### Кеңеш (Kenesh)
+
+Code: KG03207859000, Postal: 720800, Coordinates: 41.138, 72.771
+
+#### Кызыл-Үңкүр (Kyzyl-Unkyur)
+
+Code: KG03207832000, Postal: 720800, Coordinates: 41.436, 73.201
+
+#### Могол (Mogol)
+
+Code: KG03207842000, Postal: 720800, Coordinates: 41.241, 72.949
+
+#### Сайдыкум (Saydykum)
+
+Code: KG03207856000, Postal: 720800, Coordinates: 40.957, 72.623
+
+#### Талдуу-Булак (Talduu-Bulak)
+
+Code: KG03207857000, Postal: 720800, Coordinates: 41.28, 73.085
+
+### Чаткал (Chatkal)
+
+Code: KG03230000000, Coordinates: 41.712, 70.919
+Settlements: 4
+
+#### Чаткал (Chatkal)
+
+Code: KG03230841000, Postal: 721700, Coordinates: 41.697, 70.738
+
+#### Каныш-Кыя (Kanysh-Kyya)
+
+Code: KG03230822000, Postal: 721700, Coordinates: 41.734, 71.026
+
+#### Сумсар (Sumsar)
+
+Code: KG03230844000, Postal: 721703, Coordinates: 41.244, 71.316
+
+#### Терек-Сай (Terek-Say)
+
+Code: KG03230847000, Postal: 721700, Coordinates: 41.499, 71.156
+
+### Жалал-Абад ш. (Jalal-Abad (city))
+
+Code: KG03410000010, Coordinates: 40.933, 72.997
+Settlements: 0
+
+### Кара-Көл ш. (Kara-Kul (city))
+
+Code: KG03440000010, Coordinates: 41.724, 73.128
+Settlements: 1
+
+#### Кетмен-Төбө (Ketmen-Tebe)
+
+Code: KG03440510010, Postal: 721000, Coordinates: 41.724, 73.128
+
+### Көк-Жаңгак ш. (Kok-Zhangak (city))
+
+Code: KG03220400010, Coordinates: 41.013, 73.209
+Settlements: 0
+
+### Майлуу-Суу ш. (Mailuu-Suu (city))
+
+Code: KG03430000010, Coordinates: 41.258, 72.441
+Settlements: 1
+
+#### Көк-Таш (Kek-Tash)
+
+Code: KG03430510010, Postal: 721101, Coordinates: 41.186, 72.398
+
+### Ноокен (Nooken)
+
+Code: KG03215000000, Coordinates: 41.232, 72.617
+Settlements: 9
+
+#### Арал (Aral)
+
+Code: KG03215804000, Postal: 720601, Coordinates: 41.009, 72.649
+
+#### Бүргөндү (Byurgendi)
+
+Code: KG03215819000, Postal: 721200, Coordinates: 41.079, 72.316
+
+#### Достук (Dostuk)
+
+Code: KG03215821000, Postal: 720409, Coordinates: 41.191, 72.192
+
+#### Кочкор-Ата (Kochkor-Ata (city))
+
+Code: KG03215600010, Postal: 721200, Coordinates: 41.041, 72.481
+
+#### Масы (Massy)
+
+Code: KG03215836000, Postal: 721200, Coordinates: 41.071, 72.608
+
+#### Момбеков (Mombekov)
+
+Code: KG03215840000, Postal: 721207, Coordinates: 41.038, 72.423
+
+#### Ноокат (Nookat)
+
+Code: KG03215846000, Postal: 723415, Coordinates: 41.059, 72.527
+
+#### Сакалды (Sakaldi)
+
+Code: KG03215851000, Postal: 721211, Coordinates: 40.993, 72.544
+
+#### Шайдан (Shaydan)
+
+Code: KG03215876000, Postal: 721200, Coordinates: 41.089, 72.685
+
+### Сузак (Suzak)
+
+Code: KG03220000000, Coordinates: 41.09, 73.161
+Settlements: 13
+
+#### Багыш (Bagysh)
+
+Code: KG03220851000, Postal: 721303, Coordinates: 41.039, 73.112
+
+#### Барпы (Barpyn)
+
+Code: KG03220812000, Postal: 721300, Coordinates: 40.892, 73.015
+
+#### Кара-Алма (Kara-Almin)
+
+Code: KG03220825000, Postal: 721300, Coordinates: 41.239, 73.348
+
+#### Кара-Дарья (Kara-Daryyan)
+
+Code: KG03220828000, Postal: 721300, Coordinates: 40.88, 72.691
+
+#### Көк-Арт (Kegart)
+
+Code: KG03220834000, Postal: 721300, Coordinates: 41.092, 73.226
+
+#### Курманбек (Kurmanbek)
+
+Code: KG03220805000, Postal: 721300, Coordinates: 41.111, 73.444
+
+#### Кыз-Көл (Kyz-Kel)
+
+Code: KG03220838000, Postal: 721300, Coordinates: 41.175, 73.195
+
+#### Кызыл-Туу (Kyzyl-Tuu)
+
+Code: KG03220842000, Postal: 721300, Coordinates: 41.112, 72.99
+
+#### Ленин (Lenin)
+
+Code: KG03220846000, Postal: 725022, Coordinates: 41.09, 73.101
+
+#### Сайпидин Атабеков (Saypidin-Atabekov)
+
+Code: KG03220854000, Postal: 721300, Coordinates: 40.844, 72.945
+
+#### Сузак (Suzak)
+
+Code: KG03220856000, Postal: 721300, Coordinates: 40.905, 73.155
+
+#### Таш-Булак (Tash-Bulak)
+
+Code: KG03220863000, Postal: 721300, Coordinates: 40.944, 73.09
+
+#### Ырыс (Yrys)
+
+Code: KG03220874000, Postal: 721308, Coordinates: 40.903, 72.952
+
+### Таш-Көмүр ш. (Tash-Kumir (city))
+
+Code: KG03420000010, Coordinates: 41.373, 72.196
+Settlements: 2
+
+#### Кызыл-Жар (Kyzyl-Djar)
+
+Code: KG03420510010, Postal: 721400, Coordinates: 41.267, 72.01
+
+#### Шамалды-Сай (Shamaldy-Say)
+
+Code: KG03420520010, Postal: 721400, Coordinates: 41.194, 72.175
+
+### Тогуз-Торо (Toguz-Toro)
+
+Code: KG03223000000, Coordinates: 41.309, 73.978
+Settlements: 5
+
+#### Атай (Atay)
+
+Code: KG03223805000, Postal: 721502, Coordinates: 41.346, 73.855
+
+#### Каргалык (Kargalyk)
+
+Code: KG03223812000, Postal: 721500, Coordinates: 41.3, 74.044
+
+#### Көк-Ирим (Kok-Irim)
+
+Code: KG03223806000, Postal: 721500, Coordinates: 41.488, 73.835
+
+#### Сары-Булуң (Sary-Bulun)
+
+Code: KG03223820000, Postal: 721500, Coordinates: 41.493, 74.011
+
+#### Тогуз-Торо (Toguz-Torou)
+
+Code: KG03223825000, Postal: 721500, Coordinates: 41.363, 74.115
+
+### Токтогул (Toktogul)
+
+Code: KG03225000000, Coordinates: 41.831, 73.191
+Settlements: 11
+
+#### Абды Сүйөркулов (Abdy Suerkulov)
+
+Code: KG03225843000, Postal: 721600, Coordinates: 41.897, 73.115
+
+#### Аралбаев (Aralbaev)
+
+Code: KG03225840000, Postal: 721600, Coordinates: 41.882, 73.614
+
+#### Бел-Алды (Bel&#39;-Aldyn)
+
+Code: KG03225807000, Postal: 721600, Coordinates: 41.985, 73.248
+
+#### Чолпон-Ата (Cholpon-Ata)
+
+Code: KG03225853000, Postal: 722100, Coordinates: 42.021, 72.465
+
+#### Жаңы-Жол (Djany-Djol&#39;)
+
+Code: KG03225815000, Postal: 721600, Coordinates: 41.979, 72.969
+
+#### Кетмен-Дөбө (Ketmen&#39;-Deben)
+
+Code: KG03225825000, Postal: 721600, Coordinates: 41.981, 72.765
+
+#### Кызыл-Өзгөрүш (Kyzyl-Ozgorush)
+
+Code: KG03225820000, Postal: 721600, Coordinates: 41.65, 73.449
+
+#### Ничке-Сай (Nichke-Say)
+
+Code: KG03225821000, Postal: 721600, Coordinates: 41.677, 73.677
+
+#### Сары-Камыш (Sary-Kamysh)
+
+Code: KG03225835000, Postal: 721600, Coordinates: 41.784, 73.851
+
+#### Токтогул (Toktogul (city))
+
+Code: KG03225600010, Postal: 721600, Coordinates: 41.872, 72.944
+
+#### Үч-Терек (Uch-Terek)
+
+Code: KG03225836000, Postal: 721600, Coordinates: 41.629, 73.076
+

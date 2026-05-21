@@ -1,0 +1,247 @@
+[
+  {
+    "id": "KG07220000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Бакай-Ата",
+      "en": "Bakai-Ata",
+      "slug": "bakai-ata-g0722"
+    },
+    "code": {
+      "id": "KG07220000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07000000000",
+      "level": 1,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-kg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 9
+    },
+    "zip_codes": [
+      "724900"
+    ],
+    "geo": {
+      "lat": "42.361",
+      "lon": "71.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07215000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Кара-Буура",
+      "en": "Kara-Buura",
+      "slug": "kara-buura-07215"
+    },
+    "code": {
+      "id": "KG07215000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07000000000",
+      "level": 1,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-kg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 9
+    },
+    "zip_codes": [
+      "724900"
+    ],
+    "geo": {
+      "lat": "42.479",
+      "lon": "71.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07225000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Манас",
+      "en": "Manas",
+      "slug": "manas-07225"
+    },
+    "code": {
+      "id": "KG07225000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07000000000",
+      "level": 1,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-kg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 5
+    },
+    "zip_codes": [
+      "720900"
+    ],
+    "geo": {
+      "lat": "42.694",
+      "lon": "71.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07232000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Талас",
+      "en": "Talas",
+      "slug": "talas-07232"
+    },
+    "code": {
+      "id": "KG07232000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07000000000",
+      "level": 1,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-kg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 13
+    },
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.409",
+      "lon": "72.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07400000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Талас ш.",
+      "en": "Talas (city)",
+      "slug": "talas-city-00001"
+    },
+    "code": {
+      "id": "KG07400000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07000000000",
+      "level": 1,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-kg07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 0
+    },
+    "zip_codes": [
+      "724200"
+    ],
+    "geo": {
+      "lat": "42.524",
+      "lon": "72.243"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

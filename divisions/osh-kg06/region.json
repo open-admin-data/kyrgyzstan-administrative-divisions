@@ -1,0 +1,30 @@
+{
+  "id": "KG06000000000",
+  "level": 1,
+  "level_name": {
+    "local": "Область",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ош",
+    "en": "Osh",
+    "slug": "osh-kg06"
+  },
+  "code": {
+    "id": "KG06000000000",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "settlement": 79
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.164",
+    "lon": "73.361"
+  },
+  "metadata": {},
+  "source": {}
+}

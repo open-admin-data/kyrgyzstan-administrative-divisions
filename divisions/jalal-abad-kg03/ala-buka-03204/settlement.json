@@ -1,0 +1,450 @@
+[
+  {
+    "id": "KG03204804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Коргон",
+      "en": "Ak-Korgon",
+      "slug": "ak-korgon-04804"
+    },
+    "code": {
+      "id": "KG03204804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03204000000",
+      "level": 2,
+      "name": {
+        "local": "Ала-Бука",
+        "en": "Ala-Buka",
+        "slug": "ala-buka-03204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03204000000",
+        "level": 2,
+        "name": {
+          "local": "Ала-Бука",
+          "en": "Ala-Buka",
+          "slug": "ala-buka-03204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.378",
+      "lon": "71.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03204806000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Там",
+      "en": "Ak-Tam",
+      "slug": "ak-tam-04806"
+    },
+    "code": {
+      "id": "KG03204806000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03204000000",
+      "level": 2,
+      "name": {
+        "local": "Ала-Бука",
+        "en": "Ala-Buka",
+        "slug": "ala-buka-03204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03204000000",
+        "level": 2,
+        "name": {
+          "local": "Ала-Бука",
+          "en": "Ala-Buka",
+          "slug": "ala-buka-03204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.491",
+      "lon": "71.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03204808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ала-Бука",
+      "en": "Ala-Buka",
+      "slug": "ala-buka-04808"
+    },
+    "code": {
+      "id": "KG03204808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03204000000",
+      "level": 2,
+      "name": {
+        "local": "Ала-Бука",
+        "en": "Ala-Buka",
+        "slug": "ala-buka-03204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03204000000",
+        "level": 2,
+        "name": {
+          "local": "Ала-Бука",
+          "en": "Ala-Buka",
+          "slug": "ala-buka-03204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.438",
+      "lon": "71.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03204827000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көк-Серек",
+      "en": "Kek-Serek",
+      "slug": "kek-serek-04827"
+    },
+    "code": {
+      "id": "KG03204827000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03204000000",
+      "level": 2,
+      "name": {
+        "local": "Ала-Бука",
+        "en": "Ala-Buka",
+        "slug": "ala-buka-03204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03204000000",
+        "level": 2,
+        "name": {
+          "local": "Ала-Бука",
+          "en": "Ala-Buka",
+          "slug": "ala-buka-03204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.254",
+      "lon": "71.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03204856000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көк-Таш",
+      "en": "Kek-Tash",
+      "slug": "kek-tash-04856"
+    },
+    "code": {
+      "id": "KG03204856000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03204000000",
+      "level": 2,
+      "name": {
+        "local": "Ала-Бука",
+        "en": "Ala-Buka",
+        "slug": "ala-buka-03204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03204000000",
+        "level": 2,
+        "name": {
+          "local": "Ала-Бука",
+          "en": "Ala-Buka",
+          "slug": "ala-buka-03204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.21",
+      "lon": "71.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03204847000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Өрүктү",
+      "en": "Oruktu",
+      "slug": "oruktu-04847"
+    },
+    "code": {
+      "id": "KG03204847000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03204000000",
+      "level": 2,
+      "name": {
+        "local": "Ала-Бука",
+        "en": "Ala-Buka",
+        "slug": "ala-buka-03204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03204000000",
+        "level": 2,
+        "name": {
+          "local": "Ала-Бука",
+          "en": "Ala-Buka",
+          "slug": "ala-buka-03204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.388",
+      "lon": "71.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03204850000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Биринчи Май",
+      "en": "Pervomay",
+      "slug": "pervomay-20485"
+    },
+    "code": {
+      "id": "KG03204850000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03204000000",
+      "level": 2,
+      "name": {
+        "local": "Ала-Бука",
+        "en": "Ala-Buka",
+        "slug": "ala-buka-03204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03204000000",
+        "level": 2,
+        "name": {
+          "local": "Ала-Бука",
+          "en": "Ala-Buka",
+          "slug": "ala-buka-03204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722608"
+    ],
+    "geo": {
+      "lat": "41.388",
+      "lon": "71.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03204855000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Төрөгелди Балтагулов",
+      "en": "Torogeldi Baltagulov",
+      "slug": "torogeldi-baltagulov-04855"
+    },
+    "code": {
+      "id": "KG03204855000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03204000000",
+      "level": 2,
+      "name": {
+        "local": "Ала-Бука",
+        "en": "Ala-Buka",
+        "slug": "ala-buka-03204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03204000000",
+        "level": 2,
+        "name": {
+          "local": "Ала-Бука",
+          "en": "Ala-Buka",
+          "slug": "ala-buka-03204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.356",
+      "lon": "71.542"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

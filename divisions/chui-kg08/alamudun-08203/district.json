@@ -1,0 +1,49 @@
+{
+  "id": "KG08203000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Аламүдүн",
+    "en": "Alamudun",
+    "slug": "alamudun-08203"
+  },
+  "code": {
+    "id": "KG08203000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG08000000000",
+    "level": 1,
+    "name": {
+      "local": "Чүй",
+      "en": "Chui",
+      "slug": "chui-kg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 17
+  },
+  "zip_codes": [
+    "725200"
+  ],
+  "geo": {
+    "lat": "42.633",
+    "lon": "74.563"
+  },
+  "metadata": {},
+  "source": {}
+}

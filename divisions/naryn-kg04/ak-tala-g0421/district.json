@@ -1,0 +1,49 @@
+{
+  "id": "KG04210000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ак-Талаа",
+    "en": "Ak-Tala",
+    "slug": "ak-tala-g0421"
+  },
+  "code": {
+    "id": "KG04210000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG04000000000",
+    "level": 1,
+    "name": {
+      "local": "Нарын",
+      "en": "Naryn",
+      "slug": "naryn-kg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 13
+  },
+  "zip_codes": [
+    "722500"
+  ],
+  "geo": {
+    "lat": "41.331",
+    "lon": "74.8"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "KG05236802000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Суу",
+      "en": "Ak-Suu",
+      "slug": "ak-suu-36802"
+    },
+    "code": {
+      "id": "KG05236802000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05236000000",
+      "level": 2,
+      "name": {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05236000000",
+        "level": 2,
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723016"
+    ],
+    "geo": {
+      "lat": "39.922",
+      "lon": "69.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05236804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бешкент",
+      "en": "Beshkent",
+      "slug": "beshkent-36804"
+    },
+    "code": {
+      "id": "KG05236804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05236000000",
+      "level": 2,
+      "name": {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05236000000",
+        "level": 2,
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720408"
+    ],
+    "geo": {
+      "lat": "40.082",
+      "lon": "69.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05236808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаңы-Жер",
+      "en": "Djany-Djer",
+      "slug": "djany-djer-36808"
+    },
+    "code": {
+      "id": "KG05236808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05236000000",
+      "level": 2,
+      "name": {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05236000000",
+        "level": 2,
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720400"
+    ],
+    "geo": {
+      "lat": "40.102",
+      "lon": "69.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05236610010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Исфана",
+      "en": "Isfana (city)",
+      "slug": "isfana-city-61001"
+    },
+    "code": {
+      "id": "KG05236610010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05236000000",
+      "level": 2,
+      "name": {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05236000000",
+        "level": 2,
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720400"
+    ],
+    "geo": {
+      "lat": "39.834",
+      "lon": "69.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05236818000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Катраң",
+      "en": "Katran",
+      "slug": "katran-36818"
+    },
+    "code": {
+      "id": "KG05236818000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05236000000",
+      "level": 2,
+      "name": {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05236000000",
+        "level": 2,
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720400"
+    ],
+    "geo": {
+      "lat": "39.847",
+      "lon": "70.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05236825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кулунду",
+      "en": "Kulundin",
+      "slug": "kulundin-36825"
+    },
+    "code": {
+      "id": "KG05236825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05236000000",
+      "level": 2,
+      "name": {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05236000000",
+        "level": 2,
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720419"
+    ],
+    "geo": {
+      "lat": "40.008",
+      "lon": "69.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05236816000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Лейлек",
+      "en": "Leylek",
+      "slug": "leylek-36816"
+    },
+    "code": {
+      "id": "KG05236816000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05236000000",
+      "level": 2,
+      "name": {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05236000000",
+        "level": 2,
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720402"
+    ],
+    "geo": {
+      "lat": "39.847",
+      "lon": "69.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05236806000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Маргун",
+      "en": "Margun",
+      "slug": "margun-36806"
+    },
+    "code": {
+      "id": "KG05236806000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05236000000",
+      "level": 2,
+      "name": {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05236000000",
+        "level": 2,
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720410"
+    ],
+    "geo": {
+      "lat": "40.108",
+      "lon": "69.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05236836000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сумбула",
+      "en": "Sumbulin",
+      "slug": "sumbulin-36836"
+    },
+    "code": {
+      "id": "KG05236836000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05236000000",
+      "level": 2,
+      "name": {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05236000000",
+        "level": 2,
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720400"
+    ],
+    "geo": {
+      "lat": "39.773",
+      "lon": "69.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05236842000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Тогуз-Булак",
+      "en": "Toguz-Bulak",
+      "slug": "toguz-bulak-36842"
+    },
+    "code": {
+      "id": "KG05236842000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05236000000",
+      "level": 2,
+      "name": {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05236000000",
+        "level": 2,
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720426"
+    ],
+    "geo": {
+      "lat": "39.837",
+      "lon": "69.743"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

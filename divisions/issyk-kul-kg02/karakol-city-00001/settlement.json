@@ -1,0 +1,58 @@
+[
+  {
+    "id": "KG02410520010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Пржевальск Пристаны",
+      "en": "Pristan-Prejeval'sk",
+      "slug": "pristan-prejevalsk-52001"
+    },
+    "code": {
+      "id": "KG02410520010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02410000010",
+      "level": 2,
+      "name": {
+        "local": "Каракол ш.",
+        "en": "Karakol (city)",
+        "slug": "karakol-city-00001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02410000010",
+        "level": 2,
+        "name": {
+          "local": "Каракол ш.",
+          "en": "Karakol (city)",
+          "slug": "karakol-city-00001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.576",
+      "lon": "78.311"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

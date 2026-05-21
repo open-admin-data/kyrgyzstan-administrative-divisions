@@ -1,0 +1,618 @@
+[
+  {
+    "id": "KG06246804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Алайкуу",
+      "en": "Alaykuu",
+      "slug": "alaykuu-46804"
+    },
+    "code": {
+      "id": "KG06246804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723200"
+    ],
+    "geo": {
+      "lat": "40.329",
+      "lon": "74.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246860000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чалма",
+      "en": "Chalma",
+      "slug": "chalma-24686"
+    },
+    "code": {
+      "id": "KG06246860000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723214"
+    ],
+    "geo": {
+      "lat": "40.495",
+      "lon": "73.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Капчыгай",
+      "en": "Kapchygay",
+      "slug": "kapchygay-46812"
+    },
+    "code": {
+      "id": "KG06246812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720101"
+    ],
+    "geo": {
+      "lat": "40.577",
+      "lon": "74.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246818000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Кочкор",
+      "en": "Kara-Kochkor",
+      "slug": "kara-kochkor-46818"
+    },
+    "code": {
+      "id": "KG06246818000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723200"
+    ],
+    "geo": {
+      "lat": "40.697",
+      "lon": "73.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Кулжа",
+      "en": "Kara-Kul'dja",
+      "slug": "kara-kuldja-24682"
+    },
+    "code": {
+      "id": "KG06246820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723200"
+    ],
+    "geo": {
+      "lat": "40.663",
+      "lon": "73.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246816000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Карагуз",
+      "en": "Karaguz",
+      "slug": "karaguz-46816"
+    },
+    "code": {
+      "id": "KG06246816000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723200"
+    ],
+    "geo": {
+      "lat": "40.545",
+      "lon": "73.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246861000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кашка-Жол",
+      "en": "Kashka-Jol",
+      "slug": "kashka-jol-46861"
+    },
+    "code": {
+      "id": "KG06246861000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723200"
+    ],
+    "geo": {
+      "lat": "40.683",
+      "lon": "73.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246826000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Жар",
+      "en": "Kyzyl-Jar",
+      "slug": "kyzyl-jar-46826"
+    },
+    "code": {
+      "id": "KG06246826000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723200"
+    ],
+    "geo": {
+      "lat": "40.35",
+      "lon": "74.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246838000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ой-Тал",
+      "en": "Oy-Tal",
+      "slug": "oy-tal-46838"
+    },
+    "code": {
+      "id": "KG06246838000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723200"
+    ],
+    "geo": {
+      "lat": "40.429",
+      "lon": "74.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246849000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сары-Булак",
+      "en": "Sary-Bulak",
+      "slug": "sary-bulak-46849"
+    },
+    "code": {
+      "id": "KG06246849000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723700"
+    ],
+    "geo": {
+      "lat": "40.461",
+      "lon": "73.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246834000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ылай-Талаа",
+      "en": "Ylay-Talaa",
+      "slug": "ylay-talaa-46834"
+    },
+    "code": {
+      "id": "KG06246834000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06246000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06246000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723200"
+    ],
+    "geo": {
+      "lat": "40.491",
+      "lon": "73.712"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

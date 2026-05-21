@@ -1,0 +1,506 @@
+# Chui — Kyrgyzstan Administrative Divisions
+
+> 9 districts, 113 settlements
+> Code: KG08000000000
+> Coordinates: 42.555, 74.622
+> Last updated: 2026-05-21. License: CC-BY-4.0.
+
+## Districts
+
+### Аламүдүн (Alamudun)
+
+Code: KG08203000000, Coordinates: 42.633, 74.563
+Settlements: 17
+
+#### Ак-Дөбө (Ak-Debe)
+
+Code: KG08203803000, Postal: 725200, Coordinates: 42.963, 74.684
+
+#### Ала-Арча (Ala-Archa)
+
+Code: KG08203805000, Postal: 725200, Coordinates: 43.052, 74.511
+
+#### Аламүдүн (Alamudun)
+
+Code: KG08203807000, Postal: 725200, Coordinates: 42.919, 74.629
+
+#### Арашан (Arashan)
+
+Code: KG08203809000, Postal: 724108, Coordinates: 42.66, 74.634
+
+#### Байтик (Baitik)
+
+Code: KG08203855000, Postal: 724306, Coordinates: 42.71, 74.483
+
+#### Гроздь (Grozd)
+
+Code: KG08203819000, Postal: 724311, Coordinates: 43.028, 74.596
+
+#### Кара-Жыгач (Kara-Djygach)
+
+Code: KG08203826000, Postal: 725200, Coordinates: 42.816, 74.715
+
+#### Көк-Жар (Kek-Djar)
+
+Code: KG08203828000, Postal: 725200, Coordinates: 42.822, 74.658
+
+#### Лебединовка (Lebedinovka)
+
+Code: KG08203831000, Postal: 724300, Coordinates: 42.906, 74.687
+
+#### Ленин (Lenin)
+
+Code: KG08203834000, Postal: 725022, Coordinates: 42.974, 74.649
+
+#### Маевка (Maevka)
+
+Code: KG08203838000, Postal: 724315, Coordinates: 42.958, 74.554
+
+#### Төмөнкү Ала-Арча (Nizhnyaya Alaarcha)
+
+Code: KG08203845000, Postal: 725200, Coordinates: 42.947, 74.605
+
+#### Октябрь (Oktyabr&#39;)
+
+Code: KG08203852000, Postal: 723003, Coordinates: 43.117, 74.483
+
+#### Пригородное (Prigorodnoe)
+
+Code: KG08203859000, Postal: 724327, Coordinates: 42.982, 74.518
+
+#### Таш-Дөбө (Tash-Debe)
+
+Code: KG08203864000, Postal: 725200, Coordinates: 42.722, 74.584
+
+#### Таш-Мойнок (Tash-Moynok)
+
+Code: KG08203866000, Postal: 724315, Coordinates: 42.692, 74.706
+
+#### Васильевка (Vasilevka)
+
+Code: KG08203814000, Postal: 724308, Coordinates: 43.102, 74.555
+
+### Чүй (Chui)
+
+Code: KG08223000000, Coordinates: 42.649, 75.305
+Settlements: 10
+
+#### Ак-Бешим (Ak-Beshim)
+
+Code: KG08223804000, Postal: 725300, Coordinates: 42.808, 75.222
+
+#### Бурана (Burana)
+
+Code: KG08223809000, Postal: 724919, Coordinates: 42.765, 75.212
+
+#### Чүй (Chuy)
+
+Code: KG08223863000, Postal: 725300, Coordinates: 42.755, 75.356
+
+#### Ибраимов (Ibraimov)
+
+Code: KG08223815000, Postal: 725300, Coordinates: 42.687, 75.308
+
+#### Искра (Iskra)
+
+Code: KG08223812000, Postal: 720403, Coordinates: 42.798, 75.408
+
+#### Кегети (Kegeti)
+
+Code: KG08223820000, Postal: 724901, Coordinates: 42.661, 75.205
+
+#### Кош-Коргон (Kosh-Korgon)
+
+Code: KG08223825000, Postal: 725300, Coordinates: 42.752, 75.458
+
+#### Он Бир-Жылга (Onbir-Djylga)
+
+Code: KG08223840000, Postal: 725300, Coordinates: 42.658, 75.442
+
+#### Сайлык (Saylyk)
+
+Code: KG08223845000, Postal: 724904, Coordinates: 42.825, 75.368
+
+#### Шамшы (Shamshy)
+
+Code: KG08223868000, Postal: 725300, Coordinates: 42.623, 75.37
+
+### Жайыл (Jaiyl)
+
+Code: KG08209000000, Coordinates: 42.074, 74.097
+Settlements: 13
+
+#### Ак-Башат (Ak-Bashat)
+
+Code: KG08209822000, Postal: 724400, Coordinates: 42.911, 73.907
+
+#### Жайыл (Jayyl)
+
+Code: KG08209811000, Postal: 724400, Coordinates: 42.837, 73.809
+
+#### Кара-Балта (Kara-Balta (city))
+
+Code: KG08209600010, Postal: 724400, Coordinates: 42.802, 73.852
+
+#### Кара-Суу (Kara-Suu)
+
+Code: KG08209812000, Postal: 724400, Coordinates: 43.043, 73.882
+
+#### Красновосточный (Krasnovostochnyy)
+
+Code: KG08209814000, Postal: 724400, Coordinates: 42.897, 73.733
+
+#### Кызыл-Дыйкан (Kyzyl-Dyykan)
+
+Code: KG08209817000, Postal: 724400, Coordinates: 42.65, 73.979
+
+#### Полтавка (Poltavka)
+
+Code: KG08209829000, Postal: 724400, Coordinates: 42.859, 73.959
+
+#### Сары-Булак (Sary-Bulak)
+
+Code: KG08209840000, Postal: 723700, Coordinates: 42.648, 73.86
+
+#### Сары-Коо (Sary-Koo)
+
+Code: KG08209838000, Postal: 724400, Coordinates: 42.923, 73.848
+
+#### Сосновка (Sosnovka)
+
+Code: KG08209844000, Postal: 724400, Coordinates: 42.639, 73.928
+
+#### Степное (Stepnoe)
+
+Code: KG08209848000, Postal: 724328, Coordinates: 43.146, 73.977
+
+#### Суусамыр (Suusamyr)
+
+Code: KG08209830000, Postal: 724400, Coordinates: 42.074, 74.097
+
+#### Талды-Булак (Taldy-Bulak)
+
+Code: KG08209857000, Postal: 724400, Coordinates: 42.747, 73.907
+
+### Кемин (Kemin)
+
+Code: KG08213000000, Coordinates: 42.717, 75.901
+Settlements: 14
+
+#### Дүйшеев (A. Duysheev)
+
+Code: KG08213826000, Postal: 724500, Coordinates: 42.842, 75.929
+
+#### Ак-Түз (Ak-Tyuz)
+
+Code: KG08213845000, Postal: 724500, Coordinates: 42.878, 76.138
+
+#### Алмалуу (Almaly)
+
+Code: KG08213804000, Postal: 725004, Coordinates: 42.707, 75.514
+
+#### Бордун (Bordun)
+
+Code: KG08213530020, Postal: 724500, Coordinates: 42.654, 75.6
+
+#### Боролдой (Boroldoy)
+
+Code: KG08213808000, Postal: 724505, Coordinates: 42.832, 75.867
+
+#### Чоң-Кемин (Chon-Kemin)
+
+Code: KG08213842000, Postal: 724500, Coordinates: 42.728, 76.056
+
+#### Чым-Коргон (Chym-Korgon)
+
+Code: KG08213839000, Postal: 724500, Coordinates: 42.799, 75.498
+
+#### Жаңы-Алыш (Djany-Alysh)
+
+Code: KG08213813000, Postal: 724500, Coordinates: 42.798, 75.586
+
+#### Ильич (Il&#39;ich)
+
+Code: KG08213817000, Postal: 724500, Coordinates: 42.814, 76.008
+
+#### Кара-Булак (Kara-Bulak)
+
+Code: KG08213820000, Postal: 720107, Coordinates: 42.811, 75.782
+
+#### Көк-Ойрок (Kek-Oyrok)
+
+Code: KG08213823000, Postal: 724500, Coordinates: 42.815, 76.273
+
+#### Кемин (Kemin (city))
+
+Code: KG08213600020, Postal: 724500, Coordinates: 42.783, 75.69
+
+#### Кызыл-Октябрь (Kyzyl-Oktyabr)
+
+Code: KG08213830000, Postal: 724500, Coordinates: 42.76, 75.725
+
+#### Орловка (Orlovka (city))
+
+Code: KG08213600010, Postal: 723808, Coordinates: 42.724, 75.6
+
+### Москва (Moscow)
+
+Code: KG08217000000, Coordinates: 42.777, 74.041
+Settlements: 12
+
+#### Ак-Суу (Ak-Suu)
+
+Code: KG08217804000, Postal: 723016, Coordinates: 42.695, 74.039
+
+#### Александровка (Aleksandrovka)
+
+Code: KG08217809000, Postal: 724604, Coordinates: 42.893, 74.226
+
+#### Беловодское (Belovodskoe)
+
+Code: KG08217813000, Postal: 724600, Coordinates: 42.826, 74.108
+
+#### Беш-Терек (Besh-Terek)
+
+Code: KG08217811000, Postal: 722709, Coordinates: 43.042, 73.98
+
+#### Чапаев (Chapaev)
+
+Code: KG08217849000, Postal: 725300, Coordinates: 43.04, 74.126
+
+#### Биринчи Май (Pervomay)
+
+Code: KG08217828000, Postal: 722608, Coordinates: 42.801, 74.019
+
+#### Петровка (Petrovka)
+
+Code: KG08217824000, Postal: 724616, Coordinates: 42.866, 74.028
+
+#### Предтеченка (Predtechenka)
+
+Code: KG08217832000, Postal: 724618, Coordinates: 42.963, 74.058
+
+#### Садовый (Sadovyy)
+
+Code: KG08217837000, Postal: 725300, Coordinates: 42.87, 74.164
+
+#### Сретенка (Sretenka)
+
+Code: KG08217840000, Postal: 724621, Coordinates: 42.948, 74.126
+
+#### Төлөк (Telek)
+
+Code: KG08217842000, Postal: 725300, Coordinates: 43.144, 74.069
+
+#### Целинный (Tselinnyy)
+
+Code: KG08217845000, Postal: 725300, Coordinates: 43.074, 74.057
+
+### Панфилов (Panfilov)
+
+Code: KG08219000000, Coordinates: 42.205, 73.375
+Settlements: 8
+
+#### Чалдыбар (Chaldybar)
+
+Code: KG08219855000, Postal: 724715, Coordinates: 42.999, 73.63
+
+#### Фрунзе (Frunze)
+
+Code: KG08219849000, Postal: 720220, Coordinates: 42.809, 73.563
+
+#### Каинды (Kaindy (city))
+
+Code: KG08219600010, Postal: 724001, Coordinates: 42.825, 73.693
+
+#### Курама (Kurama)
+
+Code: KG08219836000, Postal: 721208, Coordinates: 42.801, 73.671
+
+#### Күрпүлдөк (Kyurpyuldek)
+
+Code: KG08219820000, Postal: 724700, Coordinates: 42.899, 73.584
+
+#### Ортоев (Ortoev)
+
+Code: KG08219830000, Postal: 724700, Coordinates: 42.736, 73.742
+
+#### Белгисиз (Unknown)
+
+Code: KG08219000907, Postal: 724700, Coordinates: 42.713, 73.809
+
+#### Вознесеновка (Voznesenovka)
+
+Code: KG08219811000, Postal: 724702, Coordinates: 42.827, 73.776
+
+### Сокулук (Sokuluk)
+
+Code: KG08222000000, Coordinates: 42.849, 74.391
+Settlements: 20
+
+#### Асылбаш (Asylbash)
+
+Code: KG08222829000, Postal: 724800, Coordinates: 42.728, 74.185
+
+#### Ат-Башы (At-Bashy)
+
+Code: KG08222805000, Postal: 724800, Coordinates: 43.024, 74.361
+
+#### Жаңы-Жер (Djany-Djer)
+
+Code: KG08222822000, Postal: 724800, Coordinates: 43.124, 74.382
+
+#### Жаңы-Пахта (Djany-Pakhty)
+
+Code: KG08222826000, Postal: 724800, Coordinates: 43.117, 74.221
+
+#### Фрунзе (Frunze)
+
+Code: KG08222869000, Postal: 720220, Coordinates: 42.963, 74.397
+
+#### Гавриловка (Gavrilovka)
+
+Code: KG08222817000, Postal: 724807, Coordinates: 42.798, 74.327
+
+#### Камышановка (Kamyshanovka)
+
+Code: KG08222828000, Postal: 724811, Coordinates: 43.207, 74.256
+
+#### Кайназарова атындагы (Kaynazarovoy)
+
+Code: KG08222872000, Postal: 724800, Coordinates: 42.965, 74.325
+
+#### Крупская (Krupskaya)
+
+Code: KG08222834000, Postal: 723004, Coordinates: 42.895, 74.272
+
+#### Күн-Туу (Kuntuu)
+
+Code: KG08222832000, Postal: 724800, Coordinates: 42.778, 74.447
+
+#### Кызыл-Туу (Kyzyl-Tuu)
+
+Code: KG08222838000, Postal: 724800, Coordinates: 42.795, 74.379
+
+#### Төмөнкү Чүй (Nijnechuy)
+
+Code: KG08222846000, Postal: 724800, Coordinates: 43.17, 74.359
+
+#### Новопавловка (Novopavlovka)
+
+Code: KG08222849000, Postal: 724817, Coordinates: 43.046, 74.442
+
+#### Орок (Orok)
+
+Code: KG08222856000, Postal: 724800, Coordinates: 42.812, 74.512
+
+#### Биринчи Май (Pervomay)
+
+Code: KG08222860000, Postal: 722608, Coordinates: 42.907, 74.34
+
+#### Саз (Saz)
+
+Code: KG08222852000, Postal: 724818, Coordinates: 42.743, 74.248
+
+#### Шопоков (Shopokov (city))
+
+Code: KG08222600010, Postal: 724800, Coordinates: 42.86, 74.34
+
+#### Сокулук (Sokuluk)
+
+Code: KG08222865000, Postal: 724800, Coordinates: 42.867, 74.31
+
+#### Төш-Булак (Tosh-Bulak)
+
+Code: KG08222809000, Postal: 724800, Coordinates: 42.674, 74.229
+
+#### Военна-Антоновка (Voenno-Antonovka)
+
+Code: KG08222813000, Postal: 724800, Coordinates: 42.869, 74.432
+
+### Токмок ш. (Tokmok (city))
+
+Code: KG08400000010, Coordinates: 42.821, 75.322
+Settlements: 0
+
+### Ысык-Ата (Ysyk-Ata)
+
+Code: KG08206000000, Coordinates: 42.711, 74.953
+Settlements: 19
+
+#### Ак-Кудук (Ak-Kuduk)
+
+Code: KG08206803000, Postal: 725100, Coordinates: 42.943, 74.827
+
+#### Бирдик (Birdik)
+
+Code: KG08206810000, Postal: 721203, Coordinates: 42.97, 74.899
+
+#### Жээк (Djeek)
+
+Code: KG08206818000, Postal: 725100, Coordinates: 42.894, 74.893
+
+#### Интернационал (Internatsional)
+
+Code: KG08206821000, Postal: 725100, Coordinates: 42.786, 74.913
+
+#### Ысык-Ата (Issyk-Ata)
+
+Code: KG08206822000, Postal: 725031, Coordinates: 42.653, 74.908
+
+#### Ивановка (Ivanovka)
+
+Code: KG08206812000, Postal: 725008, Coordinates: 42.855, 75.081
+
+#### Кант (Kant (city))
+
+Code: KG08206600010, Postal: 725000, Coordinates: 42.899, 74.849
+
+#### Кең-Булуң (Ken-Bulun)
+
+Code: KG08206820000, Postal: 725100, Coordinates: 42.83, 75.148
+
+#### Кочкорбаев (Kochkorbaev)
+
+Code: KG08206838000, Postal: 725100, Coordinates: 42.89, 74.936
+
+#### Красная-Речка (Krasnya-Rechka)
+
+Code: KG08206823000, Postal: 725100, Coordinates: 42.893, 74.994
+
+#### Логвиненко (Logvinenko)
+
+Code: KG08206836000, Postal: 725100, Coordinates: 42.808, 74.805
+
+#### Люксембург (Lyuksemburg)
+
+Code: KG08206839000, Postal: 725020, Coordinates: 42.868, 74.83
+
+#### Милянфан (Milyanfan)
+
+Code: KG08206842000, Postal: 725021, Coordinates: 42.973, 74.773
+
+#### Новопокровка (Novopokrovka)
+
+Code: KG08206848000, Postal: 725022, Coordinates: 42.832, 74.757
+
+#### Нурманбет (Nurmanbet)
+
+Code: KG08206816000, Postal: 725025, Coordinates: 42.779, 75.002
+
+#### Сын-Таш (Syn-Tash)
+
+Code: KG08206846000, Postal: 725028, Coordinates: 42.737, 75.096
+
+#### Туз (Tuz)
+
+Code: KG08206870000, Postal: 722815, Coordinates: 42.756, 74.852
+
+#### Узун-Кыр (Uzun-Kyr)
+
+Code: KG08206873000, Postal: 725100, Coordinates: 42.947, 74.728
+
+#### Юрьевка (Yurevka)
+
+Code: KG08206852000, Postal: 725032, Coordinates: 42.729, 75.034
+

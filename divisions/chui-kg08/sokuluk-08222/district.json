@@ -1,0 +1,49 @@
+{
+  "id": "KG08222000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Сокулук",
+    "en": "Sokuluk",
+    "slug": "sokuluk-08222"
+  },
+  "code": {
+    "id": "KG08222000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG08000000000",
+    "level": 1,
+    "name": {
+      "local": "Чүй",
+      "en": "Chui",
+      "slug": "chui-kg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 20
+  },
+  "zip_codes": [
+    "724800"
+  ],
+  "geo": {
+    "lat": "42.849",
+    "lon": "74.391"
+  },
+  "metadata": {},
+  "source": {}
+}

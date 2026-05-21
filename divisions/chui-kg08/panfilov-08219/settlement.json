@@ -1,0 +1,450 @@
+[
+  {
+    "id": "KG08219855000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чалдыбар",
+      "en": "Chaldybar",
+      "slug": "chaldybar-19855"
+    },
+    "code": {
+      "id": "KG08219855000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08219000000",
+      "level": 2,
+      "name": {
+        "local": "Панфилов",
+        "en": "Panfilov",
+        "slug": "panfilov-08219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08219000000",
+        "level": 2,
+        "name": {
+          "local": "Панфилов",
+          "en": "Panfilov",
+          "slug": "panfilov-08219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724715"
+    ],
+    "geo": {
+      "lat": "42.999",
+      "lon": "73.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08219849000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Фрунзе",
+      "en": "Frunze",
+      "slug": "frunze-19849"
+    },
+    "code": {
+      "id": "KG08219849000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08219000000",
+      "level": 2,
+      "name": {
+        "local": "Панфилов",
+        "en": "Panfilov",
+        "slug": "panfilov-08219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08219000000",
+        "level": 2,
+        "name": {
+          "local": "Панфилов",
+          "en": "Panfilov",
+          "slug": "panfilov-08219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720220"
+    ],
+    "geo": {
+      "lat": "42.809",
+      "lon": "73.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08219600010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Каинды",
+      "en": "Kaindy (city)",
+      "slug": "kaindy-city-60001"
+    },
+    "code": {
+      "id": "KG08219600010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08219000000",
+      "level": 2,
+      "name": {
+        "local": "Панфилов",
+        "en": "Panfilov",
+        "slug": "panfilov-08219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08219000000",
+        "level": 2,
+        "name": {
+          "local": "Панфилов",
+          "en": "Panfilov",
+          "slug": "panfilov-08219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724001"
+    ],
+    "geo": {
+      "lat": "42.825",
+      "lon": "73.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08219836000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Курама",
+      "en": "Kurama",
+      "slug": "kurama-19836"
+    },
+    "code": {
+      "id": "KG08219836000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08219000000",
+      "level": 2,
+      "name": {
+        "local": "Панфилов",
+        "en": "Panfilov",
+        "slug": "panfilov-08219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08219000000",
+        "level": 2,
+        "name": {
+          "local": "Панфилов",
+          "en": "Panfilov",
+          "slug": "panfilov-08219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721208"
+    ],
+    "geo": {
+      "lat": "42.801",
+      "lon": "73.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08219820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Күрпүлдөк",
+      "en": "Kyurpyuldek",
+      "slug": "kyurpyuldek-21982"
+    },
+    "code": {
+      "id": "KG08219820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08219000000",
+      "level": 2,
+      "name": {
+        "local": "Панфилов",
+        "en": "Panfilov",
+        "slug": "panfilov-08219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08219000000",
+        "level": 2,
+        "name": {
+          "local": "Панфилов",
+          "en": "Panfilov",
+          "slug": "panfilov-08219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724700"
+    ],
+    "geo": {
+      "lat": "42.899",
+      "lon": "73.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08219830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ортоев",
+      "en": "Ortoev",
+      "slug": "ortoev-21983"
+    },
+    "code": {
+      "id": "KG08219830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08219000000",
+      "level": 2,
+      "name": {
+        "local": "Панфилов",
+        "en": "Panfilov",
+        "slug": "panfilov-08219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08219000000",
+        "level": 2,
+        "name": {
+          "local": "Панфилов",
+          "en": "Panfilov",
+          "slug": "panfilov-08219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724700"
+    ],
+    "geo": {
+      "lat": "42.736",
+      "lon": "73.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08219000907",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Белгисиз",
+      "en": "Unknown",
+      "slug": "unknown-00907"
+    },
+    "code": {
+      "id": "KG08219000907",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08219000000",
+      "level": 2,
+      "name": {
+        "local": "Панфилов",
+        "en": "Panfilov",
+        "slug": "panfilov-08219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08219000000",
+        "level": 2,
+        "name": {
+          "local": "Панфилов",
+          "en": "Panfilov",
+          "slug": "panfilov-08219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724700"
+    ],
+    "geo": {
+      "lat": "42.713",
+      "lon": "73.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08219811000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Вознесеновка",
+      "en": "Voznesenovka",
+      "slug": "voznesenovka-19811"
+    },
+    "code": {
+      "id": "KG08219811000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08219000000",
+      "level": 2,
+      "name": {
+        "local": "Панфилов",
+        "en": "Panfilov",
+        "slug": "panfilov-08219"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08219000000",
+        "level": 2,
+        "name": {
+          "local": "Панфилов",
+          "en": "Panfilov",
+          "slug": "panfilov-08219"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724702"
+    ],
+    "geo": {
+      "lat": "42.827",
+      "lon": "73.776"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

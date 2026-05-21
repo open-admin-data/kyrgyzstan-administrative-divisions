@@ -1,0 +1,345 @@
+[
+  {
+    "id": "KG06207000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Алай",
+      "en": "Alai",
+      "slug": "alai-06207"
+    },
+    "code": {
+      "id": "KG06207000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 11
+    },
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "39.925",
+      "lon": "73.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06211000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Араван",
+      "en": "Aravan",
+      "slug": "aravan-06211"
+    },
+    "code": {
+      "id": "KG06211000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 6
+    },
+    "zip_codes": [
+      "723100"
+    ],
+    "geo": {
+      "lat": "40.48",
+      "lon": "72.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06259000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Чоӊ-Алай",
+      "en": "Chon-Alai",
+      "slug": "chon-alai-06259"
+    },
+    "code": {
+      "id": "KG06259000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 3
+    },
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "39.507",
+      "lon": "72.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06246000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Кара-Кулжа",
+      "en": "Kara-Kulja",
+      "slug": "kara-kulja-06246"
+    },
+    "code": {
+      "id": "KG06246000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 11
+    },
+    "zip_codes": [
+      "723200"
+    ],
+    "geo": {
+      "lat": "40.436",
+      "lon": "74.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Кара-Суу",
+      "en": "Kara-Suu",
+      "slug": "kara-suu-06226"
+    },
+    "code": {
+      "id": "KG06226000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 16
+    },
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.292",
+      "lon": "73.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ноокат",
+      "en": "Nookat",
+      "slug": "nookat-06242"
+    },
+    "code": {
+      "id": "KG06242000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 14
+    },
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.106",
+      "lon": "72.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Өзгөн",
+      "en": "Uzgen",
+      "slug": "uzgen-06255"
+    },
+    "code": {
+      "id": "KG06255000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 18
+    },
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.808",
+      "lon": "73.67"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

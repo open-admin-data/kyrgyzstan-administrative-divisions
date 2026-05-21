@@ -1,0 +1,618 @@
+[
+  {
+    "id": "KG06207804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "К.Белекбаев атындагы Алай",
+      "en": "Alay (K.Belekbaeva)",
+      "slug": "alay-kbelekbaeva-07804"
+    },
+    "code": {
+      "id": "KG06207804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "39.995",
+      "lon": "73.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06207809000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Будалык",
+      "en": "Budalyk",
+      "slug": "budalyk-07809"
+    },
+    "code": {
+      "id": "KG06207809000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "40.269",
+      "lon": "73.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06207811000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бүлөлү",
+      "en": "Byuleli",
+      "slug": "byuleli-07811"
+    },
+    "code": {
+      "id": "KG06207811000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "40.182",
+      "lon": "73.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06207818000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жошолу",
+      "en": "Djosholu",
+      "slug": "djosholu-07818"
+    },
+    "code": {
+      "id": "KG06207818000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "40.338",
+      "lon": "73.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06207814000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Гүлчө",
+      "en": "Gulchi",
+      "slug": "gulchi-07814"
+    },
+    "code": {
+      "id": "KG06207814000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "40.274",
+      "lon": "73.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06207822000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Коңур-Дөбө",
+      "en": "Konur-Dobe",
+      "slug": "konur-dobe-07822"
+    },
+    "code": {
+      "id": "KG06207822000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "40.343",
+      "lon": "73.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06207825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Корул",
+      "en": "Korul",
+      "slug": "korul-07825"
+    },
+    "code": {
+      "id": "KG06207825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "40.402",
+      "lon": "73.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06207830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ленин",
+      "en": "Lenin",
+      "slug": "lenin-20783"
+    },
+    "code": {
+      "id": "KG06207830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725022"
+    ],
+    "geo": {
+      "lat": "40.143",
+      "lon": "73.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06207844000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сары-Таш",
+      "en": "Sary-Tash",
+      "slug": "sary-tash-07844"
+    },
+    "code": {
+      "id": "KG06207844000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "39.733",
+      "lon": "73.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06207838000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Талды-Суу",
+      "en": "Taldy-Suu",
+      "slug": "taldy-suu-07838"
+    },
+    "code": {
+      "id": "KG06207838000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "39.749",
+      "lon": "73.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06207840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Үч-Дөбө",
+      "en": "Uch-Debe",
+      "slug": "uch-debe-20784"
+    },
+    "code": {
+      "id": "KG06207840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06207000000",
+      "level": 2,
+      "name": {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06207000000",
+        "level": 2,
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "39.876",
+      "lon": "73.36"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

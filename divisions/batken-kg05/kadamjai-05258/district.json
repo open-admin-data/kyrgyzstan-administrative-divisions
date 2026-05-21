@@ -1,0 +1,49 @@
+{
+  "id": "KG05258000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Кадамжай",
+    "en": "Kadamjai",
+    "slug": "kadamjai-05258"
+  },
+  "code": {
+    "id": "KG05258000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG05000000000",
+    "level": 1,
+    "name": {
+      "local": "Баткен",
+      "en": "Batken",
+      "slug": "batken-kg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG05000000000",
+      "level": 1,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 14
+  },
+  "zip_codes": [
+    "720200"
+  ],
+  "geo": {
+    "lat": "39.998",
+    "lon": "71.491"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,49 @@
+{
+  "id": "KG06255000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Өзгөн",
+    "en": "Uzgen",
+    "slug": "uzgen-06255"
+  },
+  "code": {
+    "id": "KG06255000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG06000000000",
+    "level": 1,
+    "name": {
+      "local": "Ош",
+      "en": "Osh",
+      "slug": "osh-kg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 18
+  },
+  "zip_codes": [
+    "723400"
+  ],
+  "geo": {
+    "lat": "40.808",
+    "lon": "73.67"
+  },
+  "metadata": {},
+  "source": {}
+}

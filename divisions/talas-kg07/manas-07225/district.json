@@ -1,0 +1,49 @@
+{
+  "id": "KG07225000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Манас",
+    "en": "Manas",
+    "slug": "manas-07225"
+  },
+  "code": {
+    "id": "KG07225000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG07000000000",
+    "level": 1,
+    "name": {
+      "local": "Талас",
+      "en": "Talas",
+      "slug": "talas-kg07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG07000000000",
+      "level": 1,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-kg07"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 5
+  },
+  "zip_codes": [
+    "720900"
+  ],
+  "geo": {
+    "lat": "42.694",
+    "lon": "71.807"
+  },
+  "metadata": {},
+  "source": {}
+}

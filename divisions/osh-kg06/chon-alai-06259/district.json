@@ -1,0 +1,49 @@
+{
+  "id": "KG06259000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Чоӊ-Алай",
+    "en": "Chon-Alai",
+    "slug": "chon-alai-06259"
+  },
+  "code": {
+    "id": "KG06259000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG06000000000",
+    "level": 1,
+    "name": {
+      "local": "Ош",
+      "en": "Osh",
+      "slug": "osh-kg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 3
+  },
+  "zip_codes": [
+    "723000"
+  ],
+  "geo": {
+    "lat": "39.507",
+    "lon": "72.231"
+  },
+  "metadata": {},
+  "source": {}
+}

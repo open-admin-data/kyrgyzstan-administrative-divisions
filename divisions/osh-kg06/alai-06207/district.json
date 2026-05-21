@@ -1,0 +1,49 @@
+{
+  "id": "KG06207000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Алай",
+    "en": "Alai",
+    "slug": "alai-06207"
+  },
+  "code": {
+    "id": "KG06207000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG06000000000",
+    "level": 1,
+    "name": {
+      "local": "Ош",
+      "en": "Osh",
+      "slug": "osh-kg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 11
+  },
+  "zip_codes": [
+    "723000"
+  ],
+  "geo": {
+    "lat": "39.925",
+    "lon": "73.569"
+  },
+  "metadata": {},
+  "source": {}
+}

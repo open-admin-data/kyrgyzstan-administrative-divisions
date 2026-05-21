@@ -1,0 +1,170 @@
+[
+  {
+    "id": "KG06259851000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чоң-Алай",
+      "en": "Chon-Alay",
+      "slug": "chon-alay-59851"
+    },
+    "code": {
+      "id": "KG06259851000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06259000000",
+      "level": 2,
+      "name": {
+        "local": "Чоӊ-Алай",
+        "en": "Chon-Alai",
+        "slug": "chon-alai-06259"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06259000000",
+        "level": 2,
+        "name": {
+          "local": "Чоӊ-Алай",
+          "en": "Chon-Alai",
+          "slug": "chon-alai-06259"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "39.48",
+      "lon": "71.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06259816000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жекенди",
+      "en": "Jekendi",
+      "slug": "jekendi-59816"
+    },
+    "code": {
+      "id": "KG06259816000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06259000000",
+      "level": 2,
+      "name": {
+        "local": "Чоӊ-Алай",
+        "en": "Chon-Alai",
+        "slug": "chon-alai-06259"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06259000000",
+        "level": 2,
+        "name": {
+          "local": "Чоӊ-Алай",
+          "en": "Chon-Alai",
+          "slug": "chon-alai-06259"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723702"
+    ],
+    "geo": {
+      "lat": "39.559",
+      "lon": "72.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06259824000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кашка-Суу",
+      "en": "Kashka-Suu",
+      "slug": "kashka-suu-59824"
+    },
+    "code": {
+      "id": "KG06259824000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06259000000",
+      "level": 2,
+      "name": {
+        "local": "Чоӊ-Алай",
+        "en": "Chon-Alai",
+        "slug": "chon-alai-06259"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06259000000",
+        "level": 2,
+        "name": {
+          "local": "Чоӊ-Алай",
+          "en": "Chon-Alai",
+          "slug": "chon-alai-06259"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723000"
+    ],
+    "geo": {
+      "lat": "39.545",
+      "lon": "72.446"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

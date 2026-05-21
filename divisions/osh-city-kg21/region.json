@@ -1,0 +1,30 @@
+{
+  "id": "KG21000000000",
+  "level": 1,
+  "level_name": {
+    "local": "Область",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ош ш.",
+    "en": "Osh (city)",
+    "slug": "osh-city-kg21"
+  },
+  "code": {
+    "id": "KG21000000000",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 0,
+    "settlement": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "40.531",
+    "lon": "72.795"
+  },
+  "metadata": {},
+  "source": {}
+}

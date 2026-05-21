@@ -1,0 +1,506 @@
+[
+  {
+    "id": "KG03207808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Акман",
+      "en": "Akman",
+      "slug": "akman-07808"
+    },
+    "code": {
+      "id": "KG03207808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03207000000",
+      "level": 2,
+      "name": {
+        "local": "Базар-Коргон",
+        "en": "Bazar-Korgon",
+        "slug": "bazar-korgon-03207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03207000000",
+        "level": 2,
+        "name": {
+          "local": "Базар-Коргон",
+          "en": "Bazar-Korgon",
+          "slug": "bazar-korgon-03207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720800"
+    ],
+    "geo": {
+      "lat": "40.986",
+      "lon": "72.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03207826000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Арстанбап",
+      "en": "Arstanbap",
+      "slug": "arstanbap-07826"
+    },
+    "code": {
+      "id": "KG03207826000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03207000000",
+      "level": 2,
+      "name": {
+        "local": "Базар-Коргон",
+        "en": "Bazar-Korgon",
+        "slug": "bazar-korgon-03207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03207000000",
+        "level": 2,
+        "name": {
+          "local": "Базар-Коргон",
+          "en": "Bazar-Korgon",
+          "slug": "bazar-korgon-03207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720800"
+    ],
+    "geo": {
+      "lat": "41.336",
+      "lon": "72.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03207812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Базар-Коргон",
+      "en": "Bazar-Korgon",
+      "slug": "bazar-korgon-07812"
+    },
+    "code": {
+      "id": "KG03207812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03207000000",
+      "level": 2,
+      "name": {
+        "local": "Базар-Коргон",
+        "en": "Bazar-Korgon",
+        "slug": "bazar-korgon-03207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03207000000",
+        "level": 2,
+        "name": {
+          "local": "Базар-Коргон",
+          "en": "Bazar-Korgon",
+          "slug": "bazar-korgon-03207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720800"
+    ],
+    "geo": {
+      "lat": "40.997",
+      "lon": "72.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03207815000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бешик-Жон",
+      "en": "Beshik-Jon",
+      "slug": "beshik-jon-07815"
+    },
+    "code": {
+      "id": "KG03207815000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03207000000",
+      "level": 2,
+      "name": {
+        "local": "Базар-Коргон",
+        "en": "Bazar-Korgon",
+        "slug": "bazar-korgon-03207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03207000000",
+        "level": 2,
+        "name": {
+          "local": "Базар-Коргон",
+          "en": "Bazar-Korgon",
+          "slug": "bazar-korgon-03207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720800"
+    ],
+    "geo": {
+      "lat": "41.059",
+      "lon": "72.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03207859000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кеңеш",
+      "en": "Kenesh",
+      "slug": "kenesh-07859"
+    },
+    "code": {
+      "id": "KG03207859000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03207000000",
+      "level": 2,
+      "name": {
+        "local": "Базар-Коргон",
+        "en": "Bazar-Korgon",
+        "slug": "bazar-korgon-03207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03207000000",
+        "level": 2,
+        "name": {
+          "local": "Базар-Коргон",
+          "en": "Bazar-Korgon",
+          "slug": "bazar-korgon-03207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720800"
+    ],
+    "geo": {
+      "lat": "41.138",
+      "lon": "72.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03207832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Үңкүр",
+      "en": "Kyzyl-Unkyur",
+      "slug": "kyzyl-unkyur-07832"
+    },
+    "code": {
+      "id": "KG03207832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03207000000",
+      "level": 2,
+      "name": {
+        "local": "Базар-Коргон",
+        "en": "Bazar-Korgon",
+        "slug": "bazar-korgon-03207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03207000000",
+        "level": 2,
+        "name": {
+          "local": "Базар-Коргон",
+          "en": "Bazar-Korgon",
+          "slug": "bazar-korgon-03207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720800"
+    ],
+    "geo": {
+      "lat": "41.436",
+      "lon": "73.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03207842000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Могол",
+      "en": "Mogol",
+      "slug": "mogol-07842"
+    },
+    "code": {
+      "id": "KG03207842000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03207000000",
+      "level": 2,
+      "name": {
+        "local": "Базар-Коргон",
+        "en": "Bazar-Korgon",
+        "slug": "bazar-korgon-03207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03207000000",
+        "level": 2,
+        "name": {
+          "local": "Базар-Коргон",
+          "en": "Bazar-Korgon",
+          "slug": "bazar-korgon-03207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720800"
+    ],
+    "geo": {
+      "lat": "41.241",
+      "lon": "72.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03207856000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сайдыкум",
+      "en": "Saydykum",
+      "slug": "saydykum-07856"
+    },
+    "code": {
+      "id": "KG03207856000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03207000000",
+      "level": 2,
+      "name": {
+        "local": "Базар-Коргон",
+        "en": "Bazar-Korgon",
+        "slug": "bazar-korgon-03207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03207000000",
+        "level": 2,
+        "name": {
+          "local": "Базар-Коргон",
+          "en": "Bazar-Korgon",
+          "slug": "bazar-korgon-03207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720800"
+    ],
+    "geo": {
+      "lat": "40.957",
+      "lon": "72.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03207857000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Талдуу-Булак",
+      "en": "Talduu-Bulak",
+      "slug": "talduu-bulak-07857"
+    },
+    "code": {
+      "id": "KG03207857000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03207000000",
+      "level": 2,
+      "name": {
+        "local": "Базар-Коргон",
+        "en": "Bazar-Korgon",
+        "slug": "bazar-korgon-03207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03207000000",
+        "level": 2,
+        "name": {
+          "local": "Базар-Коргон",
+          "en": "Bazar-Korgon",
+          "slug": "bazar-korgon-03207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720800"
+    ],
+    "geo": {
+      "lat": "41.28",
+      "lon": "73.085"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

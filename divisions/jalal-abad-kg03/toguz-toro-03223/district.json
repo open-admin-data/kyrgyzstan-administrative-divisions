@@ -1,0 +1,49 @@
+{
+  "id": "KG03223000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Тогуз-Торо",
+    "en": "Toguz-Toro",
+    "slug": "toguz-toro-03223"
+  },
+  "code": {
+    "id": "KG03223000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG03000000000",
+    "level": 1,
+    "name": {
+      "local": "Жалалабат",
+      "en": "Jalal-Abad",
+      "slug": "jalal-abad-kg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 5
+  },
+  "zip_codes": [
+    "721500"
+  ],
+  "geo": {
+    "lat": "41.309",
+    "lon": "73.978"
+  },
+  "metadata": {},
+  "source": {}
+}

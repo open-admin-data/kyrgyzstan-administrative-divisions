@@ -1,0 +1,730 @@
+[
+  {
+    "id": "KG08209822000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Башат",
+      "en": "Ak-Bashat",
+      "slug": "ak-bashat-09822"
+    },
+    "code": {
+      "id": "KG08209822000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.911",
+      "lon": "73.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209811000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жайыл",
+      "en": "Jayyl",
+      "slug": "jayyl-09811"
+    },
+    "code": {
+      "id": "KG08209811000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.837",
+      "lon": "73.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209600010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Балта",
+      "en": "Kara-Balta (city)",
+      "slug": "kara-balta-city-60001"
+    },
+    "code": {
+      "id": "KG08209600010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.802",
+      "lon": "73.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Суу",
+      "en": "Kara-Suu",
+      "slug": "kara-suu-09812"
+    },
+    "code": {
+      "id": "KG08209812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "43.043",
+      "lon": "73.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209814000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Красновосточный",
+      "en": "Krasnovostochnyy",
+      "slug": "krasnovostochnyy-09814"
+    },
+    "code": {
+      "id": "KG08209814000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.897",
+      "lon": "73.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209817000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Дыйкан",
+      "en": "Kyzyl-Dyykan",
+      "slug": "kyzyl-dyykan-09817"
+    },
+    "code": {
+      "id": "KG08209817000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.65",
+      "lon": "73.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209829000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Полтавка",
+      "en": "Poltavka",
+      "slug": "poltavka-09829"
+    },
+    "code": {
+      "id": "KG08209829000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.859",
+      "lon": "73.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сары-Булак",
+      "en": "Sary-Bulak",
+      "slug": "sary-bulak-20984"
+    },
+    "code": {
+      "id": "KG08209840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723700"
+    ],
+    "geo": {
+      "lat": "42.648",
+      "lon": "73.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209838000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сары-Коо",
+      "en": "Sary-Koo",
+      "slug": "sary-koo-09838"
+    },
+    "code": {
+      "id": "KG08209838000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.923",
+      "lon": "73.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209844000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сосновка",
+      "en": "Sosnovka",
+      "slug": "sosnovka-09844"
+    },
+    "code": {
+      "id": "KG08209844000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.639",
+      "lon": "73.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209848000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Степное",
+      "en": "Stepnoe",
+      "slug": "stepnoe-09848"
+    },
+    "code": {
+      "id": "KG08209848000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724328"
+    ],
+    "geo": {
+      "lat": "43.146",
+      "lon": "73.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Суусамыр",
+      "en": "Suusamyr",
+      "slug": "suusamyr-20983"
+    },
+    "code": {
+      "id": "KG08209830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.074",
+      "lon": "74.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209857000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Талды-Булак",
+      "en": "Taldy-Bulak",
+      "slug": "taldy-bulak-09857"
+    },
+    "code": {
+      "id": "KG08209857000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08209000000",
+      "level": 2,
+      "name": {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08209000000",
+        "level": 2,
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.747",
+      "lon": "73.907"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

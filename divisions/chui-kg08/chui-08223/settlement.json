@@ -1,0 +1,562 @@
+[
+  {
+    "id": "KG08223804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Бешим",
+      "en": "Ak-Beshim",
+      "slug": "ak-beshim-23804"
+    },
+    "code": {
+      "id": "KG08223804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08223000000",
+      "level": 2,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-08223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08223000000",
+        "level": 2,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "42.808",
+      "lon": "75.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08223809000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бурана",
+      "en": "Burana",
+      "slug": "burana-23809"
+    },
+    "code": {
+      "id": "KG08223809000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08223000000",
+      "level": 2,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-08223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08223000000",
+        "level": 2,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724919"
+    ],
+    "geo": {
+      "lat": "42.765",
+      "lon": "75.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08223863000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чүй",
+      "en": "Chuy",
+      "slug": "chuy-23863"
+    },
+    "code": {
+      "id": "KG08223863000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08223000000",
+      "level": 2,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-08223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08223000000",
+        "level": 2,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "42.755",
+      "lon": "75.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08223815000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ибраимов",
+      "en": "Ibraimov",
+      "slug": "ibraimov-23815"
+    },
+    "code": {
+      "id": "KG08223815000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08223000000",
+      "level": 2,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-08223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08223000000",
+        "level": 2,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "42.687",
+      "lon": "75.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08223812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Искра",
+      "en": "Iskra",
+      "slug": "iskra-23812"
+    },
+    "code": {
+      "id": "KG08223812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08223000000",
+      "level": 2,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-08223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08223000000",
+        "level": 2,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720403"
+    ],
+    "geo": {
+      "lat": "42.798",
+      "lon": "75.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08223820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кегети",
+      "en": "Kegeti",
+      "slug": "kegeti-22382"
+    },
+    "code": {
+      "id": "KG08223820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08223000000",
+      "level": 2,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-08223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08223000000",
+        "level": 2,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724901"
+    ],
+    "geo": {
+      "lat": "42.661",
+      "lon": "75.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08223825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кош-Коргон",
+      "en": "Kosh-Korgon",
+      "slug": "kosh-korgon-23825"
+    },
+    "code": {
+      "id": "KG08223825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08223000000",
+      "level": 2,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-08223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08223000000",
+        "level": 2,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "42.752",
+      "lon": "75.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08223840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Он Бир-Жылга",
+      "en": "Onbir-Djylga",
+      "slug": "onbir-djylga-22384"
+    },
+    "code": {
+      "id": "KG08223840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08223000000",
+      "level": 2,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-08223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08223000000",
+        "level": 2,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "42.658",
+      "lon": "75.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08223845000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сайлык",
+      "en": "Saylyk",
+      "slug": "saylyk-23845"
+    },
+    "code": {
+      "id": "KG08223845000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08223000000",
+      "level": 2,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-08223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08223000000",
+        "level": 2,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724904"
+    ],
+    "geo": {
+      "lat": "42.825",
+      "lon": "75.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08223868000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Шамшы",
+      "en": "Shamshy",
+      "slug": "shamshy-23868"
+    },
+    "code": {
+      "id": "KG08223868000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08223000000",
+      "level": 2,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-08223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08223000000",
+        "level": 2,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "42.623",
+      "lon": "75.37"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

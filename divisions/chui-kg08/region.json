@@ -1,0 +1,30 @@
+{
+  "id": "KG08000000000",
+  "level": 1,
+  "level_name": {
+    "local": "Область",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Чүй",
+    "en": "Chui",
+    "slug": "chui-kg08"
+  },
+  "code": {
+    "id": "KG08000000000",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9,
+    "settlement": 113
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.555",
+    "lon": "74.622"
+  },
+  "metadata": {},
+  "source": {}
+}

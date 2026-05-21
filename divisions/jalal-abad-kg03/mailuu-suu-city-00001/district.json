@@ -1,0 +1,49 @@
+{
+  "id": "KG03430000010",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Майлуу-Суу ш.",
+    "en": "Mailuu-Suu (city)",
+    "slug": "mailuu-suu-city-00001"
+  },
+  "code": {
+    "id": "KG03430000010",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG03000000000",
+    "level": 1,
+    "name": {
+      "local": "Жалалабат",
+      "en": "Jalal-Abad",
+      "slug": "jalal-abad-kg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 1
+  },
+  "zip_codes": [
+    "721101"
+  ],
+  "geo": {
+    "lat": "41.258",
+    "lon": "72.441"
+  },
+  "metadata": {},
+  "source": {}
+}

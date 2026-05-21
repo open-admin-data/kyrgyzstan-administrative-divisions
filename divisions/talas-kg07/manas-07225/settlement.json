@@ -1,0 +1,282 @@
+[
+  {
+    "id": "KG07225818000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Каинды",
+      "en": "Kaindy",
+      "slug": "kaindy-25818"
+    },
+    "code": {
+      "id": "KG07225818000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07225000000",
+      "level": 2,
+      "name": {
+        "local": "Манас",
+        "en": "Manas",
+        "slug": "manas-07225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07225000000",
+        "level": 2,
+        "name": {
+          "local": "Манас",
+          "en": "Manas",
+          "slug": "manas-07225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724001"
+    ],
+    "geo": {
+      "lat": "42.66",
+      "lon": "71.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07225820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кыргызстан",
+      "en": "Kyrgyzstan",
+      "slug": "kyrgyzstan-22582"
+    },
+    "code": {
+      "id": "KG07225820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07225000000",
+      "level": 2,
+      "name": {
+        "local": "Манас",
+        "en": "Manas",
+        "slug": "manas-07225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07225000000",
+        "level": 2,
+        "name": {
+          "local": "Манас",
+          "en": "Manas",
+          "slug": "manas-07225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723605"
+    ],
+    "geo": {
+      "lat": "42.747",
+      "lon": "71.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07225826000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Май",
+      "en": "May",
+      "slug": "may-25826"
+    },
+    "code": {
+      "id": "KG07225826000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07225000000",
+      "level": 2,
+      "name": {
+        "local": "Манас",
+        "en": "Manas",
+        "slug": "manas-07225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07225000000",
+        "level": 2,
+        "name": {
+          "local": "Манас",
+          "en": "Manas",
+          "slug": "manas-07225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724003"
+    ],
+    "geo": {
+      "lat": "42.752",
+      "lon": "71.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07225833000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Покровка",
+      "en": "Pokrovka",
+      "slug": "pokrovka-25833"
+    },
+    "code": {
+      "id": "KG07225833000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07225000000",
+      "level": 2,
+      "name": {
+        "local": "Манас",
+        "en": "Manas",
+        "slug": "manas-07225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07225000000",
+        "level": 2,
+        "name": {
+          "local": "Манас",
+          "en": "Manas",
+          "slug": "manas-07225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723610"
+    ],
+    "geo": {
+      "lat": "42.724",
+      "lon": "71.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07225845000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Үч-Коргон",
+      "en": "Uch-Korgon",
+      "slug": "uch-korgon-25845"
+    },
+    "code": {
+      "id": "KG07225845000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07225000000",
+      "level": 2,
+      "name": {
+        "local": "Манас",
+        "en": "Manas",
+        "slug": "manas-07225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07225000000",
+        "level": 2,
+        "name": {
+          "local": "Манас",
+          "en": "Manas",
+          "slug": "manas-07225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720900"
+    ],
+    "geo": {
+      "lat": "42.736",
+      "lon": "71.543"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

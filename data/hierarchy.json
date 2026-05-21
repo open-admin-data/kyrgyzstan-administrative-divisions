@@ -1,0 +1,6381 @@
+[
+  {
+    "id": "KG05000000000",
+    "name": {
+      "local": "Баткен",
+      "en": "Batken",
+      "slug": "batken-kg05"
+    },
+    "code": {
+      "id": "KG05000000000",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "KG05214000000",
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-05214"
+        },
+        "code": {
+          "id": "KG05214000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG05214848000",
+            "name": {
+              "local": "Ак-Сай",
+              "en": "Ak-Say",
+              "slug": "ak-say-14848"
+            },
+            "code": {
+              "id": "KG05214848000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05214849000",
+            "name": {
+              "local": "Ак-Татыр",
+              "en": "Ak-Tatyr",
+              "slug": "ak-tatyr-14849"
+            },
+            "code": {
+              "id": "KG05214849000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05214812000",
+            "name": {
+              "local": "Дарыя",
+              "en": "Daryin",
+              "slug": "daryin-14812"
+            },
+            "code": {
+              "id": "KG05214812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05214823000",
+            "name": {
+              "local": "Кара-Бак",
+              "en": "Kara-Bak",
+              "slug": "kara-bak-14823"
+            },
+            "code": {
+              "id": "KG05214823000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05214824000",
+            "name": {
+              "local": "Кара-Булак",
+              "en": "Kara-Bulak",
+              "slug": "kara-bulak-14824"
+            },
+            "code": {
+              "id": "KG05214824000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05214835000",
+            "name": {
+              "local": "Кыштут",
+              "en": "Kyshtut",
+              "slug": "kyshtut-14835"
+            },
+            "code": {
+              "id": "KG05214835000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05214846000",
+            "name": {
+              "local": "Самаркандек",
+              "en": "Samarkandek",
+              "slug": "samarkandek-14846"
+            },
+            "code": {
+              "id": "KG05214846000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05214852000",
+            "name": {
+              "local": "Суу-Башы",
+              "en": "Suu-Bashyn",
+              "slug": "suu-bashyn-14852"
+            },
+            "code": {
+              "id": "KG05214852000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05214814000",
+            "name": {
+              "local": "Төрт-Кул",
+              "en": "Tert-Gyul",
+              "slug": "tert-gyul-14814"
+            },
+            "code": {
+              "id": "KG05214814000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG05410000010",
+        "name": {
+          "local": "Баткен ш.",
+          "en": "Batken (city)",
+          "slug": "batken-city-00001"
+        },
+        "code": {
+          "id": "KG05410000010",
+          "iso": null
+        },
+        "settlement": []
+      },
+      {
+        "id": "KG05258000000",
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        },
+        "code": {
+          "id": "KG05258000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG05258819000",
+            "name": {
+              "local": "Абсамат Масалиев",
+              "en": "Absamat Masaliev",
+              "slug": "absamat-masaliev-58819"
+            },
+            "code": {
+              "id": "KG05258819000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258804000",
+            "name": {
+              "local": "Ак-Турпак",
+              "en": "Ak-Turpak",
+              "slug": "ak-turpak-58804"
+            },
+            "code": {
+              "id": "KG05258804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258808000",
+            "name": {
+              "local": "Алга",
+              "en": "Algin",
+              "slug": "algin-58808"
+            },
+            "code": {
+              "id": "KG05258808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258600010",
+            "name": {
+              "local": "Айдаркен",
+              "en": "Aydarken (city)",
+              "slug": "aydarken-city-60001"
+            },
+            "code": {
+              "id": "KG05258600010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258812000",
+            "name": {
+              "local": "Бирлик",
+              "en": "Birlik",
+              "slug": "birlik-58812"
+            },
+            "code": {
+              "id": "KG05258812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258867000",
+            "name": {
+              "local": "Чаувай",
+              "en": "Chauvay",
+              "slug": "chauvay-58867"
+            },
+            "code": {
+              "id": "KG05258867000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258860000",
+            "name": {
+              "local": "Халмион",
+              "en": "Khalmion",
+              "slug": "khalmion-25886"
+            },
+            "code": {
+              "id": "KG05258860000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258825000",
+            "name": {
+              "local": "Көтөрмө",
+              "en": "Kotormo",
+              "slug": "kotormo-58825"
+            },
+            "code": {
+              "id": "KG05258825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258861000",
+            "name": {
+              "local": "Кыргыз-Кыштак",
+              "en": "Kyrgyz-Kyshtak",
+              "slug": "kyrgyz-kyshtak-58861"
+            },
+            "code": {
+              "id": "KG05258861000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258834000",
+            "name": {
+              "local": "Марказ",
+              "en": "Markaz",
+              "slug": "markaz-58834"
+            },
+            "code": {
+              "id": "KG05258834000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258830000",
+            "name": {
+              "local": "Майдан",
+              "en": "Maydan",
+              "slug": "maydan-25883"
+            },
+            "code": {
+              "id": "KG05258830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258842000",
+            "name": {
+              "local": "Орозбеков",
+              "en": "Orozbekov",
+              "slug": "orozbekov-58842"
+            },
+            "code": {
+              "id": "KG05258842000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258864000",
+            "name": {
+              "local": "Совет",
+              "en": "Sovet",
+              "slug": "sovet-58864"
+            },
+            "code": {
+              "id": "KG05258864000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05258849000",
+            "name": {
+              "local": "Үч-Коргон",
+              "en": "Uch-Korgon",
+              "slug": "uch-korgon-58849"
+            },
+            "code": {
+              "id": "KG05258849000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG05430000010",
+        "name": {
+          "local": "Кызыл-Кыя ш.",
+          "en": "Kyzyl-Kia (city)",
+          "slug": "kyzyl-kia-city-00001"
+        },
+        "code": {
+          "id": "KG05430000010",
+          "iso": null
+        },
+        "settlement": []
+      },
+      {
+        "id": "KG05236000000",
+        "name": {
+          "local": "Лейлек",
+          "en": "Leilek",
+          "slug": "leilek-05236"
+        },
+        "code": {
+          "id": "KG05236000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG05236802000",
+            "name": {
+              "local": "Ак-Суу",
+              "en": "Ak-Suu",
+              "slug": "ak-suu-36802"
+            },
+            "code": {
+              "id": "KG05236802000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05236804000",
+            "name": {
+              "local": "Бешкент",
+              "en": "Beshkent",
+              "slug": "beshkent-36804"
+            },
+            "code": {
+              "id": "KG05236804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05236808000",
+            "name": {
+              "local": "Жаңы-Жер",
+              "en": "Djany-Djer",
+              "slug": "djany-djer-36808"
+            },
+            "code": {
+              "id": "KG05236808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05236610010",
+            "name": {
+              "local": "Исфана",
+              "en": "Isfana (city)",
+              "slug": "isfana-city-61001"
+            },
+            "code": {
+              "id": "KG05236610010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05236818000",
+            "name": {
+              "local": "Катраң",
+              "en": "Katran",
+              "slug": "katran-36818"
+            },
+            "code": {
+              "id": "KG05236818000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05236825000",
+            "name": {
+              "local": "Кулунду",
+              "en": "Kulundin",
+              "slug": "kulundin-36825"
+            },
+            "code": {
+              "id": "KG05236825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05236816000",
+            "name": {
+              "local": "Лейлек",
+              "en": "Leylek",
+              "slug": "leylek-36816"
+            },
+            "code": {
+              "id": "KG05236816000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05236806000",
+            "name": {
+              "local": "Маргун",
+              "en": "Margun",
+              "slug": "margun-36806"
+            },
+            "code": {
+              "id": "KG05236806000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05236836000",
+            "name": {
+              "local": "Сумбула",
+              "en": "Sumbulin",
+              "slug": "sumbulin-36836"
+            },
+            "code": {
+              "id": "KG05236836000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG05236842000",
+            "name": {
+              "local": "Тогуз-Булак",
+              "en": "Toguz-Bulak",
+              "slug": "toguz-bulak-36842"
+            },
+            "code": {
+              "id": "KG05236842000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG05420000010",
+        "name": {
+          "local": "Сүлүктү ш.",
+          "en": "Sulukta (city)",
+          "slug": "sulukta-city-00001"
+        },
+        "code": {
+          "id": "KG05420000010",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG05420510010",
+            "name": {
+              "local": "Восточный",
+              "en": "Vostochnyy",
+              "slug": "vostochnyy-51001"
+            },
+            "code": {
+              "id": "KG05420510010",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "KG11000000000",
+    "name": {
+      "local": "Бишкек ш.",
+      "en": "Bishkek (city)",
+      "slug": "bishkek-city-kg11"
+    },
+    "code": {
+      "id": "KG11000000000",
+      "iso": null
+    },
+    "district": []
+  },
+  {
+    "id": "KG08000000000",
+    "name": {
+      "local": "Чүй",
+      "en": "Chui",
+      "slug": "chui-kg08"
+    },
+    "code": {
+      "id": "KG08000000000",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "KG08203000000",
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        },
+        "code": {
+          "id": "KG08203000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG08203803000",
+            "name": {
+              "local": "Ак-Дөбө",
+              "en": "Ak-Debe",
+              "slug": "ak-debe-03803"
+            },
+            "code": {
+              "id": "KG08203803000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203805000",
+            "name": {
+              "local": "Ала-Арча",
+              "en": "Ala-Archa",
+              "slug": "ala-archa-03805"
+            },
+            "code": {
+              "id": "KG08203805000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203807000",
+            "name": {
+              "local": "Аламүдүн",
+              "en": "Alamudun",
+              "slug": "alamudun-03807"
+            },
+            "code": {
+              "id": "KG08203807000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203809000",
+            "name": {
+              "local": "Арашан",
+              "en": "Arashan",
+              "slug": "arashan-03809"
+            },
+            "code": {
+              "id": "KG08203809000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203855000",
+            "name": {
+              "local": "Байтик",
+              "en": "Baitik",
+              "slug": "baitik-03855"
+            },
+            "code": {
+              "id": "KG08203855000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203819000",
+            "name": {
+              "local": "Гроздь",
+              "en": "Grozd",
+              "slug": "grozd-03819"
+            },
+            "code": {
+              "id": "KG08203819000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203826000",
+            "name": {
+              "local": "Кара-Жыгач",
+              "en": "Kara-Djygach",
+              "slug": "kara-djygach-03826"
+            },
+            "code": {
+              "id": "KG08203826000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203828000",
+            "name": {
+              "local": "Көк-Жар",
+              "en": "Kek-Djar",
+              "slug": "kek-djar-03828"
+            },
+            "code": {
+              "id": "KG08203828000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203831000",
+            "name": {
+              "local": "Лебединовка",
+              "en": "Lebedinovka",
+              "slug": "lebedinovka-03831"
+            },
+            "code": {
+              "id": "KG08203831000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203834000",
+            "name": {
+              "local": "Ленин",
+              "en": "Lenin",
+              "slug": "lenin-03834"
+            },
+            "code": {
+              "id": "KG08203834000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203838000",
+            "name": {
+              "local": "Маевка",
+              "en": "Maevka",
+              "slug": "maevka-03838"
+            },
+            "code": {
+              "id": "KG08203838000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203845000",
+            "name": {
+              "local": "Төмөнкү Ала-Арча",
+              "en": "Nizhnyaya Alaarcha",
+              "slug": "nizhnyaya-alaarcha-03845"
+            },
+            "code": {
+              "id": "KG08203845000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203852000",
+            "name": {
+              "local": "Октябрь",
+              "en": "Oktyabr'",
+              "slug": "oktyabr-03852"
+            },
+            "code": {
+              "id": "KG08203852000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203859000",
+            "name": {
+              "local": "Пригородное",
+              "en": "Prigorodnoe",
+              "slug": "prigorodnoe-03859"
+            },
+            "code": {
+              "id": "KG08203859000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203864000",
+            "name": {
+              "local": "Таш-Дөбө",
+              "en": "Tash-Debe",
+              "slug": "tash-debe-03864"
+            },
+            "code": {
+              "id": "KG08203864000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203866000",
+            "name": {
+              "local": "Таш-Мойнок",
+              "en": "Tash-Moynok",
+              "slug": "tash-moynok-03866"
+            },
+            "code": {
+              "id": "KG08203866000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08203814000",
+            "name": {
+              "local": "Васильевка",
+              "en": "Vasilevka",
+              "slug": "vasilevka-03814"
+            },
+            "code": {
+              "id": "KG08203814000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG08223000000",
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-08223"
+        },
+        "code": {
+          "id": "KG08223000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG08223804000",
+            "name": {
+              "local": "Ак-Бешим",
+              "en": "Ak-Beshim",
+              "slug": "ak-beshim-23804"
+            },
+            "code": {
+              "id": "KG08223804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08223809000",
+            "name": {
+              "local": "Бурана",
+              "en": "Burana",
+              "slug": "burana-23809"
+            },
+            "code": {
+              "id": "KG08223809000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08223863000",
+            "name": {
+              "local": "Чүй",
+              "en": "Chuy",
+              "slug": "chuy-23863"
+            },
+            "code": {
+              "id": "KG08223863000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08223815000",
+            "name": {
+              "local": "Ибраимов",
+              "en": "Ibraimov",
+              "slug": "ibraimov-23815"
+            },
+            "code": {
+              "id": "KG08223815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08223812000",
+            "name": {
+              "local": "Искра",
+              "en": "Iskra",
+              "slug": "iskra-23812"
+            },
+            "code": {
+              "id": "KG08223812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08223820000",
+            "name": {
+              "local": "Кегети",
+              "en": "Kegeti",
+              "slug": "kegeti-22382"
+            },
+            "code": {
+              "id": "KG08223820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08223825000",
+            "name": {
+              "local": "Кош-Коргон",
+              "en": "Kosh-Korgon",
+              "slug": "kosh-korgon-23825"
+            },
+            "code": {
+              "id": "KG08223825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08223840000",
+            "name": {
+              "local": "Он Бир-Жылга",
+              "en": "Onbir-Djylga",
+              "slug": "onbir-djylga-22384"
+            },
+            "code": {
+              "id": "KG08223840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08223845000",
+            "name": {
+              "local": "Сайлык",
+              "en": "Saylyk",
+              "slug": "saylyk-23845"
+            },
+            "code": {
+              "id": "KG08223845000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08223868000",
+            "name": {
+              "local": "Шамшы",
+              "en": "Shamshy",
+              "slug": "shamshy-23868"
+            },
+            "code": {
+              "id": "KG08223868000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG08209000000",
+        "name": {
+          "local": "Жайыл",
+          "en": "Jaiyl",
+          "slug": "jaiyl-08209"
+        },
+        "code": {
+          "id": "KG08209000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG08209822000",
+            "name": {
+              "local": "Ак-Башат",
+              "en": "Ak-Bashat",
+              "slug": "ak-bashat-09822"
+            },
+            "code": {
+              "id": "KG08209822000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209811000",
+            "name": {
+              "local": "Жайыл",
+              "en": "Jayyl",
+              "slug": "jayyl-09811"
+            },
+            "code": {
+              "id": "KG08209811000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209600010",
+            "name": {
+              "local": "Кара-Балта",
+              "en": "Kara-Balta (city)",
+              "slug": "kara-balta-city-60001"
+            },
+            "code": {
+              "id": "KG08209600010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209812000",
+            "name": {
+              "local": "Кара-Суу",
+              "en": "Kara-Suu",
+              "slug": "kara-suu-09812"
+            },
+            "code": {
+              "id": "KG08209812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209814000",
+            "name": {
+              "local": "Красновосточный",
+              "en": "Krasnovostochnyy",
+              "slug": "krasnovostochnyy-09814"
+            },
+            "code": {
+              "id": "KG08209814000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209817000",
+            "name": {
+              "local": "Кызыл-Дыйкан",
+              "en": "Kyzyl-Dyykan",
+              "slug": "kyzyl-dyykan-09817"
+            },
+            "code": {
+              "id": "KG08209817000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209829000",
+            "name": {
+              "local": "Полтавка",
+              "en": "Poltavka",
+              "slug": "poltavka-09829"
+            },
+            "code": {
+              "id": "KG08209829000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209840000",
+            "name": {
+              "local": "Сары-Булак",
+              "en": "Sary-Bulak",
+              "slug": "sary-bulak-20984"
+            },
+            "code": {
+              "id": "KG08209840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209838000",
+            "name": {
+              "local": "Сары-Коо",
+              "en": "Sary-Koo",
+              "slug": "sary-koo-09838"
+            },
+            "code": {
+              "id": "KG08209838000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209844000",
+            "name": {
+              "local": "Сосновка",
+              "en": "Sosnovka",
+              "slug": "sosnovka-09844"
+            },
+            "code": {
+              "id": "KG08209844000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209848000",
+            "name": {
+              "local": "Степное",
+              "en": "Stepnoe",
+              "slug": "stepnoe-09848"
+            },
+            "code": {
+              "id": "KG08209848000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209830000",
+            "name": {
+              "local": "Суусамыр",
+              "en": "Suusamyr",
+              "slug": "suusamyr-20983"
+            },
+            "code": {
+              "id": "KG08209830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08209857000",
+            "name": {
+              "local": "Талды-Булак",
+              "en": "Taldy-Bulak",
+              "slug": "taldy-bulak-09857"
+            },
+            "code": {
+              "id": "KG08209857000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG08213000000",
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        },
+        "code": {
+          "id": "KG08213000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG08213826000",
+            "name": {
+              "local": "Дүйшеев",
+              "en": "A. Duysheev",
+              "slug": "a-duysheev-13826"
+            },
+            "code": {
+              "id": "KG08213826000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213845000",
+            "name": {
+              "local": "Ак-Түз",
+              "en": "Ak-Tyuz",
+              "slug": "ak-tyuz-13845"
+            },
+            "code": {
+              "id": "KG08213845000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213804000",
+            "name": {
+              "local": "Алмалуу",
+              "en": "Almaly",
+              "slug": "almaly-13804"
+            },
+            "code": {
+              "id": "KG08213804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213530020",
+            "name": {
+              "local": "Бордун",
+              "en": "Bordun",
+              "slug": "bordun-53002"
+            },
+            "code": {
+              "id": "KG08213530020",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213808000",
+            "name": {
+              "local": "Боролдой",
+              "en": "Boroldoy",
+              "slug": "boroldoy-13808"
+            },
+            "code": {
+              "id": "KG08213808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213842000",
+            "name": {
+              "local": "Чоң-Кемин",
+              "en": "Chon-Kemin",
+              "slug": "chon-kemin-13842"
+            },
+            "code": {
+              "id": "KG08213842000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213839000",
+            "name": {
+              "local": "Чым-Коргон",
+              "en": "Chym-Korgon",
+              "slug": "chym-korgon-13839"
+            },
+            "code": {
+              "id": "KG08213839000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213813000",
+            "name": {
+              "local": "Жаңы-Алыш",
+              "en": "Djany-Alysh",
+              "slug": "djany-alysh-13813"
+            },
+            "code": {
+              "id": "KG08213813000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213817000",
+            "name": {
+              "local": "Ильич",
+              "en": "Il'ich",
+              "slug": "ilich-13817"
+            },
+            "code": {
+              "id": "KG08213817000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213820000",
+            "name": {
+              "local": "Кара-Булак",
+              "en": "Kara-Bulak",
+              "slug": "kara-bulak-21382"
+            },
+            "code": {
+              "id": "KG08213820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213823000",
+            "name": {
+              "local": "Көк-Ойрок",
+              "en": "Kek-Oyrok",
+              "slug": "kek-oyrok-13823"
+            },
+            "code": {
+              "id": "KG08213823000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213600020",
+            "name": {
+              "local": "Кемин",
+              "en": "Kemin (city)",
+              "slug": "kemin-city-60002"
+            },
+            "code": {
+              "id": "KG08213600020",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213830000",
+            "name": {
+              "local": "Кызыл-Октябрь",
+              "en": "Kyzyl-Oktyabr",
+              "slug": "kyzyl-oktyabr-21383"
+            },
+            "code": {
+              "id": "KG08213830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08213600010",
+            "name": {
+              "local": "Орловка",
+              "en": "Orlovka (city)",
+              "slug": "orlovka-city-60001"
+            },
+            "code": {
+              "id": "KG08213600010",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG08217000000",
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        },
+        "code": {
+          "id": "KG08217000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG08217804000",
+            "name": {
+              "local": "Ак-Суу",
+              "en": "Ak-Suu",
+              "slug": "ak-suu-17804"
+            },
+            "code": {
+              "id": "KG08217804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217809000",
+            "name": {
+              "local": "Александровка",
+              "en": "Aleksandrovka",
+              "slug": "aleksandrovka-17809"
+            },
+            "code": {
+              "id": "KG08217809000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217813000",
+            "name": {
+              "local": "Беловодское",
+              "en": "Belovodskoe",
+              "slug": "belovodskoe-17813"
+            },
+            "code": {
+              "id": "KG08217813000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217811000",
+            "name": {
+              "local": "Беш-Терек",
+              "en": "Besh-Terek",
+              "slug": "besh-terek-17811"
+            },
+            "code": {
+              "id": "KG08217811000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217849000",
+            "name": {
+              "local": "Чапаев",
+              "en": "Chapaev",
+              "slug": "chapaev-17849"
+            },
+            "code": {
+              "id": "KG08217849000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217828000",
+            "name": {
+              "local": "Биринчи Май",
+              "en": "Pervomay",
+              "slug": "pervomay-17828"
+            },
+            "code": {
+              "id": "KG08217828000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217824000",
+            "name": {
+              "local": "Петровка",
+              "en": "Petrovka",
+              "slug": "petrovka-17824"
+            },
+            "code": {
+              "id": "KG08217824000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217832000",
+            "name": {
+              "local": "Предтеченка",
+              "en": "Predtechenka",
+              "slug": "predtechenka-17832"
+            },
+            "code": {
+              "id": "KG08217832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217837000",
+            "name": {
+              "local": "Садовый",
+              "en": "Sadovyy",
+              "slug": "sadovyy-17837"
+            },
+            "code": {
+              "id": "KG08217837000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217840000",
+            "name": {
+              "local": "Сретенка",
+              "en": "Sretenka",
+              "slug": "sretenka-21784"
+            },
+            "code": {
+              "id": "KG08217840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217842000",
+            "name": {
+              "local": "Төлөк",
+              "en": "Telek",
+              "slug": "telek-17842"
+            },
+            "code": {
+              "id": "KG08217842000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08217845000",
+            "name": {
+              "local": "Целинный",
+              "en": "Tselinnyy",
+              "slug": "tselinnyy-17845"
+            },
+            "code": {
+              "id": "KG08217845000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG08219000000",
+        "name": {
+          "local": "Панфилов",
+          "en": "Panfilov",
+          "slug": "panfilov-08219"
+        },
+        "code": {
+          "id": "KG08219000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG08219855000",
+            "name": {
+              "local": "Чалдыбар",
+              "en": "Chaldybar",
+              "slug": "chaldybar-19855"
+            },
+            "code": {
+              "id": "KG08219855000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08219849000",
+            "name": {
+              "local": "Фрунзе",
+              "en": "Frunze",
+              "slug": "frunze-19849"
+            },
+            "code": {
+              "id": "KG08219849000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08219600010",
+            "name": {
+              "local": "Каинды",
+              "en": "Kaindy (city)",
+              "slug": "kaindy-city-60001"
+            },
+            "code": {
+              "id": "KG08219600010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08219836000",
+            "name": {
+              "local": "Курама",
+              "en": "Kurama",
+              "slug": "kurama-19836"
+            },
+            "code": {
+              "id": "KG08219836000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08219820000",
+            "name": {
+              "local": "Күрпүлдөк",
+              "en": "Kyurpyuldek",
+              "slug": "kyurpyuldek-21982"
+            },
+            "code": {
+              "id": "KG08219820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08219830000",
+            "name": {
+              "local": "Ортоев",
+              "en": "Ortoev",
+              "slug": "ortoev-21983"
+            },
+            "code": {
+              "id": "KG08219830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08219000907",
+            "name": {
+              "local": "Белгисиз",
+              "en": "Unknown",
+              "slug": "unknown-00907"
+            },
+            "code": {
+              "id": "KG08219000907",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08219811000",
+            "name": {
+              "local": "Вознесеновка",
+              "en": "Voznesenovka",
+              "slug": "voznesenovka-19811"
+            },
+            "code": {
+              "id": "KG08219811000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG08222000000",
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        },
+        "code": {
+          "id": "KG08222000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG08222829000",
+            "name": {
+              "local": "Асылбаш",
+              "en": "Asylbash",
+              "slug": "asylbash-22829"
+            },
+            "code": {
+              "id": "KG08222829000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222805000",
+            "name": {
+              "local": "Ат-Башы",
+              "en": "At-Bashy",
+              "slug": "at-bashy-22805"
+            },
+            "code": {
+              "id": "KG08222805000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222822000",
+            "name": {
+              "local": "Жаңы-Жер",
+              "en": "Djany-Djer",
+              "slug": "djany-djer-22822"
+            },
+            "code": {
+              "id": "KG08222822000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222826000",
+            "name": {
+              "local": "Жаңы-Пахта",
+              "en": "Djany-Pakhty",
+              "slug": "djany-pakhty-22826"
+            },
+            "code": {
+              "id": "KG08222826000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222869000",
+            "name": {
+              "local": "Фрунзе",
+              "en": "Frunze",
+              "slug": "frunze-22869"
+            },
+            "code": {
+              "id": "KG08222869000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222817000",
+            "name": {
+              "local": "Гавриловка",
+              "en": "Gavrilovka",
+              "slug": "gavrilovka-22817"
+            },
+            "code": {
+              "id": "KG08222817000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222828000",
+            "name": {
+              "local": "Камышановка",
+              "en": "Kamyshanovka",
+              "slug": "kamyshanovka-22828"
+            },
+            "code": {
+              "id": "KG08222828000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222872000",
+            "name": {
+              "local": "Кайназарова атындагы",
+              "en": "Kaynazarovoy",
+              "slug": "kaynazarovoy-22872"
+            },
+            "code": {
+              "id": "KG08222872000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222834000",
+            "name": {
+              "local": "Крупская",
+              "en": "Krupskaya",
+              "slug": "krupskaya-22834"
+            },
+            "code": {
+              "id": "KG08222834000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222832000",
+            "name": {
+              "local": "Күн-Туу",
+              "en": "Kuntuu",
+              "slug": "kuntuu-22832"
+            },
+            "code": {
+              "id": "KG08222832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222838000",
+            "name": {
+              "local": "Кызыл-Туу",
+              "en": "Kyzyl-Tuu",
+              "slug": "kyzyl-tuu-22838"
+            },
+            "code": {
+              "id": "KG08222838000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222846000",
+            "name": {
+              "local": "Төмөнкү Чүй",
+              "en": "Nijnechuy",
+              "slug": "nijnechuy-22846"
+            },
+            "code": {
+              "id": "KG08222846000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222849000",
+            "name": {
+              "local": "Новопавловка",
+              "en": "Novopavlovka",
+              "slug": "novopavlovka-22849"
+            },
+            "code": {
+              "id": "KG08222849000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222856000",
+            "name": {
+              "local": "Орок",
+              "en": "Orok",
+              "slug": "orok-22856"
+            },
+            "code": {
+              "id": "KG08222856000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222860000",
+            "name": {
+              "local": "Биринчи Май",
+              "en": "Pervomay",
+              "slug": "pervomay-22286"
+            },
+            "code": {
+              "id": "KG08222860000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222852000",
+            "name": {
+              "local": "Саз",
+              "en": "Saz",
+              "slug": "saz-22852"
+            },
+            "code": {
+              "id": "KG08222852000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222600010",
+            "name": {
+              "local": "Шопоков",
+              "en": "Shopokov (city)",
+              "slug": "shopokov-city-60001"
+            },
+            "code": {
+              "id": "KG08222600010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222865000",
+            "name": {
+              "local": "Сокулук",
+              "en": "Sokuluk",
+              "slug": "sokuluk-22865"
+            },
+            "code": {
+              "id": "KG08222865000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222809000",
+            "name": {
+              "local": "Төш-Булак",
+              "en": "Tosh-Bulak",
+              "slug": "tosh-bulak-22809"
+            },
+            "code": {
+              "id": "KG08222809000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08222813000",
+            "name": {
+              "local": "Военна-Антоновка",
+              "en": "Voenno-Antonovka",
+              "slug": "voenno-antonovka-22813"
+            },
+            "code": {
+              "id": "KG08222813000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG08400000010",
+        "name": {
+          "local": "Токмок ш.",
+          "en": "Tokmok (city)",
+          "slug": "tokmok-city-00001"
+        },
+        "code": {
+          "id": "KG08400000010",
+          "iso": null
+        },
+        "settlement": []
+      },
+      {
+        "id": "KG08206000000",
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        },
+        "code": {
+          "id": "KG08206000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG08206803000",
+            "name": {
+              "local": "Ак-Кудук",
+              "en": "Ak-Kuduk",
+              "slug": "ak-kuduk-06803"
+            },
+            "code": {
+              "id": "KG08206803000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206810000",
+            "name": {
+              "local": "Бирдик",
+              "en": "Birdik",
+              "slug": "birdik-20681"
+            },
+            "code": {
+              "id": "KG08206810000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206818000",
+            "name": {
+              "local": "Жээк",
+              "en": "Djeek",
+              "slug": "djeek-06818"
+            },
+            "code": {
+              "id": "KG08206818000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206821000",
+            "name": {
+              "local": "Интернационал",
+              "en": "Internatsional",
+              "slug": "internatsional-06821"
+            },
+            "code": {
+              "id": "KG08206821000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206822000",
+            "name": {
+              "local": "Ысык-Ата",
+              "en": "Issyk-Ata",
+              "slug": "issyk-ata-06822"
+            },
+            "code": {
+              "id": "KG08206822000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206812000",
+            "name": {
+              "local": "Ивановка",
+              "en": "Ivanovka",
+              "slug": "ivanovka-06812"
+            },
+            "code": {
+              "id": "KG08206812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206600010",
+            "name": {
+              "local": "Кант",
+              "en": "Kant (city)",
+              "slug": "kant-city-60001"
+            },
+            "code": {
+              "id": "KG08206600010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206820000",
+            "name": {
+              "local": "Кең-Булуң",
+              "en": "Ken-Bulun",
+              "slug": "ken-bulun-20682"
+            },
+            "code": {
+              "id": "KG08206820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206838000",
+            "name": {
+              "local": "Кочкорбаев",
+              "en": "Kochkorbaev",
+              "slug": "kochkorbaev-06838"
+            },
+            "code": {
+              "id": "KG08206838000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206823000",
+            "name": {
+              "local": "Красная-Речка",
+              "en": "Krasnya-Rechka",
+              "slug": "krasnya-rechka-06823"
+            },
+            "code": {
+              "id": "KG08206823000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206836000",
+            "name": {
+              "local": "Логвиненко",
+              "en": "Logvinenko",
+              "slug": "logvinenko-06836"
+            },
+            "code": {
+              "id": "KG08206836000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206839000",
+            "name": {
+              "local": "Люксембург",
+              "en": "Lyuksemburg",
+              "slug": "lyuksemburg-06839"
+            },
+            "code": {
+              "id": "KG08206839000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206842000",
+            "name": {
+              "local": "Милянфан",
+              "en": "Milyanfan",
+              "slug": "milyanfan-06842"
+            },
+            "code": {
+              "id": "KG08206842000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206848000",
+            "name": {
+              "local": "Новопокровка",
+              "en": "Novopokrovka",
+              "slug": "novopokrovka-06848"
+            },
+            "code": {
+              "id": "KG08206848000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206816000",
+            "name": {
+              "local": "Нурманбет",
+              "en": "Nurmanbet",
+              "slug": "nurmanbet-06816"
+            },
+            "code": {
+              "id": "KG08206816000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206846000",
+            "name": {
+              "local": "Сын-Таш",
+              "en": "Syn-Tash",
+              "slug": "syn-tash-06846"
+            },
+            "code": {
+              "id": "KG08206846000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206870000",
+            "name": {
+              "local": "Туз",
+              "en": "Tuz",
+              "slug": "tuz-20687"
+            },
+            "code": {
+              "id": "KG08206870000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206873000",
+            "name": {
+              "local": "Узун-Кыр",
+              "en": "Uzun-Kyr",
+              "slug": "uzun-kyr-06873"
+            },
+            "code": {
+              "id": "KG08206873000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG08206852000",
+            "name": {
+              "local": "Юрьевка",
+              "en": "Yurevka",
+              "slug": "yurevka-06852"
+            },
+            "code": {
+              "id": "KG08206852000",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "KG02000000000",
+    "name": {
+      "local": "Ысык-Көл",
+      "en": "Issyk-Kul",
+      "slug": "issyk-kul-kg02"
+    },
+    "code": {
+      "id": "KG02000000000",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "KG02205000000",
+        "name": {
+          "local": "Ак-Суу",
+          "en": "Ak-Suu",
+          "slug": "ak-suu-02205"
+        },
+        "code": {
+          "id": "KG02205000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG02205805000",
+            "name": {
+              "local": "Ак-Булуң",
+              "en": "Ak-Bulun",
+              "slug": "ak-bulun-05805"
+            },
+            "code": {
+              "id": "KG02205805000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205840000",
+            "name": {
+              "local": "Ак-Чий",
+              "en": "Ak-Chiy",
+              "slug": "ak-chiy-20584"
+            },
+            "code": {
+              "id": "KG02205840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205807000",
+            "name": {
+              "local": "Бөрү-Баш",
+              "en": "Beryu-Bash",
+              "slug": "beryu-bash-05807"
+            },
+            "code": {
+              "id": "KG02205807000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205850000",
+            "name": {
+              "local": "Челпек",
+              "en": "Chelpek",
+              "slug": "chelpek-20585"
+            },
+            "code": {
+              "id": "KG02205850000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205852000",
+            "name": {
+              "local": "Эңилчек",
+              "en": "Enilchek",
+              "slug": "enilchek-05852"
+            },
+            "code": {
+              "id": "KG02205852000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205855000",
+            "name": {
+              "local": "Жыргалаң",
+              "en": "Jyrgalan",
+              "slug": "jyrgalan-05855"
+            },
+            "code": {
+              "id": "KG02205855000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205812000",
+            "name": {
+              "local": "Кара-Жал",
+              "en": "Kara-Djal",
+              "slug": "kara-djal-05812"
+            },
+            "code": {
+              "id": "KG02205812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205813000",
+            "name": {
+              "local": "Каракол",
+              "en": "Karakol",
+              "slug": "karakol-05813"
+            },
+            "code": {
+              "id": "KG02205813000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205818000",
+            "name": {
+              "local": "Кереге-Таш",
+              "en": "Kerege-Tash",
+              "slug": "kerege-tash-05818"
+            },
+            "code": {
+              "id": "KG02205818000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205825000",
+            "name": {
+              "local": "Нововознесеновка",
+              "en": "Novovoznesenovka",
+              "slug": "novovoznesenovka-05825"
+            },
+            "code": {
+              "id": "KG02205825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205832000",
+            "name": {
+              "local": "Октябрь",
+              "en": "Oktyabr'",
+              "slug": "oktyabr-05832"
+            },
+            "code": {
+              "id": "KG02205832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205835000",
+            "name": {
+              "local": "Отрадное",
+              "en": "Otradnoe",
+              "slug": "otradnoe-05835"
+            },
+            "code": {
+              "id": "KG02205835000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205844000",
+            "name": {
+              "local": "Тепкен",
+              "en": "Tepken",
+              "slug": "tepken-05844"
+            },
+            "code": {
+              "id": "KG02205844000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02205848000",
+            "name": {
+              "local": "Теплоключенка",
+              "en": "Teploklyuchenka",
+              "slug": "teploklyuchenka-05848"
+            },
+            "code": {
+              "id": "KG02205848000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG02420000010",
+        "name": {
+          "local": "Балыкчы ш.",
+          "en": "Balykchy (city)",
+          "slug": "balykchy-city-00001"
+        },
+        "code": {
+          "id": "KG02420000010",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG02420510010",
+            "name": {
+              "local": "Орто-Токой",
+              "en": "Orto-Tokoy",
+              "slug": "orto-tokoy-51001"
+            },
+            "code": {
+              "id": "KG02420510010",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG02215000000",
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-02215"
+        },
+        "code": {
+          "id": "KG02215000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG02215835000",
+            "name": {
+              "local": "Абдрахманов",
+              "en": "Abdrakhmanov",
+              "slug": "abdrakhmanov-15835"
+            },
+            "code": {
+              "id": "KG02215835000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215805000",
+            "name": {
+              "local": "Ананьево",
+              "en": "Anan'evo",
+              "slug": "ananevo-15805"
+            },
+            "code": {
+              "id": "KG02215805000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215808000",
+            "name": {
+              "local": "Бостери",
+              "en": "Bosteri",
+              "slug": "bosteri-15808"
+            },
+            "code": {
+              "id": "KG02215808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215600010",
+            "name": {
+              "local": "Чолпон-Ата",
+              "en": "Cholpon-Ata (city)",
+              "slug": "cholpon-ata-city-60001"
+            },
+            "code": {
+              "id": "KG02215600010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215855000",
+            "name": {
+              "local": "Чоң-Сары-Ой",
+              "en": "Chon-Sary-Oy",
+              "slug": "chon-sary-oy-15855"
+            },
+            "code": {
+              "id": "KG02215855000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215815000",
+            "name": {
+              "local": "Кара-Ой",
+              "en": "Kara-Oy",
+              "slug": "kara-oy-15815"
+            },
+            "code": {
+              "id": "KG02215815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215820000",
+            "name": {
+              "local": "Кум-Бел",
+              "en": "Kum-Bel",
+              "slug": "kum-bel-21582"
+            },
+            "code": {
+              "id": "KG02215820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215850000",
+            "name": {
+              "local": "Өрүктү",
+              "en": "Oryukti",
+              "slug": "oryukti-21585"
+            },
+            "code": {
+              "id": "KG02215850000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215810000",
+            "name": {
+              "local": "Садыр Аке",
+              "en": "Sadyr Ake",
+              "slug": "sadyr-ake-21581"
+            },
+            "code": {
+              "id": "KG02215810000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215825000",
+            "name": {
+              "local": "Семеновка",
+              "en": "Semenovka",
+              "slug": "semenovka-15825"
+            },
+            "code": {
+              "id": "KG02215825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215830000",
+            "name": {
+              "local": "Тамчы",
+              "en": "Tamchy",
+              "slug": "tamchy-21583"
+            },
+            "code": {
+              "id": "KG02215830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215840000",
+            "name": {
+              "local": "Темир",
+              "en": "Temir",
+              "slug": "temir-21584"
+            },
+            "code": {
+              "id": "KG02215840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02215845000",
+            "name": {
+              "local": "Тору-Айгыр",
+              "en": "Toru-Aygyr",
+              "slug": "toru-aygyr-15845"
+            },
+            "code": {
+              "id": "KG02215845000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG02210000000",
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        },
+        "code": {
+          "id": "KG02210000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG02210805000",
+            "name": {
+              "local": "Ак-Дөбө",
+              "en": "Ak-Debe",
+              "slug": "ak-debe-10805"
+            },
+            "code": {
+              "id": "KG02210805000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210855000",
+            "name": {
+              "local": "Алдашев",
+              "en": "Aldashev",
+              "slug": "aldashev-10855"
+            },
+            "code": {
+              "id": "KG02210855000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210815000",
+            "name": {
+              "local": "Барскоон",
+              "en": "Barskoon",
+              "slug": "barskoon-10815"
+            },
+            "code": {
+              "id": "KG02210815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210820000",
+            "name": {
+              "local": "Даркан",
+              "en": "Darkan",
+              "slug": "darkan-21082"
+            },
+            "code": {
+              "id": "KG02210820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210825000",
+            "name": {
+              "local": "Жаргылчак",
+              "en": "Djargylchak",
+              "slug": "djargylchak-10825"
+            },
+            "code": {
+              "id": "KG02210825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210830000",
+            "name": {
+              "local": "Жети-Өгүз",
+              "en": "Djeti-Oguz",
+              "slug": "djeti-oguz-21083"
+            },
+            "code": {
+              "id": "KG02210830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210850000",
+            "name": {
+              "local": "Кызыл-Суу",
+              "en": "Kyzyl-Suu",
+              "slug": "kyzyl-suu-21085"
+            },
+            "code": {
+              "id": "KG02210850000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210840000",
+            "name": {
+              "local": "Липенка",
+              "en": "Lipenka",
+              "slug": "lipenka-21084"
+            },
+            "code": {
+              "id": "KG02210840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210845000",
+            "name": {
+              "local": "Оргочор",
+              "en": "Orgochor",
+              "slug": "orgochor-10845"
+            },
+            "code": {
+              "id": "KG02210845000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210860000",
+            "name": {
+              "local": "Светлая Поляна",
+              "en": "Svetloya Polyana",
+              "slug": "svetloya-polyana-21086"
+            },
+            "code": {
+              "id": "KG02210860000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210862000",
+            "name": {
+              "local": "Тамга",
+              "en": "Tamga",
+              "slug": "tamga-10862"
+            },
+            "code": {
+              "id": "KG02210862000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02210835000",
+            "name": {
+              "local": "Ырдык",
+              "en": "Yrdyk",
+              "slug": "yrdyk-10835"
+            },
+            "code": {
+              "id": "KG02210835000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG02410000010",
+        "name": {
+          "local": "Каракол ш.",
+          "en": "Karakol (city)",
+          "slug": "karakol-city-00001"
+        },
+        "code": {
+          "id": "KG02410000010",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG02410520010",
+            "name": {
+              "local": "Пржевальск Пристаны",
+              "en": "Pristan-Prejeval'sk",
+              "slug": "pristan-prejevalsk-52001"
+            },
+            "code": {
+              "id": "KG02410520010",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG02220000000",
+        "name": {
+          "local": "Тоӊ",
+          "en": "Ton",
+          "slug": "ton-g0222"
+        },
+        "code": {
+          "id": "KG02220000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG02220805000",
+            "name": {
+              "local": "Ак-Терек",
+              "en": "Ak-Terek",
+              "slug": "ak-terek-20805"
+            },
+            "code": {
+              "id": "KG02220805000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02220808000",
+            "name": {
+              "local": "Болот Мамбетов",
+              "en": "Bolot Mambetov",
+              "slug": "bolot-mambetov-20808"
+            },
+            "code": {
+              "id": "KG02220808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02220828000",
+            "name": {
+              "local": "Кажы-Сай",
+              "en": "Kadji-Say",
+              "slug": "kadji-say-20828"
+            },
+            "code": {
+              "id": "KG02220828000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02220807000",
+            "name": {
+              "local": "Көк-Мойнок",
+              "en": "Kek-Moynok",
+              "slug": "kek-moynok-20807"
+            },
+            "code": {
+              "id": "KG02220807000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02220806000",
+            "name": {
+              "local": "Көл-Төр",
+              "en": "Kel-Ter",
+              "slug": "kel-ter-20806"
+            },
+            "code": {
+              "id": "KG02220806000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02220810000",
+            "name": {
+              "local": "Күн-Чыгыш",
+              "en": "Kyun-Chygysh",
+              "slug": "kyun-chygysh-22081"
+            },
+            "code": {
+              "id": "KG02220810000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02220820000",
+            "name": {
+              "local": "Төрт-Күл",
+              "en": "Tert-Kul",
+              "slug": "tert-kul-22082"
+            },
+            "code": {
+              "id": "KG02220820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02220815000",
+            "name": {
+              "local": "Тоң",
+              "en": "Ton",
+              "slug": "ton-20815"
+            },
+            "code": {
+              "id": "KG02220815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02220825000",
+            "name": {
+              "local": "Улакол",
+              "en": "Ulakol",
+              "slug": "ulakol-20825"
+            },
+            "code": {
+              "id": "KG02220825000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG02225000000",
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        },
+        "code": {
+          "id": "KG02225000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG02225896000",
+            "name": {
+              "local": "Ак-Булак",
+              "en": "Ak-Bulak",
+              "slug": "ak-bulak-25896"
+            },
+            "code": {
+              "id": "KG02225896000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225873000",
+            "name": {
+              "local": "Ак-Булуң",
+              "en": "Ak-Bulun",
+              "slug": "ak-bulun-25873"
+            },
+            "code": {
+              "id": "KG02225873000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225810000",
+            "name": {
+              "local": "Арал",
+              "en": "Aral",
+              "slug": "aral-22581"
+            },
+            "code": {
+              "id": "KG02225810000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225893000",
+            "name": {
+              "local": "Чоң-Таш",
+              "en": "Chon-Tash",
+              "slug": "chon-tash-25893"
+            },
+            "code": {
+              "id": "KG02225893000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225815000",
+            "name": {
+              "local": "Ысык-Көл",
+              "en": "Issyk-Kel",
+              "slug": "issyk-kel-25815"
+            },
+            "code": {
+              "id": "KG02225815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225883000",
+            "name": {
+              "local": "Карасаев",
+              "en": "Karasaev",
+              "slug": "karasaev-25883"
+            },
+            "code": {
+              "id": "KG02225883000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225835000",
+            "name": {
+              "local": "Кутургу",
+              "en": "Kuturgi",
+              "slug": "kuturgi-25835"
+            },
+            "code": {
+              "id": "KG02225835000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225841000",
+            "name": {
+              "local": "Михайловка",
+              "en": "Mikhaylovka",
+              "slug": "mikhaylovka-25841"
+            },
+            "code": {
+              "id": "KG02225841000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225865000",
+            "name": {
+              "local": "Сан-Таш",
+              "en": "San-Tash",
+              "slug": "san-tash-25865"
+            },
+            "code": {
+              "id": "KG02225865000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225870000",
+            "name": {
+              "local": "Сары-Булак",
+              "en": "Sary-Bulak",
+              "slug": "sary-bulak-22587"
+            },
+            "code": {
+              "id": "KG02225870000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225876000",
+            "name": {
+              "local": "Талды-Суу",
+              "en": "Taldy-Suu",
+              "slug": "taldy-suu-25876"
+            },
+            "code": {
+              "id": "KG02225876000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225847000",
+            "name": {
+              "local": "Тогуз-Булак",
+              "en": "Toguz-Bulak",
+              "slug": "toguz-bulak-25847"
+            },
+            "code": {
+              "id": "KG02225847000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG02225889000",
+            "name": {
+              "local": "Түп",
+              "en": "Tyup",
+              "slug": "tyup-25889"
+            },
+            "code": {
+              "id": "KG02225889000",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "KG03000000000",
+    "name": {
+      "local": "Жалалабат",
+      "en": "Jalal-Abad",
+      "slug": "jalal-abad-kg03"
+    },
+    "code": {
+      "id": "KG03000000000",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "KG03211000000",
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        },
+        "code": {
+          "id": "KG03211000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03211804000",
+            "name": {
+              "local": "Ак-Жол",
+              "en": "Ak-Jol",
+              "slug": "ak-jol-11804"
+            },
+            "code": {
+              "id": "KG03211804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211824000",
+            "name": {
+              "local": "Ак-Суу",
+              "en": "Ak-Suu",
+              "slug": "ak-suu-11824"
+            },
+            "code": {
+              "id": "KG03211824000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211808000",
+            "name": {
+              "local": "Авлетим",
+              "en": "Avletim",
+              "slug": "avletim-11808"
+            },
+            "code": {
+              "id": "KG03211808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211813000",
+            "name": {
+              "local": "Жаңы-Жол",
+              "en": "Djany-Djol",
+              "slug": "djany-djol-11813"
+            },
+            "code": {
+              "id": "KG03211813000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211860000",
+            "name": {
+              "local": "Жерге-Тал",
+              "en": "Djerge-Tal",
+              "slug": "djerge-tal-21186"
+            },
+            "code": {
+              "id": "KG03211860000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211832000",
+            "name": {
+              "local": "Кара-Жыгач",
+              "en": "Kara-Jygach",
+              "slug": "kara-jygach-11832"
+            },
+            "code": {
+              "id": "KG03211832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211857000",
+            "name": {
+              "local": "Кара-Суу",
+              "en": "Kara-Suu",
+              "slug": "kara-suu-11857"
+            },
+            "code": {
+              "id": "KG03211857000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211836000",
+            "name": {
+              "local": "Кашка-Суу",
+              "en": "Kashka-Suu",
+              "slug": "kashka-suu-11836"
+            },
+            "code": {
+              "id": "KG03211836000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211610010",
+            "name": {
+              "local": "Кербен",
+              "en": "Kerben (city)",
+              "slug": "kerben-city-61001"
+            },
+            "code": {
+              "id": "KG03211610010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211849000",
+            "name": {
+              "local": "Кызыл-Туу",
+              "en": "Kyzyl-Tuu",
+              "slug": "kyzyl-tuu-11849"
+            },
+            "code": {
+              "id": "KG03211849000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211842000",
+            "name": {
+              "local": "Мавлянов",
+              "en": "Mavlyanov",
+              "slug": "mavlyanov-11842"
+            },
+            "code": {
+              "id": "KG03211842000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03211863000",
+            "name": {
+              "local": "Назаралиев",
+              "en": "Nazaraliev",
+              "slug": "nazaraliev-11863"
+            },
+            "code": {
+              "id": "KG03211863000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG03204000000",
+        "name": {
+          "local": "Ала-Бука",
+          "en": "Ala-Buka",
+          "slug": "ala-buka-03204"
+        },
+        "code": {
+          "id": "KG03204000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03204804000",
+            "name": {
+              "local": "Ак-Коргон",
+              "en": "Ak-Korgon",
+              "slug": "ak-korgon-04804"
+            },
+            "code": {
+              "id": "KG03204804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03204806000",
+            "name": {
+              "local": "Ак-Там",
+              "en": "Ak-Tam",
+              "slug": "ak-tam-04806"
+            },
+            "code": {
+              "id": "KG03204806000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03204808000",
+            "name": {
+              "local": "Ала-Бука",
+              "en": "Ala-Buka",
+              "slug": "ala-buka-04808"
+            },
+            "code": {
+              "id": "KG03204808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03204827000",
+            "name": {
+              "local": "Көк-Серек",
+              "en": "Kek-Serek",
+              "slug": "kek-serek-04827"
+            },
+            "code": {
+              "id": "KG03204827000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03204856000",
+            "name": {
+              "local": "Көк-Таш",
+              "en": "Kek-Tash",
+              "slug": "kek-tash-04856"
+            },
+            "code": {
+              "id": "KG03204856000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03204847000",
+            "name": {
+              "local": "Өрүктү",
+              "en": "Oruktu",
+              "slug": "oruktu-04847"
+            },
+            "code": {
+              "id": "KG03204847000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03204850000",
+            "name": {
+              "local": "Биринчи Май",
+              "en": "Pervomay",
+              "slug": "pervomay-20485"
+            },
+            "code": {
+              "id": "KG03204850000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03204855000",
+            "name": {
+              "local": "Төрөгелди Балтагулов",
+              "en": "Torogeldi Baltagulov",
+              "slug": "torogeldi-baltagulov-04855"
+            },
+            "code": {
+              "id": "KG03204855000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG03207000000",
+        "name": {
+          "local": "Базар-Коргон",
+          "en": "Bazar-Korgon",
+          "slug": "bazar-korgon-03207"
+        },
+        "code": {
+          "id": "KG03207000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03207808000",
+            "name": {
+              "local": "Акман",
+              "en": "Akman",
+              "slug": "akman-07808"
+            },
+            "code": {
+              "id": "KG03207808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03207826000",
+            "name": {
+              "local": "Арстанбап",
+              "en": "Arstanbap",
+              "slug": "arstanbap-07826"
+            },
+            "code": {
+              "id": "KG03207826000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03207812000",
+            "name": {
+              "local": "Базар-Коргон",
+              "en": "Bazar-Korgon",
+              "slug": "bazar-korgon-07812"
+            },
+            "code": {
+              "id": "KG03207812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03207815000",
+            "name": {
+              "local": "Бешик-Жон",
+              "en": "Beshik-Jon",
+              "slug": "beshik-jon-07815"
+            },
+            "code": {
+              "id": "KG03207815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03207859000",
+            "name": {
+              "local": "Кеңеш",
+              "en": "Kenesh",
+              "slug": "kenesh-07859"
+            },
+            "code": {
+              "id": "KG03207859000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03207832000",
+            "name": {
+              "local": "Кызыл-Үңкүр",
+              "en": "Kyzyl-Unkyur",
+              "slug": "kyzyl-unkyur-07832"
+            },
+            "code": {
+              "id": "KG03207832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03207842000",
+            "name": {
+              "local": "Могол",
+              "en": "Mogol",
+              "slug": "mogol-07842"
+            },
+            "code": {
+              "id": "KG03207842000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03207856000",
+            "name": {
+              "local": "Сайдыкум",
+              "en": "Saydykum",
+              "slug": "saydykum-07856"
+            },
+            "code": {
+              "id": "KG03207856000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03207857000",
+            "name": {
+              "local": "Талдуу-Булак",
+              "en": "Talduu-Bulak",
+              "slug": "talduu-bulak-07857"
+            },
+            "code": {
+              "id": "KG03207857000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG03230000000",
+        "name": {
+          "local": "Чаткал",
+          "en": "Chatkal",
+          "slug": "chatkal-g0323"
+        },
+        "code": {
+          "id": "KG03230000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03230841000",
+            "name": {
+              "local": "Чаткал",
+              "en": "Chatkal",
+              "slug": "chatkal-30841"
+            },
+            "code": {
+              "id": "KG03230841000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03230822000",
+            "name": {
+              "local": "Каныш-Кыя",
+              "en": "Kanysh-Kyya",
+              "slug": "kanysh-kyya-30822"
+            },
+            "code": {
+              "id": "KG03230822000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03230844000",
+            "name": {
+              "local": "Сумсар",
+              "en": "Sumsar",
+              "slug": "sumsar-30844"
+            },
+            "code": {
+              "id": "KG03230844000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03230847000",
+            "name": {
+              "local": "Терек-Сай",
+              "en": "Terek-Say",
+              "slug": "terek-say-30847"
+            },
+            "code": {
+              "id": "KG03230847000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG03410000010",
+        "name": {
+          "local": "Жалал-Абад ш.",
+          "en": "Jalal-Abad (city)",
+          "slug": "jalal-abad-city-00001"
+        },
+        "code": {
+          "id": "KG03410000010",
+          "iso": null
+        },
+        "settlement": []
+      },
+      {
+        "id": "KG03440000010",
+        "name": {
+          "local": "Кара-Көл ш.",
+          "en": "Kara-Kul (city)",
+          "slug": "kara-kul-city-00001"
+        },
+        "code": {
+          "id": "KG03440000010",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03440510010",
+            "name": {
+              "local": "Кетмен-Төбө",
+              "en": "Ketmen-Tebe",
+              "slug": "ketmen-tebe-51001"
+            },
+            "code": {
+              "id": "KG03440510010",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG03220400010",
+        "name": {
+          "local": "Көк-Жаңгак ш.",
+          "en": "Kok-Zhangak (city)",
+          "slug": "kok-zhangak-city-40001"
+        },
+        "code": {
+          "id": "KG03220400010",
+          "iso": null
+        },
+        "settlement": []
+      },
+      {
+        "id": "KG03430000010",
+        "name": {
+          "local": "Майлуу-Суу ш.",
+          "en": "Mailuu-Suu (city)",
+          "slug": "mailuu-suu-city-00001"
+        },
+        "code": {
+          "id": "KG03430000010",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03430510010",
+            "name": {
+              "local": "Көк-Таш",
+              "en": "Kek-Tash",
+              "slug": "kek-tash-51001"
+            },
+            "code": {
+              "id": "KG03430510010",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG03215000000",
+        "name": {
+          "local": "Ноокен",
+          "en": "Nooken",
+          "slug": "nooken-03215"
+        },
+        "code": {
+          "id": "KG03215000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03215804000",
+            "name": {
+              "local": "Арал",
+              "en": "Aral",
+              "slug": "aral-15804"
+            },
+            "code": {
+              "id": "KG03215804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03215819000",
+            "name": {
+              "local": "Бүргөндү",
+              "en": "Byurgendi",
+              "slug": "byurgendi-15819"
+            },
+            "code": {
+              "id": "KG03215819000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03215821000",
+            "name": {
+              "local": "Достук",
+              "en": "Dostuk",
+              "slug": "dostuk-15821"
+            },
+            "code": {
+              "id": "KG03215821000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03215600010",
+            "name": {
+              "local": "Кочкор-Ата",
+              "en": "Kochkor-Ata (city)",
+              "slug": "kochkor-ata-city-60001"
+            },
+            "code": {
+              "id": "KG03215600010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03215836000",
+            "name": {
+              "local": "Масы",
+              "en": "Massy",
+              "slug": "massy-15836"
+            },
+            "code": {
+              "id": "KG03215836000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03215840000",
+            "name": {
+              "local": "Момбеков",
+              "en": "Mombekov",
+              "slug": "mombekov-21584"
+            },
+            "code": {
+              "id": "KG03215840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03215846000",
+            "name": {
+              "local": "Ноокат",
+              "en": "Nookat",
+              "slug": "nookat-15846"
+            },
+            "code": {
+              "id": "KG03215846000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03215851000",
+            "name": {
+              "local": "Сакалды",
+              "en": "Sakaldi",
+              "slug": "sakaldi-15851"
+            },
+            "code": {
+              "id": "KG03215851000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03215876000",
+            "name": {
+              "local": "Шайдан",
+              "en": "Shaydan",
+              "slug": "shaydan-15876"
+            },
+            "code": {
+              "id": "KG03215876000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG03220000000",
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        },
+        "code": {
+          "id": "KG03220000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03220851000",
+            "name": {
+              "local": "Багыш",
+              "en": "Bagysh",
+              "slug": "bagysh-20851"
+            },
+            "code": {
+              "id": "KG03220851000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220812000",
+            "name": {
+              "local": "Барпы",
+              "en": "Barpyn",
+              "slug": "barpyn-20812"
+            },
+            "code": {
+              "id": "KG03220812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220825000",
+            "name": {
+              "local": "Кара-Алма",
+              "en": "Kara-Almin",
+              "slug": "kara-almin-20825"
+            },
+            "code": {
+              "id": "KG03220825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220828000",
+            "name": {
+              "local": "Кара-Дарья",
+              "en": "Kara-Daryyan",
+              "slug": "kara-daryyan-20828"
+            },
+            "code": {
+              "id": "KG03220828000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220834000",
+            "name": {
+              "local": "Көк-Арт",
+              "en": "Kegart",
+              "slug": "kegart-20834"
+            },
+            "code": {
+              "id": "KG03220834000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220805000",
+            "name": {
+              "local": "Курманбек",
+              "en": "Kurmanbek",
+              "slug": "kurmanbek-20805"
+            },
+            "code": {
+              "id": "KG03220805000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220838000",
+            "name": {
+              "local": "Кыз-Көл",
+              "en": "Kyz-Kel",
+              "slug": "kyz-kel-20838"
+            },
+            "code": {
+              "id": "KG03220838000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220842000",
+            "name": {
+              "local": "Кызыл-Туу",
+              "en": "Kyzyl-Tuu",
+              "slug": "kyzyl-tuu-20842"
+            },
+            "code": {
+              "id": "KG03220842000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220846000",
+            "name": {
+              "local": "Ленин",
+              "en": "Lenin",
+              "slug": "lenin-20846"
+            },
+            "code": {
+              "id": "KG03220846000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220854000",
+            "name": {
+              "local": "Сайпидин Атабеков",
+              "en": "Saypidin-Atabekov",
+              "slug": "saypidin-atabekov-20854"
+            },
+            "code": {
+              "id": "KG03220854000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220856000",
+            "name": {
+              "local": "Сузак",
+              "en": "Suzak",
+              "slug": "suzak-20856"
+            },
+            "code": {
+              "id": "KG03220856000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220863000",
+            "name": {
+              "local": "Таш-Булак",
+              "en": "Tash-Bulak",
+              "slug": "tash-bulak-20863"
+            },
+            "code": {
+              "id": "KG03220863000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03220874000",
+            "name": {
+              "local": "Ырыс",
+              "en": "Yrys",
+              "slug": "yrys-20874"
+            },
+            "code": {
+              "id": "KG03220874000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG03420000010",
+        "name": {
+          "local": "Таш-Көмүр ш.",
+          "en": "Tash-Kumir (city)",
+          "slug": "tash-kumir-city-00001"
+        },
+        "code": {
+          "id": "KG03420000010",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03420510010",
+            "name": {
+              "local": "Кызыл-Жар",
+              "en": "Kyzyl-Djar",
+              "slug": "kyzyl-djar-51001"
+            },
+            "code": {
+              "id": "KG03420510010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03420520010",
+            "name": {
+              "local": "Шамалды-Сай",
+              "en": "Shamaldy-Say",
+              "slug": "shamaldy-say-52001"
+            },
+            "code": {
+              "id": "KG03420520010",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG03223000000",
+        "name": {
+          "local": "Тогуз-Торо",
+          "en": "Toguz-Toro",
+          "slug": "toguz-toro-03223"
+        },
+        "code": {
+          "id": "KG03223000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03223805000",
+            "name": {
+              "local": "Атай",
+              "en": "Atay",
+              "slug": "atay-23805"
+            },
+            "code": {
+              "id": "KG03223805000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03223812000",
+            "name": {
+              "local": "Каргалык",
+              "en": "Kargalyk",
+              "slug": "kargalyk-23812"
+            },
+            "code": {
+              "id": "KG03223812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03223806000",
+            "name": {
+              "local": "Көк-Ирим",
+              "en": "Kok-Irim",
+              "slug": "kok-irim-23806"
+            },
+            "code": {
+              "id": "KG03223806000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03223820000",
+            "name": {
+              "local": "Сары-Булуң",
+              "en": "Sary-Bulun",
+              "slug": "sary-bulun-22382"
+            },
+            "code": {
+              "id": "KG03223820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03223825000",
+            "name": {
+              "local": "Тогуз-Торо",
+              "en": "Toguz-Torou",
+              "slug": "toguz-torou-23825"
+            },
+            "code": {
+              "id": "KG03223825000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG03225000000",
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        },
+        "code": {
+          "id": "KG03225000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG03225843000",
+            "name": {
+              "local": "Абды Сүйөркулов",
+              "en": "Abdy Suerkulov",
+              "slug": "abdy-suerkulov-25843"
+            },
+            "code": {
+              "id": "KG03225843000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03225840000",
+            "name": {
+              "local": "Аралбаев",
+              "en": "Aralbaev",
+              "slug": "aralbaev-22584"
+            },
+            "code": {
+              "id": "KG03225840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03225807000",
+            "name": {
+              "local": "Бел-Алды",
+              "en": "Bel'-Aldyn",
+              "slug": "bel-aldyn-25807"
+            },
+            "code": {
+              "id": "KG03225807000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03225853000",
+            "name": {
+              "local": "Чолпон-Ата",
+              "en": "Cholpon-Ata",
+              "slug": "cholpon-ata-25853"
+            },
+            "code": {
+              "id": "KG03225853000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03225815000",
+            "name": {
+              "local": "Жаңы-Жол",
+              "en": "Djany-Djol'",
+              "slug": "djany-djol-25815"
+            },
+            "code": {
+              "id": "KG03225815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03225825000",
+            "name": {
+              "local": "Кетмен-Дөбө",
+              "en": "Ketmen'-Deben",
+              "slug": "ketmen-deben-25825"
+            },
+            "code": {
+              "id": "KG03225825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03225820000",
+            "name": {
+              "local": "Кызыл-Өзгөрүш",
+              "en": "Kyzyl-Ozgorush",
+              "slug": "kyzyl-ozgorush-22582"
+            },
+            "code": {
+              "id": "KG03225820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03225821000",
+            "name": {
+              "local": "Ничке-Сай",
+              "en": "Nichke-Say",
+              "slug": "nichke-say-25821"
+            },
+            "code": {
+              "id": "KG03225821000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03225835000",
+            "name": {
+              "local": "Сары-Камыш",
+              "en": "Sary-Kamysh",
+              "slug": "sary-kamysh-25835"
+            },
+            "code": {
+              "id": "KG03225835000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03225600010",
+            "name": {
+              "local": "Токтогул",
+              "en": "Toktogul (city)",
+              "slug": "toktogul-city-60001"
+            },
+            "code": {
+              "id": "KG03225600010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG03225836000",
+            "name": {
+              "local": "Үч-Терек",
+              "en": "Uch-Terek",
+              "slug": "uch-terek-25836"
+            },
+            "code": {
+              "id": "KG03225836000",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "KG04000000000",
+    "name": {
+      "local": "Нарын",
+      "en": "Naryn",
+      "slug": "naryn-kg04"
+    },
+    "code": {
+      "id": "KG04000000000",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "KG04220000000",
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        },
+        "code": {
+          "id": "KG04220000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG04220813000",
+            "name": {
+              "local": "Ача-Кайыңды",
+              "en": "Acha-Kaindy",
+              "slug": "acha-kaindy-20813"
+            },
+            "code": {
+              "id": "KG04220813000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220803000",
+            "name": {
+              "local": "Ак-Жар",
+              "en": "Ak-Djar",
+              "slug": "ak-djar-20803"
+            },
+            "code": {
+              "id": "KG04220803000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220806000",
+            "name": {
+              "local": "Ак-Моюн",
+              "en": "Ak-Moyun",
+              "slug": "ak-moyun-20806"
+            },
+            "code": {
+              "id": "KG04220806000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220807000",
+            "name": {
+              "local": "Ак-Муз",
+              "en": "Ak-Muz",
+              "slug": "ak-muz-20807"
+            },
+            "code": {
+              "id": "KG04220807000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220808000",
+            "name": {
+              "local": "Ак-Талаа",
+              "en": "Ak-Tala",
+              "slug": "ak-tala-20808"
+            },
+            "code": {
+              "id": "KG04220808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220812000",
+            "name": {
+              "local": "Ат-Башы",
+              "en": "At-Bashy",
+              "slug": "at-bashy-20812"
+            },
+            "code": {
+              "id": "KG04220812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220817000",
+            "name": {
+              "local": "Баш-Кайыңды",
+              "en": "Bash-Kaindy",
+              "slug": "bash-kaindy-20817"
+            },
+            "code": {
+              "id": "KG04220817000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220000903",
+            "name": {
+              "local": "Чатыр Көл",
+              "en": "Chatyr Kul",
+              "slug": "chatyr-kul-00903"
+            },
+            "code": {
+              "id": "KG04220000903",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220832000",
+            "name": {
+              "local": "Кара-Коюн",
+              "en": "Kara-Koyun",
+              "slug": "kara-koyun-20832"
+            },
+            "code": {
+              "id": "KG04220832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220836000",
+            "name": {
+              "local": "Кара-Суу",
+              "en": "Kara-Suu",
+              "slug": "kara-suu-20836"
+            },
+            "code": {
+              "id": "KG04220836000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220830000",
+            "name": {
+              "local": "Казыбек",
+              "en": "Kazybek",
+              "slug": "kazybek-22083"
+            },
+            "code": {
+              "id": "KG04220830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04220845000",
+            "name": {
+              "local": "Талды-Суу",
+              "en": "Taldy-Suu",
+              "slug": "taldy-suu-20845"
+            },
+            "code": {
+              "id": "KG04220845000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG04210000000",
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        },
+        "code": {
+          "id": "KG04210000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG04210808000",
+            "name": {
+              "local": "Ак-Чий",
+              "en": "Ak-Chiy",
+              "slug": "ak-chiy-10808"
+            },
+            "code": {
+              "id": "KG04210808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210806000",
+            "name": {
+              "local": "Ак-Тал",
+              "en": "Ak-Tal",
+              "slug": "ak-tal-10806"
+            },
+            "code": {
+              "id": "KG04210806000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210809000",
+            "name": {
+              "local": "Баетов",
+              "en": "Baetov",
+              "slug": "baetov-10809"
+            },
+            "code": {
+              "id": "KG04210809000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210825000",
+            "name": {
+              "local": "Жаңы-Талап",
+              "en": "Djany-Talap",
+              "slug": "djany-talap-10825"
+            },
+            "code": {
+              "id": "KG04210825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210819000",
+            "name": {
+              "local": "Жерге-Тал",
+              "en": "Jerge-Tal",
+              "slug": "jerge-tal-10819"
+            },
+            "code": {
+              "id": "KG04210819000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210816000",
+            "name": {
+              "local": "Кара-Бүргөн",
+              "en": "Kara-Byurgen",
+              "slug": "kara-byurgen-10816"
+            },
+            "code": {
+              "id": "KG04210816000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210830000",
+            "name": {
+              "local": "Көк-Жар",
+              "en": "Kek-Djar",
+              "slug": "kek-djar-21083"
+            },
+            "code": {
+              "id": "KG04210830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210818000",
+            "name": {
+              "local": "Коңорчок",
+              "en": "Konorchok",
+              "slug": "konorchok-10818"
+            },
+            "code": {
+              "id": "KG04210818000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210820000",
+            "name": {
+              "local": "Кош-Дөбө",
+              "en": "Kosh-Debe",
+              "slug": "kosh-debe-21082"
+            },
+            "code": {
+              "id": "KG04210820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210822000",
+            "name": {
+              "local": "Кызыл-Белес",
+              "en": "Kyzyl-Beles",
+              "slug": "kyzyl-beles-10822"
+            },
+            "code": {
+              "id": "KG04210822000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210811000",
+            "name": {
+              "local": "Терек",
+              "en": "Terek",
+              "slug": "terek-10811"
+            },
+            "code": {
+              "id": "KG04210811000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210828000",
+            "name": {
+              "local": "Тоголок-Молдо",
+              "en": "Togolok-Moldo",
+              "slug": "togolok-moldo-10828"
+            },
+            "code": {
+              "id": "KG04210828000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04210840000",
+            "name": {
+              "local": "Үгүт",
+              "en": "Ugut",
+              "slug": "ugut-21084"
+            },
+            "code": {
+              "id": "KG04210840000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG04230000000",
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        },
+        "code": {
+          "id": "KG04230000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG04230804000",
+            "name": {
+              "local": "Баш-Кууганды",
+              "en": "Bash-Kuugandy",
+              "slug": "bash-kuugandy-30804"
+            },
+            "code": {
+              "id": "KG04230804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04230817000",
+            "name": {
+              "local": "Байзак",
+              "en": "Bayzakov",
+              "slug": "bayzakov-30817"
+            },
+            "code": {
+              "id": "KG04230817000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04230836000",
+            "name": {
+              "local": "Чаек",
+              "en": "Chaek",
+              "slug": "chaek-30836"
+            },
+            "code": {
+              "id": "KG04230836000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04230806000",
+            "name": {
+              "local": "Жаңы-Арык",
+              "en": "Djany-Aryk",
+              "slug": "djany-aryk-30806"
+            },
+            "code": {
+              "id": "KG04230806000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04230809000",
+            "name": {
+              "local": "Жумгал",
+              "en": "Djumgal",
+              "slug": "djumgal-30809"
+            },
+            "code": {
+              "id": "KG04230809000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04230813000",
+            "name": {
+              "local": "Кабак",
+              "en": "Kabak",
+              "slug": "kabak-30813"
+            },
+            "code": {
+              "id": "KG04230813000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04230815000",
+            "name": {
+              "local": "Көк-Ой",
+              "en": "Kek-Oy",
+              "slug": "kek-oy-30815"
+            },
+            "code": {
+              "id": "KG04230815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04230825000",
+            "name": {
+              "local": "Куйручук",
+              "en": "Kuyruchuk",
+              "slug": "kuyruchuk-30825"
+            },
+            "code": {
+              "id": "KG04230825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04230840000",
+            "name": {
+              "local": "Миң-Куш",
+              "en": "Min-Kush",
+              "slug": "min-kush-23084"
+            },
+            "code": {
+              "id": "KG04230840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04230834000",
+            "name": {
+              "local": "Түгөл-Сай",
+              "en": "Tugol-Say",
+              "slug": "tugol-say-30834"
+            },
+            "code": {
+              "id": "KG04230834000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG04235000000",
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        },
+        "code": {
+          "id": "KG04235000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG04235806000",
+            "name": {
+              "local": "Ак-Кыя",
+              "en": "Ak-Kyya",
+              "slug": "ak-kyya-35806"
+            },
+            "code": {
+              "id": "KG04235806000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04235842000",
+            "name": {
+              "local": "Чолпон",
+              "en": "Cholpon",
+              "slug": "cholpon-35842"
+            },
+            "code": {
+              "id": "KG04235842000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04235812000",
+            "name": {
+              "local": "Кара-Суу",
+              "en": "Kara-Suu",
+              "slug": "kara-suu-35812"
+            },
+            "code": {
+              "id": "KG04235812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04235816000",
+            "name": {
+              "local": "Кочкор",
+              "en": "Kochkor",
+              "slug": "kochkor-35816"
+            },
+            "code": {
+              "id": "KG04235816000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04235837000",
+            "name": {
+              "local": "Көк-Жар",
+              "en": "Kok-Jar",
+              "slug": "kok-jar-35837"
+            },
+            "code": {
+              "id": "KG04235837000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04235819000",
+            "name": {
+              "local": "Кош-Дөбө",
+              "en": "Kosh-Debe",
+              "slug": "kosh-debe-35819"
+            },
+            "code": {
+              "id": "KG04235819000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04235825000",
+            "name": {
+              "local": "Кум-Дөбө",
+              "en": "Kum-Debe",
+              "slug": "kum-debe-35825"
+            },
+            "code": {
+              "id": "KG04235825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04235830000",
+            "name": {
+              "local": "Сары-Булак",
+              "en": "Sary-Bulak",
+              "slug": "sary-bulak-23583"
+            },
+            "code": {
+              "id": "KG04235830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04235832000",
+            "name": {
+              "local": "Семиз-Бел",
+              "en": "Semiz-Bel",
+              "slug": "semiz-bel-35832"
+            },
+            "code": {
+              "id": "KG04235832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04235843000",
+            "name": {
+              "local": "Соң-Көл",
+              "en": "Son-Kul",
+              "slug": "son-kul-35843"
+            },
+            "code": {
+              "id": "KG04235843000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04235835000",
+            "name": {
+              "local": "Талаа-Булак",
+              "en": "Talaa-Bulak",
+              "slug": "talaa-bulak-35835"
+            },
+            "code": {
+              "id": "KG04235835000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG04245000000",
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        },
+        "code": {
+          "id": "KG04245000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG04245806000",
+            "name": {
+              "local": "Ак-Кудук",
+              "en": "Ak-Kuduk",
+              "slug": "ak-kuduk-45806"
+            },
+            "code": {
+              "id": "KG04245806000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245850000",
+            "name": {
+              "local": "Чет-Нура",
+              "en": "Chet-Nura",
+              "slug": "chet-nura-24585"
+            },
+            "code": {
+              "id": "KG04245850000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245812000",
+            "name": {
+              "local": "Дөбөлү",
+              "en": "Debeli",
+              "slug": "debeli-45812"
+            },
+            "code": {
+              "id": "KG04245812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245815000",
+            "name": {
+              "local": "Жан-Булак",
+              "en": "Djan-Bulak",
+              "slug": "djan-bulak-45815"
+            },
+            "code": {
+              "id": "KG04245815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245818000",
+            "name": {
+              "local": "Жерге-Тал",
+              "en": "Djergetal",
+              "slug": "djergetal-45818"
+            },
+            "code": {
+              "id": "KG04245818000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245863000",
+            "name": {
+              "local": "Достук",
+              "en": "Dostuk",
+              "slug": "dostuk-45863"
+            },
+            "code": {
+              "id": "KG04245863000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245855000",
+            "name": {
+              "local": "Эмгек-Талаа",
+              "en": "Emgek-Talaa",
+              "slug": "emgek-talaa-45855"
+            },
+            "code": {
+              "id": "KG04245855000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245832000",
+            "name": {
+              "local": "Эмгекчил",
+              "en": "Emgekchil",
+              "slug": "emgekchil-45832"
+            },
+            "code": {
+              "id": "KG04245832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245829000",
+            "name": {
+              "local": "Кара-Кужур",
+              "en": "Kara-Kudjur",
+              "slug": "kara-kudjur-45829"
+            },
+            "code": {
+              "id": "KG04245829000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245825000",
+            "name": {
+              "local": "Казан-Куйган",
+              "en": "Kazan-Kuygan",
+              "slug": "kazan-kuygan-45825"
+            },
+            "code": {
+              "id": "KG04245825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245835000",
+            "name": {
+              "local": "Миң-Булак",
+              "en": "Min-Bulak",
+              "slug": "min-bulak-45835"
+            },
+            "code": {
+              "id": "KG04245835000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245840000",
+            "name": {
+              "local": "Он-Арча",
+              "en": "On-Archa",
+              "slug": "on-archa-24584"
+            },
+            "code": {
+              "id": "KG04245840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245844000",
+            "name": {
+              "local": "Орток",
+              "en": "Ortok",
+              "slug": "ortok-45844"
+            },
+            "code": {
+              "id": "KG04245844000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG04245845000",
+            "name": {
+              "local": "Учкун",
+              "en": "Uchkun",
+              "slug": "uchkun-45845"
+            },
+            "code": {
+              "id": "KG04245845000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG04400000010",
+        "name": {
+          "local": "Нарын ш.",
+          "en": "Naryn (city)",
+          "slug": "naryn-city-00001"
+        },
+        "code": {
+          "id": "KG04400000010",
+          "iso": null
+        },
+        "settlement": []
+      }
+    ]
+  },
+  {
+    "id": "KG06000000000",
+    "name": {
+      "local": "Ош",
+      "en": "Osh",
+      "slug": "osh-kg06"
+    },
+    "code": {
+      "id": "KG06000000000",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "KG06207000000",
+        "name": {
+          "local": "Алай",
+          "en": "Alai",
+          "slug": "alai-06207"
+        },
+        "code": {
+          "id": "KG06207000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG06207804000",
+            "name": {
+              "local": "К.Белекбаев атындагы Алай",
+              "en": "Alay (K.Belekbaeva)",
+              "slug": "alay-kbelekbaeva-07804"
+            },
+            "code": {
+              "id": "KG06207804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06207809000",
+            "name": {
+              "local": "Будалык",
+              "en": "Budalyk",
+              "slug": "budalyk-07809"
+            },
+            "code": {
+              "id": "KG06207809000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06207811000",
+            "name": {
+              "local": "Бүлөлү",
+              "en": "Byuleli",
+              "slug": "byuleli-07811"
+            },
+            "code": {
+              "id": "KG06207811000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06207818000",
+            "name": {
+              "local": "Жошолу",
+              "en": "Djosholu",
+              "slug": "djosholu-07818"
+            },
+            "code": {
+              "id": "KG06207818000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06207814000",
+            "name": {
+              "local": "Гүлчө",
+              "en": "Gulchi",
+              "slug": "gulchi-07814"
+            },
+            "code": {
+              "id": "KG06207814000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06207822000",
+            "name": {
+              "local": "Коңур-Дөбө",
+              "en": "Konur-Dobe",
+              "slug": "konur-dobe-07822"
+            },
+            "code": {
+              "id": "KG06207822000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06207825000",
+            "name": {
+              "local": "Корул",
+              "en": "Korul",
+              "slug": "korul-07825"
+            },
+            "code": {
+              "id": "KG06207825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06207830000",
+            "name": {
+              "local": "Ленин",
+              "en": "Lenin",
+              "slug": "lenin-20783"
+            },
+            "code": {
+              "id": "KG06207830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06207844000",
+            "name": {
+              "local": "Сары-Таш",
+              "en": "Sary-Tash",
+              "slug": "sary-tash-07844"
+            },
+            "code": {
+              "id": "KG06207844000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06207838000",
+            "name": {
+              "local": "Талды-Суу",
+              "en": "Taldy-Suu",
+              "slug": "taldy-suu-07838"
+            },
+            "code": {
+              "id": "KG06207838000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06207840000",
+            "name": {
+              "local": "Үч-Дөбө",
+              "en": "Uch-Debe",
+              "slug": "uch-debe-20784"
+            },
+            "code": {
+              "id": "KG06207840000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG06211000000",
+        "name": {
+          "local": "Араван",
+          "en": "Aravan",
+          "slug": "aravan-06211"
+        },
+        "code": {
+          "id": "KG06211000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG06211807000",
+            "name": {
+              "local": "Алля Анаров",
+              "en": "Allya Anarov",
+              "slug": "allya-anarov-11807"
+            },
+            "code": {
+              "id": "KG06211807000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06211835000",
+            "name": {
+              "local": "Чек-Абад",
+              "en": "Chek-Abad",
+              "slug": "chek-abad-11835"
+            },
+            "code": {
+              "id": "KG06211835000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06211815000",
+            "name": {
+              "local": "Керме-Тоо",
+              "en": "Kerme-Too",
+              "slug": "kerme-too-11815"
+            },
+            "code": {
+              "id": "KG06211815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06211812000",
+            "name": {
+              "local": "Мангыт",
+              "en": "Mangyt",
+              "slug": "mangyt-11812"
+            },
+            "code": {
+              "id": "KG06211812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06211829000",
+            "name": {
+              "local": "Төө-Моюн",
+              "en": "Teo-Moyun",
+              "slug": "teo-moyun-11829"
+            },
+            "code": {
+              "id": "KG06211829000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06211823000",
+            "name": {
+              "local": "Тепе-Коргон",
+              "en": "Tepe-Korgon",
+              "slug": "tepe-korgon-11823"
+            },
+            "code": {
+              "id": "KG06211823000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG06259000000",
+        "name": {
+          "local": "Чоӊ-Алай",
+          "en": "Chon-Alai",
+          "slug": "chon-alai-06259"
+        },
+        "code": {
+          "id": "KG06259000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG06259851000",
+            "name": {
+              "local": "Чоң-Алай",
+              "en": "Chon-Alay",
+              "slug": "chon-alay-59851"
+            },
+            "code": {
+              "id": "KG06259851000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06259816000",
+            "name": {
+              "local": "Жекенди",
+              "en": "Jekendi",
+              "slug": "jekendi-59816"
+            },
+            "code": {
+              "id": "KG06259816000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06259824000",
+            "name": {
+              "local": "Кашка-Суу",
+              "en": "Kashka-Suu",
+              "slug": "kashka-suu-59824"
+            },
+            "code": {
+              "id": "KG06259824000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG06246000000",
+        "name": {
+          "local": "Кара-Кулжа",
+          "en": "Kara-Kulja",
+          "slug": "kara-kulja-06246"
+        },
+        "code": {
+          "id": "KG06246000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG06246804000",
+            "name": {
+              "local": "Алайкуу",
+              "en": "Alaykuu",
+              "slug": "alaykuu-46804"
+            },
+            "code": {
+              "id": "KG06246804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06246860000",
+            "name": {
+              "local": "Чалма",
+              "en": "Chalma",
+              "slug": "chalma-24686"
+            },
+            "code": {
+              "id": "KG06246860000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06246812000",
+            "name": {
+              "local": "Капчыгай",
+              "en": "Kapchygay",
+              "slug": "kapchygay-46812"
+            },
+            "code": {
+              "id": "KG06246812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06246818000",
+            "name": {
+              "local": "Кара-Кочкор",
+              "en": "Kara-Kochkor",
+              "slug": "kara-kochkor-46818"
+            },
+            "code": {
+              "id": "KG06246818000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06246820000",
+            "name": {
+              "local": "Кара-Кулжа",
+              "en": "Kara-Kul'dja",
+              "slug": "kara-kuldja-24682"
+            },
+            "code": {
+              "id": "KG06246820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06246816000",
+            "name": {
+              "local": "Карагуз",
+              "en": "Karaguz",
+              "slug": "karaguz-46816"
+            },
+            "code": {
+              "id": "KG06246816000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06246861000",
+            "name": {
+              "local": "Кашка-Жол",
+              "en": "Kashka-Jol",
+              "slug": "kashka-jol-46861"
+            },
+            "code": {
+              "id": "KG06246861000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06246826000",
+            "name": {
+              "local": "Кызыл-Жар",
+              "en": "Kyzyl-Jar",
+              "slug": "kyzyl-jar-46826"
+            },
+            "code": {
+              "id": "KG06246826000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06246838000",
+            "name": {
+              "local": "Ой-Тал",
+              "en": "Oy-Tal",
+              "slug": "oy-tal-46838"
+            },
+            "code": {
+              "id": "KG06246838000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06246849000",
+            "name": {
+              "local": "Сары-Булак",
+              "en": "Sary-Bulak",
+              "slug": "sary-bulak-46849"
+            },
+            "code": {
+              "id": "KG06246849000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06246834000",
+            "name": {
+              "local": "Ылай-Талаа",
+              "en": "Ylay-Talaa",
+              "slug": "ylay-talaa-46834"
+            },
+            "code": {
+              "id": "KG06246834000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG06226000000",
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        },
+        "code": {
+          "id": "KG06226000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG06226804000",
+            "name": {
+              "local": "Ак-Таш",
+              "en": "Ak-Tash",
+              "slug": "ak-tash-26804"
+            },
+            "code": {
+              "id": "KG06226804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226806000",
+            "name": {
+              "local": "Жаңы-Арык",
+              "en": "Djany-Aryk",
+              "slug": "djany-aryk-26806"
+            },
+            "code": {
+              "id": "KG06226806000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226807000",
+            "name": {
+              "local": "Жоош",
+              "en": "Joosh",
+              "slug": "joosh-26807"
+            },
+            "code": {
+              "id": "KG06226807000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226600010",
+            "name": {
+              "local": "Кара-Суу",
+              "en": "Kara-Suu (city)",
+              "slug": "kara-suu-city-60001"
+            },
+            "code": {
+              "id": "KG06226600010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226816000",
+            "name": {
+              "local": "Кашгар-Кыштак",
+              "en": "Kashgar-Kyshtak",
+              "slug": "kashgar-kyshtak-26816"
+            },
+            "code": {
+              "id": "KG06226816000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226812000",
+            "name": {
+              "local": "Катта-Талдык",
+              "en": "Katta-Taldyk",
+              "slug": "katta-taldyk-26812"
+            },
+            "code": {
+              "id": "KG06226812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226819000",
+            "name": {
+              "local": "Кызыл-Кыштак",
+              "en": "Kyzyl-Kyshtak",
+              "slug": "kyzyl-kyshtak-26819"
+            },
+            "code": {
+              "id": "KG06226819000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226822000",
+            "name": {
+              "local": "Кызыл-Суу",
+              "en": "Kyzyl-Suu",
+              "slug": "kyzyl-suu-26822"
+            },
+            "code": {
+              "id": "KG06226822000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226826000",
+            "name": {
+              "local": "Мады",
+              "en": "Mady",
+              "slug": "mady-26826"
+            },
+            "code": {
+              "id": "KG06226826000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226830000",
+            "name": {
+              "local": "Нариман",
+              "en": "Nariman",
+              "slug": "nariman-22683"
+            },
+            "code": {
+              "id": "KG06226830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226838000",
+            "name": {
+              "local": "Отуз-Адыр",
+              "en": "Otuz-Adyr",
+              "slug": "otuz-adyr-26838"
+            },
+            "code": {
+              "id": "KG06226838000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226842000",
+            "name": {
+              "local": "Папан",
+              "en": "Papan",
+              "slug": "papan-26842"
+            },
+            "code": {
+              "id": "KG06226842000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226854000",
+            "name": {
+              "local": "Сарай",
+              "en": "Saray",
+              "slug": "saray-26854"
+            },
+            "code": {
+              "id": "KG06226854000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226850000",
+            "name": {
+              "local": "Савай",
+              "en": "Savay",
+              "slug": "savay-22685"
+            },
+            "code": {
+              "id": "KG06226850000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226868000",
+            "name": {
+              "local": "Шарк",
+              "en": "Shark",
+              "slug": "shark-26868"
+            },
+            "code": {
+              "id": "KG06226868000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06226862000",
+            "name": {
+              "local": "Төлөйкөн",
+              "en": "Teleyken",
+              "slug": "teleyken-26862"
+            },
+            "code": {
+              "id": "KG06226862000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG06242000000",
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        },
+        "code": {
+          "id": "KG06242000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG06242808000",
+            "name": {
+              "local": "Бел",
+              "en": "Bel",
+              "slug": "bel-42808"
+            },
+            "code": {
+              "id": "KG06242808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242814000",
+            "name": {
+              "local": "Жаңы-Ноокат",
+              "en": "Djany-Nookat",
+              "slug": "djany-nookat-42814"
+            },
+            "code": {
+              "id": "KG06242814000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242811000",
+            "name": {
+              "local": "Гүлстан",
+              "en": "Gyulstan",
+              "slug": "gyulstan-42811"
+            },
+            "code": {
+              "id": "KG06242811000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242836000",
+            "name": {
+              "local": "Исанов",
+              "en": "Isanov",
+              "slug": "isanov-42836"
+            },
+            "code": {
+              "id": "KG06242836000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242812000",
+            "name": {
+              "local": "Кара-Таш",
+              "en": "Kara-Tash",
+              "slug": "kara-tash-42812"
+            },
+            "code": {
+              "id": "KG06242812000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242825000",
+            "name": {
+              "local": "Кеңеш",
+              "en": "Kenesh",
+              "slug": "kenesh-42825"
+            },
+            "code": {
+              "id": "KG06242825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242813000",
+            "name": {
+              "local": "Кулатов",
+              "en": "Kulatov",
+              "slug": "kulatov-42813"
+            },
+            "code": {
+              "id": "KG06242813000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242829000",
+            "name": {
+              "local": "Кыргыз-Ата",
+              "en": "Kyrgyz-Ata",
+              "slug": "kyrgyz-ata-42829"
+            },
+            "code": {
+              "id": "KG06242829000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242839000",
+            "name": {
+              "local": "Кызыл-Октябрь",
+              "en": "Kyzyl-Oktyabr'",
+              "slug": "kyzyl-oktyabr-42839"
+            },
+            "code": {
+              "id": "KG06242839000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242865000",
+            "name": {
+              "local": "Найман",
+              "en": "Nayman",
+              "slug": "nayman-42865"
+            },
+            "code": {
+              "id": "KG06242865000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242845000",
+            "name": {
+              "local": "Он-Эки-Бел",
+              "en": "On-Eki-Bel",
+              "slug": "on-eki-bel-42845"
+            },
+            "code": {
+              "id": "KG06242845000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242850000",
+            "name": {
+              "local": "Төөлөс",
+              "en": "Teeles",
+              "slug": "teeles-24285"
+            },
+            "code": {
+              "id": "KG06242850000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242832000",
+            "name": {
+              "local": "Токтомат Зулпуев атындагы",
+              "en": "Toktomata Zulpueva",
+              "slug": "toktomata-zulpueva-42832"
+            },
+            "code": {
+              "id": "KG06242832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06242862000",
+            "name": {
+              "local": "Ынтымак",
+              "en": "Yntymak",
+              "slug": "yntymak-42862"
+            },
+            "code": {
+              "id": "KG06242862000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG06255000000",
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        },
+        "code": {
+          "id": "KG06255000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG06255804000",
+            "name": {
+              "local": "Ак-Жар",
+              "en": "Ak-Djar",
+              "slug": "ak-djar-55804"
+            },
+            "code": {
+              "id": "KG06255804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255808000",
+            "name": {
+              "local": "Баш-Дөбө",
+              "en": "Bash-Debe",
+              "slug": "bash-debe-55808"
+            },
+            "code": {
+              "id": "KG06255808000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255817000",
+            "name": {
+              "local": "Дөң-Булак",
+              "en": "Den-Bulak",
+              "slug": "den-bulak-55817"
+            },
+            "code": {
+              "id": "KG06255817000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255813000",
+            "name": {
+              "local": "Жалпак-Таш",
+              "en": "Djalpak-Tash",
+              "slug": "djalpak-tash-55813"
+            },
+            "code": {
+              "id": "KG06255813000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255815000",
+            "name": {
+              "local": "Жыланды",
+              "en": "Djylandy",
+              "slug": "djylandy-55815"
+            },
+            "code": {
+              "id": "KG06255815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255826000",
+            "name": {
+              "local": "Ийри-Суу",
+              "en": "Iyri-Suu",
+              "slug": "iyri-suu-55826"
+            },
+            "code": {
+              "id": "KG06255826000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255824000",
+            "name": {
+              "local": "Жазы",
+              "en": "Jazy",
+              "slug": "jazy-55824"
+            },
+            "code": {
+              "id": "KG06255824000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255830000",
+            "name": {
+              "local": "Кара-Таш",
+              "en": "Kara-Tash",
+              "slug": "kara-tash-25583"
+            },
+            "code": {
+              "id": "KG06255830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255832000",
+            "name": {
+              "local": "Кароол",
+              "en": "Karool",
+              "slug": "karool-55832"
+            },
+            "code": {
+              "id": "KG06255832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255840000",
+            "name": {
+              "local": "Көлдүк",
+              "en": "Keldyuk",
+              "slug": "keldyuk-25584"
+            },
+            "code": {
+              "id": "KG06255840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255853000",
+            "name": {
+              "local": "Куршаб",
+              "en": "Kurshab",
+              "slug": "kurshab-55853"
+            },
+            "code": {
+              "id": "KG06255853000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255844000",
+            "name": {
+              "local": "Кызыл-Октябрь",
+              "en": "Kyzyl-Oktyabr",
+              "slug": "kyzyl-oktyabr-55844"
+            },
+            "code": {
+              "id": "KG06255844000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255847000",
+            "name": {
+              "local": "Кызыл-Тоо",
+              "en": "Kyzyl-Too",
+              "slug": "kyzyl-too-55847"
+            },
+            "code": {
+              "id": "KG06255847000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255859000",
+            "name": {
+              "local": "Мырза-Аке",
+              "en": "Myrza-Ake",
+              "slug": "myrza-ake-55859"
+            },
+            "code": {
+              "id": "KG06255859000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255865000",
+            "name": {
+              "local": "Салам-Алик",
+              "en": "Salamalik",
+              "slug": "salamalik-55865"
+            },
+            "code": {
+              "id": "KG06255865000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255876000",
+            "name": {
+              "local": "Төрт-Көл",
+              "en": "Tert-Kel",
+              "slug": "tert-kel-55876"
+            },
+            "code": {
+              "id": "KG06255876000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255600010",
+            "name": {
+              "local": "Өзгөн",
+              "en": "Uzgen (city)",
+              "slug": "uzgen-city-60001"
+            },
+            "code": {
+              "id": "KG06255600010",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG06255822000",
+            "name": {
+              "local": "Заргер",
+              "en": "Zarger",
+              "slug": "zarger-55822"
+            },
+            "code": {
+              "id": "KG06255822000",
+              "iso": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "KG21000000000",
+    "name": {
+      "local": "Ош ш.",
+      "en": "Osh (city)",
+      "slug": "osh-city-kg21"
+    },
+    "code": {
+      "id": "KG21000000000",
+      "iso": null
+    },
+    "district": []
+  },
+  {
+    "id": "KG07000000000",
+    "name": {
+      "local": "Талас",
+      "en": "Talas",
+      "slug": "talas-kg07"
+    },
+    "code": {
+      "id": "KG07000000000",
+      "iso": null
+    },
+    "district": [
+      {
+        "id": "KG07220000000",
+        "name": {
+          "local": "Бакай-Ата",
+          "en": "Bakai-Ata",
+          "slug": "bakai-ata-g0722"
+        },
+        "code": {
+          "id": "KG07220000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG07220840000",
+            "name": {
+              "local": "Ак-Дөбө",
+              "en": "Ak-Debe",
+              "slug": "ak-debe-22084"
+            },
+            "code": {
+              "id": "KG07220840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07220826000",
+            "name": {
+              "local": "Акназаров",
+              "en": "Aknazarov",
+              "slug": "aknazarov-20826"
+            },
+            "code": {
+              "id": "KG07220826000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07220823000",
+            "name": {
+              "local": "Боо-Терек",
+              "en": "Boo-Terek",
+              "slug": "boo-terek-20823"
+            },
+            "code": {
+              "id": "KG07220823000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07220828000",
+            "name": {
+              "local": "Кең-Арал",
+              "en": "Ken-Aral",
+              "slug": "ken-aral-20828"
+            },
+            "code": {
+              "id": "KG07220828000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07220830000",
+            "name": {
+              "local": "Ленинполь",
+              "en": "Leninpol'",
+              "slug": "leninpol-22083"
+            },
+            "code": {
+              "id": "KG07220830000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07220833000",
+            "name": {
+              "local": "Миң-Булак",
+              "en": "Min-Bulak",
+              "slug": "min-bulak-20833"
+            },
+            "code": {
+              "id": "KG07220833000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07220843000",
+            "name": {
+              "local": "Орос",
+              "en": "Oros",
+              "slug": "oros-20843"
+            },
+            "code": {
+              "id": "KG07220843000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07220835000",
+            "name": {
+              "local": "Өзгөрүш",
+              "en": "Ozgeryush",
+              "slug": "ozgeryush-20835"
+            },
+            "code": {
+              "id": "KG07220835000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07220808000",
+            "name": {
+              "local": "Шадыкан",
+              "en": "Shadykan",
+              "slug": "shadykan-20808"
+            },
+            "code": {
+              "id": "KG07220808000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG07215000000",
+        "name": {
+          "local": "Кара-Буура",
+          "en": "Kara-Buura",
+          "slug": "kara-buura-07215"
+        },
+        "code": {
+          "id": "KG07215000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG07215804000",
+            "name": {
+              "local": "Ак-Чий",
+              "en": "Ak-Chiy",
+              "slug": "ak-chiy-15804"
+            },
+            "code": {
+              "id": "KG07215804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07215807000",
+            "name": {
+              "local": "Аманбаев",
+              "en": "Amanbaev",
+              "slug": "amanbaev-15807"
+            },
+            "code": {
+              "id": "KG07215807000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07215815000",
+            "name": {
+              "local": "Бакайыр",
+              "en": "Bakayyr",
+              "slug": "bakayyr-15815"
+            },
+            "code": {
+              "id": "KG07215815000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07215805000",
+            "name": {
+              "local": "Бейшеке",
+              "en": "Beysheke",
+              "slug": "beysheke-15805"
+            },
+            "code": {
+              "id": "KG07215805000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07215840000",
+            "name": {
+              "local": "Чолпонбай",
+              "en": "Cholponbay",
+              "slug": "cholponbay-21584"
+            },
+            "code": {
+              "id": "KG07215840000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07215818000",
+            "name": {
+              "local": "Кара-Буура",
+              "en": "Kara-Buura",
+              "slug": "kara-buura-15818"
+            },
+            "code": {
+              "id": "KG07215818000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07215821000",
+            "name": {
+              "local": "Көк-Сай",
+              "en": "Kek-Say",
+              "slug": "kek-say-15821"
+            },
+            "code": {
+              "id": "KG07215821000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07215846000",
+            "name": {
+              "local": "Маймак",
+              "en": "Maymak",
+              "slug": "maymak-15846"
+            },
+            "code": {
+              "id": "KG07215846000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07215843000",
+            "name": {
+              "local": "Шекер",
+              "en": "Sheker",
+              "slug": "sheker-15843"
+            },
+            "code": {
+              "id": "KG07215843000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG07225000000",
+        "name": {
+          "local": "Манас",
+          "en": "Manas",
+          "slug": "manas-07225"
+        },
+        "code": {
+          "id": "KG07225000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG07225818000",
+            "name": {
+              "local": "Каинды",
+              "en": "Kaindy",
+              "slug": "kaindy-25818"
+            },
+            "code": {
+              "id": "KG07225818000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07225820000",
+            "name": {
+              "local": "Кыргызстан",
+              "en": "Kyrgyzstan",
+              "slug": "kyrgyzstan-22582"
+            },
+            "code": {
+              "id": "KG07225820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07225826000",
+            "name": {
+              "local": "Май",
+              "en": "May",
+              "slug": "may-25826"
+            },
+            "code": {
+              "id": "KG07225826000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07225833000",
+            "name": {
+              "local": "Покровка",
+              "en": "Pokrovka",
+              "slug": "pokrovka-25833"
+            },
+            "code": {
+              "id": "KG07225833000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07225845000",
+            "name": {
+              "local": "Үч-Коргон",
+              "en": "Uch-Korgon",
+              "slug": "uch-korgon-25845"
+            },
+            "code": {
+              "id": "KG07225845000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG07232000000",
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-07232"
+        },
+        "code": {
+          "id": "KG07232000000",
+          "iso": null
+        },
+        "settlement": [
+          {
+            "id": "KG07232804000",
+            "name": {
+              "local": "Арал",
+              "en": "Aral",
+              "slug": "aral-32804"
+            },
+            "code": {
+              "id": "KG07232804000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232829000",
+            "name": {
+              "local": "Айдаралиев",
+              "en": "Aydaraliev",
+              "slug": "aydaraliev-32829"
+            },
+            "code": {
+              "id": "KG07232829000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232825000",
+            "name": {
+              "local": "Бекмолдоев",
+              "en": "Bekmoldoev",
+              "slug": "bekmoldoev-32825"
+            },
+            "code": {
+              "id": "KG07232825000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232843000",
+            "name": {
+              "local": "Бердике Баатыр",
+              "en": "Berdike Baatyr",
+              "slug": "berdike-baatyr-32843"
+            },
+            "code": {
+              "id": "KG07232843000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232810000",
+            "name": {
+              "local": "Жерге-Тал",
+              "en": "Djergetal",
+              "slug": "djergetal-23281"
+            },
+            "code": {
+              "id": "KG07232810000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232813000",
+            "name": {
+              "local": "Долон",
+              "en": "Dolon",
+              "slug": "dolon-32813"
+            },
+            "code": {
+              "id": "KG07232813000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232862000",
+            "name": {
+              "local": "Калба",
+              "en": "Kalba",
+              "slug": "kalba-32862"
+            },
+            "code": {
+              "id": "KG07232862000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232861000",
+            "name": {
+              "local": "Кара-Суу",
+              "en": "Kara-Suu",
+              "slug": "kara-suu-32861"
+            },
+            "code": {
+              "id": "KG07232861000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232820000",
+            "name": {
+              "local": "Көк-Ой",
+              "en": "Kok-Oy",
+              "slug": "kok-oy-23282"
+            },
+            "code": {
+              "id": "KG07232820000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232860000",
+            "name": {
+              "local": "Кууганды",
+              "en": "Kuugandy",
+              "slug": "kuugandy-23286"
+            },
+            "code": {
+              "id": "KG07232860000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232832000",
+            "name": {
+              "local": "Нуржанов",
+              "en": "Nurjanov",
+              "slug": "nurjanov-32832"
+            },
+            "code": {
+              "id": "KG07232832000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232859000",
+            "name": {
+              "local": "Өмүралиев",
+              "en": "Omuraliev",
+              "slug": "omuraliev-32859"
+            },
+            "code": {
+              "id": "KG07232859000",
+              "iso": null
+            }
+          },
+          {
+            "id": "KG07232847000",
+            "name": {
+              "local": "Осмонкулов",
+              "en": "Osmonkulov",
+              "slug": "osmonkulov-32847"
+            },
+            "code": {
+              "id": "KG07232847000",
+              "iso": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "KG07400000010",
+        "name": {
+          "local": "Талас ш.",
+          "en": "Talas (city)",
+          "slug": "talas-city-00001"
+        },
+        "code": {
+          "id": "KG07400000010",
+          "iso": null
+        },
+        "settlement": []
+      }
+    ]
+  }
+]

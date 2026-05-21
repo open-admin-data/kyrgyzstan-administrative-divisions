@@ -1,0 +1,49 @@
+{
+  "id": "KG03207000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Базар-Коргон",
+    "en": "Bazar-Korgon",
+    "slug": "bazar-korgon-03207"
+  },
+  "code": {
+    "id": "KG03207000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG03000000000",
+    "level": 1,
+    "name": {
+      "local": "Жалалабат",
+      "en": "Jalal-Abad",
+      "slug": "jalal-abad-kg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 9
+  },
+  "zip_codes": [
+    "720800"
+  ],
+  "geo": {
+    "lat": "41.235",
+    "lon": "72.887"
+  },
+  "metadata": {},
+  "source": {}
+}

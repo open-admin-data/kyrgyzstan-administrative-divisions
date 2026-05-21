@@ -1,0 +1,730 @@
+[
+  {
+    "id": "KG04210808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Чий",
+      "en": "Ak-Chiy",
+      "slug": "ak-chiy-10808"
+    },
+    "code": {
+      "id": "KG04210808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.257",
+      "lon": "74.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210806000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Тал",
+      "en": "Ak-Tal",
+      "slug": "ak-tal-10806"
+    },
+    "code": {
+      "id": "KG04210806000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.33",
+      "lon": "75.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210809000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Баетов",
+      "en": "Baetov",
+      "slug": "baetov-10809"
+    },
+    "code": {
+      "id": "KG04210809000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.251",
+      "lon": "74.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаңы-Талап",
+      "en": "Djany-Talap",
+      "slug": "djany-talap-10825"
+    },
+    "code": {
+      "id": "KG04210825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.496",
+      "lon": "75.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210819000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жерге-Тал",
+      "en": "Jerge-Tal",
+      "slug": "jerge-tal-10819"
+    },
+    "code": {
+      "id": "KG04210819000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.197",
+      "lon": "74.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210816000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Бүргөн",
+      "en": "Kara-Byurgen",
+      "slug": "kara-byurgen-10816"
+    },
+    "code": {
+      "id": "KG04210816000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.279",
+      "lon": "74.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көк-Жар",
+      "en": "Kek-Djar",
+      "slug": "kek-djar-21083"
+    },
+    "code": {
+      "id": "KG04210830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.444",
+      "lon": "74.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210818000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Коңорчок",
+      "en": "Konorchok",
+      "slug": "konorchok-10818"
+    },
+    "code": {
+      "id": "KG04210818000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.187",
+      "lon": "74.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кош-Дөбө",
+      "en": "Kosh-Debe",
+      "slug": "kosh-debe-21082"
+    },
+    "code": {
+      "id": "KG04210820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.104",
+      "lon": "74.211"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210822000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Белес",
+      "en": "Kyzyl-Beles",
+      "slug": "kyzyl-beles-10822"
+    },
+    "code": {
+      "id": "KG04210822000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.509",
+      "lon": "75.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210811000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Терек",
+      "en": "Terek",
+      "slug": "terek-10811"
+    },
+    "code": {
+      "id": "KG04210811000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722513"
+    ],
+    "geo": {
+      "lat": "41.106",
+      "lon": "74.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210828000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Тоголок-Молдо",
+      "en": "Togolok-Moldo",
+      "slug": "togolok-moldo-10828"
+    },
+    "code": {
+      "id": "KG04210828000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.487",
+      "lon": "75.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Үгүт",
+      "en": "Ugut",
+      "slug": "ugut-21084"
+    },
+    "code": {
+      "id": "KG04210840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04210000000",
+      "level": 2,
+      "name": {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04210000000",
+        "level": 2,
+        "name": {
+          "local": "Ак-Талаа",
+          "en": "Ak-Tala",
+          "slug": "ak-tala-g0421"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.343",
+      "lon": "74.937"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

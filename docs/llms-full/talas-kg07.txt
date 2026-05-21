@@ -1,0 +1,178 @@
+# Talas — Kyrgyzstan Administrative Divisions
+
+> 5 districts, 36 settlements
+> Code: KG07000000000
+> Coordinates: 42.445, 72.133
+> Last updated: 2026-05-21. License: CC-BY-4.0.
+
+## Districts
+
+### Бакай-Ата (Bakai-Ata)
+
+Code: KG07220000000, Coordinates: 42.361, 71.925
+Settlements: 9
+
+#### Ак-Дөбө (Ak-Debe)
+
+Code: KG07220840000, Postal: 724900, Coordinates: 42.538, 71.951
+
+#### Акназаров (Aknazarov)
+
+Code: KG07220826000, Postal: 724900, Coordinates: 42.43, 72.029
+
+#### Боо-Терек (Boo-Terek)
+
+Code: KG07220823000, Postal: 724900, Coordinates: 42.591, 71.798
+
+#### Кең-Арал (Ken-Aral)
+
+Code: KG07220828000, Postal: 724900, Coordinates: 42.514, 72.113
+
+#### Ленинполь (Leninpol&#39;)
+
+Code: KG07220830000, Postal: 723800, Coordinates: 42.448, 71.893
+
+#### Миң-Булак (Min-Bulak)
+
+Code: KG07220833000, Postal: 724900, Coordinates: 42.572, 71.894
+
+#### Орос (Oros)
+
+Code: KG07220843000, Postal: 724900, Coordinates: 42.506, 71.754
+
+#### Өзгөрүш (Ozgeryush)
+
+Code: KG07220835000, Postal: 724900, Coordinates: 42.543, 72.046
+
+#### Шадыкан (Shadykan)
+
+Code: KG07220808000, Postal: 724900, Coordinates: 42.45, 72.124
+
+### Кара-Буура (Kara-Buura)
+
+Code: KG07215000000, Coordinates: 42.479, 71.409
+Settlements: 9
+
+#### Ак-Чий (Ak-Chiy)
+
+Code: KG07215804000, Postal: 724900, Coordinates: 42.687, 71.384
+
+#### Аманбаев (Amanbaev)
+
+Code: KG07215807000, Postal: 724900, Coordinates: 42.598, 71.238
+
+#### Бакайыр (Bakayyr)
+
+Code: KG07215815000, Postal: 723906, Coordinates: 42.533, 71.359
+
+#### Бейшеке (Beysheke)
+
+Code: KG07215805000, Postal: 723903, Coordinates: 42.538, 71.662
+
+#### Чолпонбай (Cholponbay)
+
+Code: KG07215840000, Postal: 724900, Coordinates: 42.59, 71.484
+
+#### Кара-Буура (Kara-Buura)
+
+Code: KG07215818000, Postal: 724900, Coordinates: 42.576, 71.59
+
+#### Көк-Сай (Kek-Say)
+
+Code: KG07215821000, Postal: 724900, Coordinates: 42.508, 71.137
+
+#### Маймак (Maymak)
+
+Code: KG07215846000, Postal: 723909, Coordinates: 42.725, 71.269
+
+#### Шекер (Sheker)
+
+Code: KG07215843000, Postal: 723912, Coordinates: 42.545, 71.145
+
+### Манас (Manas)
+
+Code: KG07225000000, Coordinates: 42.694, 71.807
+Settlements: 5
+
+#### Каинды (Kaindy)
+
+Code: KG07225818000, Postal: 724001, Coordinates: 42.66, 71.941
+
+#### Кыргызстан (Kyrgyzstan)
+
+Code: KG07225820000, Postal: 723605, Coordinates: 42.747, 71.405
+
+#### Май (May)
+
+Code: KG07225826000, Postal: 724003, Coordinates: 42.752, 71.494
+
+#### Покровка (Pokrovka)
+
+Code: KG07225833000, Postal: 723610, Coordinates: 42.724, 71.661
+
+#### Үч-Коргон (Uch-Korgon)
+
+Code: KG07225845000, Postal: 720900, Coordinates: 42.736, 71.543
+
+### Талас (Talas)
+
+Code: KG07232000000, Coordinates: 42.409, 72.912
+Settlements: 13
+
+#### Арал (Aral)
+
+Code: KG07232804000, Postal: 720601, Coordinates: 42.56, 72.732
+
+#### Айдаралиев (Aydaraliev)
+
+Code: KG07232829000, Postal: 724200, Coordinates: 42.426, 73.296
+
+#### Бекмолдоев (Bekmoldoev)
+
+Code: KG07232825000, Postal: 724200, Coordinates: 42.363, 72.776
+
+#### Бердике Баатыр (Berdike Baatyr)
+
+Code: KG07232843000, Postal: 724200, Coordinates: 42.332, 72.211
+
+#### Жерге-Тал (Djergetal)
+
+Code: KG07232810000, Postal: 724200, Coordinates: 42.488, 72.397
+
+#### Долон (Dolon)
+
+Code: KG07232813000, Postal: 722409, Coordinates: 42.628, 72.404
+
+#### Калба (Kalba)
+
+Code: KG07232862000, Postal: 724106, Coordinates: 42.287, 72.516
+
+#### Кара-Суу (Kara-Suu)
+
+Code: KG07232861000, Postal: 724200, Coordinates: 42.47, 72.464
+
+#### Көк-Ой (Kok-Oy)
+
+Code: KG07232820000, Postal: 724200, Coordinates: 42.595, 72.188
+
+#### Кууганды (Kuugandy)
+
+Code: KG07232860000, Postal: 724200, Coordinates: 42.603, 72.622
+
+#### Нуржанов (Nurjanov)
+
+Code: KG07232832000, Postal: 724200, Coordinates: 42.49, 72.328
+
+#### Өмүралиев (Omuraliev)
+
+Code: KG07232859000, Postal: 724200, Coordinates: 42.396, 72.57
+
+#### Осмонкулов (Osmonkulov)
+
+Code: KG07232847000, Postal: 724200, Coordinates: 42.351, 72.947
+
+### Талас ш. (Talas (city))
+
+Code: KG07400000010, Coordinates: 42.524, 72.243
+Settlements: 0
+

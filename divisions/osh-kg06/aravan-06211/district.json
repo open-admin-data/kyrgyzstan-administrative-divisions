@@ -1,0 +1,49 @@
+{
+  "id": "KG06211000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Араван",
+    "en": "Aravan",
+    "slug": "aravan-06211"
+  },
+  "code": {
+    "id": "KG06211000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG06000000000",
+    "level": 1,
+    "name": {
+      "local": "Ош",
+      "en": "Osh",
+      "slug": "osh-kg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 6
+  },
+  "zip_codes": [
+    "723100"
+  ],
+  "geo": {
+    "lat": "40.48",
+    "lon": "72.563"
+  },
+  "metadata": {},
+  "source": {}
+}

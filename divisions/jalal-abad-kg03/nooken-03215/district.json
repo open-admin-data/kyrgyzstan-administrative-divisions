@@ -1,0 +1,49 @@
+{
+  "id": "KG03215000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ноокен",
+    "en": "Nooken",
+    "slug": "nooken-03215"
+  },
+  "code": {
+    "id": "KG03215000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG03000000000",
+    "level": 1,
+    "name": {
+      "local": "Жалалабат",
+      "en": "Jalal-Abad",
+      "slug": "jalal-abad-kg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 9
+  },
+  "zip_codes": [
+    "721200"
+  ],
+  "geo": {
+    "lat": "41.232",
+    "lon": "72.617"
+  },
+  "metadata": {},
+  "source": {}
+}

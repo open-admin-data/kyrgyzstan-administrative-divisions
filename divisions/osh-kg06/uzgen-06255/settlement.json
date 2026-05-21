@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "KG06255804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Жар",
+      "en": "Ak-Djar",
+      "slug": "ak-djar-55804"
+    },
+    "code": {
+      "id": "KG06255804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723901"
+    ],
+    "geo": {
+      "lat": "40.779",
+      "lon": "73.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Баш-Дөбө",
+      "en": "Bash-Debe",
+      "slug": "bash-debe-55808"
+    },
+    "code": {
+      "id": "KG06255808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.755",
+      "lon": "73.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255817000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Дөң-Булак",
+      "en": "Den-Bulak",
+      "slug": "den-bulak-55817"
+    },
+    "code": {
+      "id": "KG06255817000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.752",
+      "lon": "73.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255813000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жалпак-Таш",
+      "en": "Djalpak-Tash",
+      "slug": "djalpak-tash-55813"
+    },
+    "code": {
+      "id": "KG06255813000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.591",
+      "lon": "73.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255815000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жыланды",
+      "en": "Djylandy",
+      "slug": "djylandy-55815"
+    },
+    "code": {
+      "id": "KG06255815000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.847",
+      "lon": "73.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255826000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ийри-Суу",
+      "en": "Iyri-Suu",
+      "slug": "iyri-suu-55826"
+    },
+    "code": {
+      "id": "KG06255826000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "41.015",
+      "lon": "73.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255824000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жазы",
+      "en": "Jazy",
+      "slug": "jazy-55824"
+    },
+    "code": {
+      "id": "KG06255824000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723606"
+    ],
+    "geo": {
+      "lat": "40.835",
+      "lon": "73.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Таш",
+      "en": "Kara-Tash",
+      "slug": "kara-tash-25583"
+    },
+    "code": {
+      "id": "KG06255830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723418"
+    ],
+    "geo": {
+      "lat": "40.521",
+      "lon": "73.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кароол",
+      "en": "Karool",
+      "slug": "karool-55832"
+    },
+    "code": {
+      "id": "KG06255832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720210"
+    ],
+    "geo": {
+      "lat": "40.713",
+      "lon": "73.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көлдүк",
+      "en": "Keldyuk",
+      "slug": "keldyuk-25584"
+    },
+    "code": {
+      "id": "KG06255840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.767",
+      "lon": "73.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255853000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Куршаб",
+      "en": "Kurshab",
+      "slug": "kurshab-55853"
+    },
+    "code": {
+      "id": "KG06255853000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723613"
+    ],
+    "geo": {
+      "lat": "40.661",
+      "lon": "73.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255844000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Октябрь",
+      "en": "Kyzyl-Oktyabr",
+      "slug": "kyzyl-oktyabr-55844"
+    },
+    "code": {
+      "id": "KG06255844000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.639",
+      "lon": "73.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255847000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Тоо",
+      "en": "Kyzyl-Too",
+      "slug": "kyzyl-too-55847"
+    },
+    "code": {
+      "id": "KG06255847000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.875",
+      "lon": "73.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255859000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Мырза-Аке",
+      "en": "Myrza-Ake",
+      "slug": "myrza-ake-55859"
+    },
+    "code": {
+      "id": "KG06255859000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.724",
+      "lon": "73.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255865000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Салам-Алик",
+      "en": "Salamalik",
+      "slug": "salamalik-55865"
+    },
+    "code": {
+      "id": "KG06255865000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.899",
+      "lon": "73.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255876000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Төрт-Көл",
+      "en": "Tert-Kel",
+      "slug": "tert-kel-55876"
+    },
+    "code": {
+      "id": "KG06255876000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.872",
+      "lon": "73.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255600010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Өзгөн",
+      "en": "Uzgen (city)",
+      "slug": "uzgen-city-60001"
+    },
+    "code": {
+      "id": "KG06255600010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.769",
+      "lon": "73.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06255822000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Заргер",
+      "en": "Zarger",
+      "slug": "zarger-55822"
+    },
+    "code": {
+      "id": "KG06255822000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06255000000",
+      "level": 2,
+      "name": {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06255000000",
+        "level": 2,
+        "name": {
+          "local": "Өзгөн",
+          "en": "Uzgen",
+          "slug": "uzgen-06255"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.927",
+      "lon": "73.471"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

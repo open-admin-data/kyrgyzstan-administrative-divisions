@@ -1,0 +1,49 @@
+{
+  "id": "KG07220000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Бакай-Ата",
+    "en": "Bakai-Ata",
+    "slug": "bakai-ata-g0722"
+  },
+  "code": {
+    "id": "KG07220000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG07000000000",
+    "level": 1,
+    "name": {
+      "local": "Талас",
+      "en": "Talas",
+      "slug": "talas-kg07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG07000000000",
+      "level": 1,
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-kg07"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 9
+  },
+  "zip_codes": [
+    "724900"
+  ],
+  "geo": {
+    "lat": "42.361",
+    "lon": "71.925"
+  },
+  "metadata": {},
+  "source": {}
+}

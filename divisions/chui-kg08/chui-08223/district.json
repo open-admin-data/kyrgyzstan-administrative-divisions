@@ -1,0 +1,49 @@
+{
+  "id": "KG08223000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Чүй",
+    "en": "Chui",
+    "slug": "chui-08223"
+  },
+  "code": {
+    "id": "KG08223000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG08000000000",
+    "level": 1,
+    "name": {
+      "local": "Чүй",
+      "en": "Chui",
+      "slug": "chui-kg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 10
+  },
+  "zip_codes": [
+    "725300"
+  ],
+  "geo": {
+    "lat": "42.649",
+    "lon": "75.305"
+  },
+  "metadata": {},
+  "source": {}
+}

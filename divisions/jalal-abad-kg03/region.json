@@ -1,0 +1,30 @@
+{
+  "id": "KG03000000000",
+  "level": 1,
+  "level_name": {
+    "local": "Область",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Жалалабат",
+    "en": "Jalal-Abad",
+    "slug": "jalal-abad-kg03"
+  },
+  "code": {
+    "id": "KG03000000000",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 13,
+    "settlement": 75
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.513",
+    "lon": "73.218"
+  },
+  "metadata": {},
+  "source": {}
+}

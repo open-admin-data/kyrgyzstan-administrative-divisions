@@ -1,0 +1,562 @@
+[
+  {
+    "id": "KG04230804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Баш-Кууганды",
+      "en": "Bash-Kuugandy",
+      "slug": "bash-kuugandy-30804"
+    },
+    "code": {
+      "id": "KG04230804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04230000000",
+      "level": 2,
+      "name": {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04230000000",
+        "level": 2,
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.018",
+      "lon": "74.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04230817000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Байзак",
+      "en": "Bayzakov",
+      "slug": "bayzakov-30817"
+    },
+    "code": {
+      "id": "KG04230817000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04230000000",
+      "level": 2,
+      "name": {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04230000000",
+        "level": 2,
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722703"
+    ],
+    "geo": {
+      "lat": "41.985",
+      "lon": "74.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04230836000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чаек",
+      "en": "Chaek",
+      "slug": "chaek-30836"
+    },
+    "code": {
+      "id": "KG04230836000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04230000000",
+      "level": 2,
+      "name": {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04230000000",
+        "level": 2,
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "41.906",
+      "lon": "74.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04230806000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаңы-Арык",
+      "en": "Djany-Aryk",
+      "slug": "djany-aryk-30806"
+    },
+    "code": {
+      "id": "KG04230806000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04230000000",
+      "level": 2,
+      "name": {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04230000000",
+        "level": 2,
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "41.997",
+      "lon": "75.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04230809000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жумгал",
+      "en": "Djumgal",
+      "slug": "djumgal-30809"
+    },
+    "code": {
+      "id": "KG04230809000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04230000000",
+      "level": 2,
+      "name": {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04230000000",
+        "level": 2,
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722706"
+    ],
+    "geo": {
+      "lat": "42.049",
+      "lon": "74.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04230813000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кабак",
+      "en": "Kabak",
+      "slug": "kabak-30813"
+    },
+    "code": {
+      "id": "KG04230813000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04230000000",
+      "level": 2,
+      "name": {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04230000000",
+        "level": 2,
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722012"
+    ],
+    "geo": {
+      "lat": "41.751",
+      "lon": "74.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04230815000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көк-Ой",
+      "en": "Kek-Oy",
+      "slug": "kek-oy-30815"
+    },
+    "code": {
+      "id": "KG04230815000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04230000000",
+      "level": 2,
+      "name": {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04230000000",
+        "level": 2,
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "41.895",
+      "lon": "74.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04230825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Куйручук",
+      "en": "Kuyruchuk",
+      "slug": "kuyruchuk-30825"
+    },
+    "code": {
+      "id": "KG04230825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04230000000",
+      "level": 2,
+      "name": {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04230000000",
+        "level": 2,
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722702"
+    ],
+    "geo": {
+      "lat": "42.022",
+      "lon": "74.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04230840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Миң-Куш",
+      "en": "Min-Kush",
+      "slug": "min-kush-23084"
+    },
+    "code": {
+      "id": "KG04230840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04230000000",
+      "level": 2,
+      "name": {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04230000000",
+        "level": 2,
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "41.697",
+      "lon": "74.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04230834000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Түгөл-Сай",
+      "en": "Tugol-Say",
+      "slug": "tugol-say-30834"
+    },
+    "code": {
+      "id": "KG04230834000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04230000000",
+      "level": 2,
+      "name": {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04230000000",
+        "level": 2,
+        "name": {
+          "local": "Жумгал",
+          "en": "Jumgal",
+          "slug": "jumgal-g0423"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.01",
+      "lon": "74.729"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

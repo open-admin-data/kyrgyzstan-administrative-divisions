@@ -1,0 +1,49 @@
+{
+  "id": "KG03211000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Аксы",
+    "en": "Aksy",
+    "slug": "aksy-03211"
+  },
+  "code": {
+    "id": "KG03211000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG03000000000",
+    "level": 1,
+    "name": {
+      "local": "Жалалабат",
+      "en": "Jalal-Abad",
+      "slug": "jalal-abad-kg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 12
+  },
+  "zip_codes": [
+    "720600"
+  ],
+  "geo": {
+    "lat": "41.566",
+    "lon": "72.03"
+  },
+  "metadata": {},
+  "source": {}
+}

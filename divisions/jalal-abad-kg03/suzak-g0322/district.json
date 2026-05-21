@@ -1,0 +1,49 @@
+{
+  "id": "KG03220000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Сузак",
+    "en": "Suzak",
+    "slug": "suzak-g0322"
+  },
+  "code": {
+    "id": "KG03220000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG03000000000",
+    "level": 1,
+    "name": {
+      "local": "Жалалабат",
+      "en": "Jalal-Abad",
+      "slug": "jalal-abad-kg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 13
+  },
+  "zip_codes": [
+    "721300"
+  ],
+  "geo": {
+    "lat": "41.09",
+    "lon": "73.161"
+  },
+  "metadata": {},
+  "source": {}
+}

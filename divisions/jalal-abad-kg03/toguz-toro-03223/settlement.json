@@ -1,0 +1,282 @@
+[
+  {
+    "id": "KG03223805000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Атай",
+      "en": "Atay",
+      "slug": "atay-23805"
+    },
+    "code": {
+      "id": "KG03223805000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03223000000",
+      "level": 2,
+      "name": {
+        "local": "Тогуз-Торо",
+        "en": "Toguz-Toro",
+        "slug": "toguz-toro-03223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03223000000",
+        "level": 2,
+        "name": {
+          "local": "Тогуз-Торо",
+          "en": "Toguz-Toro",
+          "slug": "toguz-toro-03223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721502"
+    ],
+    "geo": {
+      "lat": "41.346",
+      "lon": "73.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03223812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Каргалык",
+      "en": "Kargalyk",
+      "slug": "kargalyk-23812"
+    },
+    "code": {
+      "id": "KG03223812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03223000000",
+      "level": 2,
+      "name": {
+        "local": "Тогуз-Торо",
+        "en": "Toguz-Toro",
+        "slug": "toguz-toro-03223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03223000000",
+        "level": 2,
+        "name": {
+          "local": "Тогуз-Торо",
+          "en": "Toguz-Toro",
+          "slug": "toguz-toro-03223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.3",
+      "lon": "74.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03223806000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көк-Ирим",
+      "en": "Kok-Irim",
+      "slug": "kok-irim-23806"
+    },
+    "code": {
+      "id": "KG03223806000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03223000000",
+      "level": 2,
+      "name": {
+        "local": "Тогуз-Торо",
+        "en": "Toguz-Toro",
+        "slug": "toguz-toro-03223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03223000000",
+        "level": 2,
+        "name": {
+          "local": "Тогуз-Торо",
+          "en": "Toguz-Toro",
+          "slug": "toguz-toro-03223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.488",
+      "lon": "73.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03223820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сары-Булуң",
+      "en": "Sary-Bulun",
+      "slug": "sary-bulun-22382"
+    },
+    "code": {
+      "id": "KG03223820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03223000000",
+      "level": 2,
+      "name": {
+        "local": "Тогуз-Торо",
+        "en": "Toguz-Toro",
+        "slug": "toguz-toro-03223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03223000000",
+        "level": 2,
+        "name": {
+          "local": "Тогуз-Торо",
+          "en": "Toguz-Toro",
+          "slug": "toguz-toro-03223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.493",
+      "lon": "74.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03223825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Тогуз-Торо",
+      "en": "Toguz-Torou",
+      "slug": "toguz-torou-23825"
+    },
+    "code": {
+      "id": "KG03223825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03223000000",
+      "level": 2,
+      "name": {
+        "local": "Тогуз-Торо",
+        "en": "Toguz-Toro",
+        "slug": "toguz-toro-03223"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03223000000",
+        "level": 2,
+        "name": {
+          "local": "Тогуз-Торо",
+          "en": "Toguz-Toro",
+          "slug": "toguz-toro-03223"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721500"
+    ],
+    "geo": {
+      "lat": "41.363",
+      "lon": "74.115"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "id": "KG02205000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ак-Суу",
+      "en": "Ak-Suu",
+      "slug": "ak-suu-02205"
+    },
+    "code": {
+      "id": "KG02205000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 14
+    },
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.285",
+      "lon": "79.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02420000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Балыкчы ш.",
+      "en": "Balykchy (city)",
+      "slug": "balykchy-city-00001"
+    },
+    "code": {
+      "id": "KG02420000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 1
+    },
+    "zip_codes": [
+      "721900"
+    ],
+    "geo": {
+      "lat": "42.455",
+      "lon": "76.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02215000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ысык-Көл",
+      "en": "Issyk-Kul",
+      "slug": "issyk-kul-02215"
+    },
+    "code": {
+      "id": "KG02215000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 13
+    },
+    "zip_codes": [
+      "722100"
+    ],
+    "geo": {
+      "lat": "42.703",
+      "lon": "76.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Жети-Өгүз",
+      "en": "Jeti-Oguz",
+      "slug": "jeti-oguz-g0221"
+    },
+    "code": {
+      "id": "KG02210000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 12
+    },
+    "zip_codes": [
+      "722300"
+    ],
+    "geo": {
+      "lat": "41.881",
+      "lon": "78.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02410000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Каракол ш.",
+      "en": "Karakol (city)",
+      "slug": "karakol-city-00001"
+    },
+    "code": {
+      "id": "KG02410000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 1
+    },
+    "zip_codes": [
+      "722200"
+    ],
+    "geo": {
+      "lat": "42.49",
+      "lon": "78.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02220000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Тоӊ",
+      "en": "Ton",
+      "slug": "ton-g0222"
+    },
+    "code": {
+      "id": "KG02220000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 9
+    },
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "42.086",
+      "lon": "76.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Түп",
+      "en": "Tup",
+      "slug": "tup-02225"
+    },
+    "code": {
+      "id": "KG02225000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 13
+    },
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.744",
+      "lon": "78.639"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

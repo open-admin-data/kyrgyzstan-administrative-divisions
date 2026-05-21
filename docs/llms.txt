@@ -1,0 +1,70 @@
+# Kyrgyzstan Administrative Divisions
+
+> Open dataset of Kyrgyzstan's administrative hierarchy:
+> 9 regions, 53 districts, 460 settlements.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total regions: 9
+- Total districts: 53
+- Total settlements: 460
+- Coordinates: included (all levels)
+- Last updated: 2026-05-21
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All regions (JSON)](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/data/all-region.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/data/all-district.json)
+- [All settlements (JSON)](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/data/all-settlement.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/data/schema.json)
+
+## Browse by Region
+
+- [Batken](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/tree/main/divisions/batken-kg05/) — 6 districts, 34 settlements
+- [Bishkek (city)](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/tree/main/divisions/bishkek-city-kg11/) — 0 districts, 0 settlements
+- [Chui](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/tree/main/divisions/chui-kg08/) — 9 districts, 113 settlements
+- [Issyk-Kul](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/tree/main/divisions/issyk-kul-kg02/) — 7 districts, 63 settlements
+- [Jalal-Abad](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/tree/main/divisions/jalal-abad-kg03/) — 13 districts, 75 settlements
+- [Naryn](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/tree/main/divisions/naryn-kg04/) — 6 districts, 60 settlements
+- [Osh](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/tree/main/divisions/osh-kg06/) — 7 districts, 79 settlements
+- [Osh (city)](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/tree/main/divisions/osh-city-kg21/) — 0 districts, 0 settlements
+- [Talas](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/tree/main/divisions/talas-kg07/) — 5 districts, 36 settlements
+
+## Per-Region Full Data
+
+- [Batken](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/docs/llms-full/batken-kg05.txt)
+- [Bishkek (city)](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/docs/llms-full/bishkek-city-kg11.txt)
+- [Chui](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/docs/llms-full/chui-kg08.txt)
+- [Issyk-Kul](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/docs/llms-full/issyk-kul-kg02.txt)
+- [Jalal-Abad](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/docs/llms-full/jalal-abad-kg03.txt)
+- [Naryn](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/docs/llms-full/naryn-kg04.txt)
+- [Osh](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/docs/llms-full/osh-kg06.txt)
+- [Osh (city)](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/docs/llms-full/osh-city-kg21.txt)
+- [Talas](https://raw.githubusercontent.com/open-admin-data/kyrgyzstan-administrative-divisions/main/docs/llms-full/talas-kg07.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (region), 2 (district), 3 (settlement)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Kyrgyzstan Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/kyrgyzstan-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

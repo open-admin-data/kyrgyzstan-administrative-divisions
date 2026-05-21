@@ -1,0 +1,30 @@
+{
+  "id": "KG04000000000",
+  "level": 1,
+  "level_name": {
+    "local": "Область",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Нарын",
+    "en": "Naryn",
+    "slug": "naryn-kg04"
+  },
+  "code": {
+    "id": "KG04000000000",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "settlement": 60
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "41.366",
+    "lon": "75.993"
+  },
+  "metadata": {},
+  "source": {}
+}

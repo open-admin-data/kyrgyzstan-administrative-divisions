@@ -1,0 +1,296 @@
+# Issyk-Kul — Kyrgyzstan Administrative Divisions
+
+> 7 districts, 63 settlements
+> Code: KG02000000000
+> Coordinates: 42.062, 78.159
+> Last updated: 2026-05-21. License: CC-BY-4.0.
+
+## Districts
+
+### Ак-Суу (Ak-Suu)
+
+Code: KG02205000000, Coordinates: 42.285, 79.276
+Settlements: 14
+
+#### Ак-Булуң (Ak-Bulun)
+
+Code: KG02205805000, Postal: 722200, Coordinates: 42.614, 78.844
+
+#### Ак-Чий (Ak-Chiy)
+
+Code: KG02205840000, Postal: 722200, Coordinates: 42.642, 78.744
+
+#### Бөрү-Баш (Beryu-Bash)
+
+Code: KG02205807000, Postal: 722200, Coordinates: 42.54, 78.309
+
+#### Челпек (Chelpek)
+
+Code: KG02205850000, Postal: 722200, Coordinates: 42.463, 78.344
+
+#### Эңилчек (Enilchek)
+
+Code: KG02205852000, Postal: 722200, Coordinates: 42.02, 79.089
+
+#### Жыргалаң (Jyrgalan)
+
+Code: KG02205855000, Postal: 722200, Coordinates: 42.607, 79.021
+
+#### Кара-Жал (Kara-Djal)
+
+Code: KG02205812000, Postal: 722200, Coordinates: 42.571, 78.397
+
+#### Каракол (Karakol)
+
+Code: KG02205813000, Postal: 721320, Coordinates: 42.63, 78.494
+
+#### Кереге-Таш (Kerege-Tash)
+
+Code: KG02205818000, Postal: 722200, Coordinates: 42.536, 78.636
+
+#### Нововознесеновка (Novovoznesenovka)
+
+Code: KG02205825000, Postal: 722200, Coordinates: 42.571, 78.771
+
+#### Октябрь (Oktyabr&#39;)
+
+Code: KG02205832000, Postal: 723003, Coordinates: 42.506, 78.46
+
+#### Отрадное (Otradnoe)
+
+Code: KG02205835000, Postal: 721814, Coordinates: 42.623, 78.623
+
+#### Тепкен (Tepken)
+
+Code: KG02205844000, Postal: 722200, Coordinates: 42.627, 78.394
+
+#### Теплоключенка (Teploklyuchenka)
+
+Code: KG02205848000, Postal: 721800, Coordinates: 42.521, 78.53
+
+### Балыкчы ш. (Balykchy (city))
+
+Code: KG02420000010, Coordinates: 42.455, 76.183
+Settlements: 1
+
+#### Орто-Токой (Orto-Tokoy)
+
+Code: KG02420510010, Postal: 721900, Coordinates: 42.35, 76.024
+
+### Ысык-Көл (Issyk-Kul)
+
+Code: KG02215000000, Coordinates: 42.703, 76.99
+Settlements: 13
+
+#### Абдрахманов (Abdrakhmanov)
+
+Code: KG02215835000, Postal: 722100, Coordinates: 42.757, 77.724
+
+#### Ананьево (Anan&#39;evo)
+
+Code: KG02215805000, Postal: 722101, Coordinates: 42.749, 77.645
+
+#### Бостери (Bosteri)
+
+Code: KG02215808000, Postal: 722103, Coordinates: 42.673, 77.148
+
+#### Чолпон-Ата (Cholpon-Ata (city))
+
+Code: KG02215600010, Postal: 722100, Coordinates: 42.648, 77.071
+
+#### Чоң-Сары-Ой (Chon-Sary-Oy)
+
+Code: KG02215855000, Postal: 722100, Coordinates: 42.63, 76.93
+
+#### Кара-Ой (Kara-Oy)
+
+Code: KG02215815000, Postal: 722100, Coordinates: 42.632, 77.016
+
+#### Кум-Бел (Kum-Bel)
+
+Code: KG02215820000, Postal: 722100, Coordinates: 42.687, 77.392
+
+#### Өрүктү (Oryukti)
+
+Code: KG02215850000, Postal: 722100, Coordinates: 42.749, 77.795
+
+#### Садыр Аке (Sadyr Ake)
+
+Code: KG02215810000, Postal: 722100, Coordinates: 42.706, 77.496
+
+#### Семеновка (Semenovka)
+
+Code: KG02215825000, Postal: 722118, Coordinates: 42.709, 77.565
+
+#### Тамчы (Tamchy)
+
+Code: KG02215830000, Postal: 722100, Coordinates: 42.558, 76.631
+
+#### Темир (Temir)
+
+Code: KG02215840000, Postal: 722120, Coordinates: 42.705, 77.432
+
+#### Тору-Айгыр (Toru-Aygyr)
+
+Code: KG02215845000, Postal: 722100, Coordinates: 42.503, 76.362
+
+### Жети-Өгүз (Jeti-Oguz)
+
+Code: KG02210000000, Coordinates: 41.881, 78.176
+Settlements: 12
+
+#### Ак-Дөбө (Ak-Debe)
+
+Code: KG02210805000, Postal: 722300, Coordinates: 42.429, 78.122
+
+#### Алдашев (Aldashev)
+
+Code: KG02210855000, Postal: 722300, Coordinates: 42.285, 77.941
+
+#### Барскоон (Barskoon)
+
+Code: KG02210815000, Postal: 722005, Coordinates: 42.129, 77.612
+
+#### Даркан (Darkan)
+
+Code: KG02210820000, Postal: 722008, Coordinates: 42.282, 77.91
+
+#### Жаргылчак (Djargylchak)
+
+Code: KG02210825000, Postal: 722300, Coordinates: 42.231, 77.787
+
+#### Жети-Өгүз (Djeti-Oguz)
+
+Code: KG02210830000, Postal: 722300, Coordinates: 42.46, 78.193
+
+#### Кызыл-Суу (Kyzyl-Suu)
+
+Code: KG02210850000, Postal: 722300, Coordinates: 42.336, 78.012
+
+#### Липенка (Lipenka)
+
+Code: KG02210840000, Postal: 722015, Coordinates: 42.523, 78.186
+
+#### Оргочор (Orgochor)
+
+Code: KG02210845000, Postal: 722016, Coordinates: 42.412, 77.971
+
+#### Светлая Поляна (Svetloya Polyana)
+
+Code: KG02210860000, Postal: 722019, Coordinates: 42.347, 78.059
+
+#### Тамга (Tamga)
+
+Code: KG02210862000, Postal: 722021, Coordinates: 42.136, 77.474
+
+#### Ырдык (Yrdyk)
+
+Code: KG02210835000, Postal: 722026, Coordinates: 42.458, 78.273
+
+### Каракол ш. (Karakol (city))
+
+Code: KG02410000010, Coordinates: 42.49, 78.394
+Settlements: 1
+
+#### Пржевальск Пристаны (Pristan-Prejeval&#39;sk)
+
+Code: KG02410520010, Postal: 722200, Coordinates: 42.576, 78.311
+
+### Тоӊ (Ton)
+
+Code: KG02220000000, Coordinates: 42.086, 76.733
+Settlements: 9
+
+#### Ак-Терек (Ak-Terek)
+
+Code: KG02220805000, Postal: 723405, Coordinates: 42.075, 76.431
+
+#### Болот Мамбетов (Bolot Mambetov)
+
+Code: KG02220808000, Postal: 722800, Coordinates: 42.1, 76.847
+
+#### Кажы-Сай (Kadji-Say)
+
+Code: KG02220828000, Postal: 722800, Coordinates: 42.153, 77.176
+
+#### Көк-Мойнок (Kek-Moynok)
+
+Code: KG02220807000, Postal: 722800, Coordinates: 42.353, 76.187
+
+#### Көл-Төр (Kel-Ter)
+
+Code: KG02220806000, Postal: 722800, Coordinates: 42.074, 76.623
+
+#### Күн-Чыгыш (Kyun-Chygysh)
+
+Code: KG02220810000, Postal: 722800, Coordinates: 42.124, 76.977
+
+#### Төрт-Күл (Tert-Kul)
+
+Code: KG02220820000, Postal: 722800, Coordinates: 42.067, 76.931
+
+#### Тоң (Ton)
+
+Code: KG02220815000, Postal: 722800, Coordinates: 42.103, 77.237
+
+#### Улакол (Ulakol)
+
+Code: KG02220825000, Postal: 722800, Coordinates: 42.284, 76.387
+
+### Түп (Tup)
+
+Code: KG02225000000, Coordinates: 42.744, 78.639
+Settlements: 13
+
+#### Ак-Булак (Ak-Bulak)
+
+Code: KG02225896000, Postal: 722700, Coordinates: 42.799, 78.242
+
+#### Ак-Булуң (Ak-Bulun)
+
+Code: KG02225873000, Postal: 722700, Coordinates: 42.773, 78.206
+
+#### Арал (Aral)
+
+Code: KG02225810000, Postal: 720601, Coordinates: 42.714, 78.499
+
+#### Чоң-Таш (Chon-Tash)
+
+Code: KG02225893000, Postal: 722700, Coordinates: 42.763, 78.632
+
+#### Ысык-Көл (Issyk-Kel)
+
+Code: KG02225815000, Postal: 722700, Coordinates: 42.634, 78.132
+
+#### Карасаев (Karasaev)
+
+Code: KG02225883000, Postal: 722700, Coordinates: 42.717, 78.659
+
+#### Кутургу (Kuturgi)
+
+Code: KG02225835000, Postal: 722408, Coordinates: 42.759, 78.119
+
+#### Михайловка (Mikhaylovka)
+
+Code: KG02225841000, Postal: 721322, Coordinates: 42.633, 78.304
+
+#### Сан-Таш (San-Tash)
+
+Code: KG02225865000, Postal: 722700, Coordinates: 42.734, 78.75
+
+#### Сары-Булак (Sary-Bulak)
+
+Code: KG02225870000, Postal: 723700, Coordinates: 42.786, 78.283
+
+#### Талды-Суу (Taldy-Suu)
+
+Code: KG02225876000, Postal: 722700, Coordinates: 42.779, 78.506
+
+#### Тогуз-Булак (Toguz-Bulak)
+
+Code: KG02225847000, Postal: 720426, Coordinates: 42.674, 78.238
+
+#### Түп (Tyup)
+
+Code: KG02225889000, Postal: 722700, Coordinates: 42.736, 78.402
+

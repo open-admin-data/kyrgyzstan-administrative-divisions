@@ -1,0 +1,49 @@
+{
+  "id": "KG02410000010",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Каракол ш.",
+    "en": "Karakol (city)",
+    "slug": "karakol-city-00001"
+  },
+  "code": {
+    "id": "KG02410000010",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG02000000000",
+    "level": 1,
+    "name": {
+      "local": "Ысык-Көл",
+      "en": "Issyk-Kul",
+      "slug": "issyk-kul-kg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 1
+  },
+  "zip_codes": [
+    "722200"
+  ],
+  "geo": {
+    "lat": "42.49",
+    "lon": "78.394"
+  },
+  "metadata": {},
+  "source": {}
+}

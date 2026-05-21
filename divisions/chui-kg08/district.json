@@ -1,0 +1,443 @@
+[
+  {
+    "id": "KG08203000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Аламүдүн",
+      "en": "Alamudun",
+      "slug": "alamudun-08203"
+    },
+    "code": {
+      "id": "KG08203000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 17
+    },
+    "zip_codes": [
+      "725200"
+    ],
+    "geo": {
+      "lat": "42.633",
+      "lon": "74.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08223000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Чүй",
+      "en": "Chui",
+      "slug": "chui-08223"
+    },
+    "code": {
+      "id": "KG08223000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 10
+    },
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "42.649",
+      "lon": "75.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08209000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Жайыл",
+      "en": "Jaiyl",
+      "slug": "jaiyl-08209"
+    },
+    "code": {
+      "id": "KG08209000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 13
+    },
+    "zip_codes": [
+      "724400"
+    ],
+    "geo": {
+      "lat": "42.074",
+      "lon": "74.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Кемин",
+      "en": "Kemin",
+      "slug": "kemin-08213"
+    },
+    "code": {
+      "id": "KG08213000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 14
+    },
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.717",
+      "lon": "75.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Москва",
+      "en": "Moscow",
+      "slug": "moscow-08217"
+    },
+    "code": {
+      "id": "KG08217000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 12
+    },
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "42.777",
+      "lon": "74.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08219000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Панфилов",
+      "en": "Panfilov",
+      "slug": "panfilov-08219"
+    },
+    "code": {
+      "id": "KG08219000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 8
+    },
+    "zip_codes": [
+      "724700"
+    ],
+    "geo": {
+      "lat": "42.205",
+      "lon": "73.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Сокулук",
+      "en": "Sokuluk",
+      "slug": "sokuluk-08222"
+    },
+    "code": {
+      "id": "KG08222000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 20
+    },
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "42.849",
+      "lon": "74.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08400000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Токмок ш.",
+      "en": "Tokmok (city)",
+      "slug": "tokmok-city-00001"
+    },
+    "code": {
+      "id": "KG08400000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 0
+    },
+    "zip_codes": [
+      "725400"
+    ],
+    "geo": {
+      "lat": "42.821",
+      "lon": "75.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ысык-Ата",
+      "en": "Ysyk-Ata",
+      "slug": "ysyk-ata-08206"
+    },
+    "code": {
+      "id": "KG08206000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 19
+    },
+    "zip_codes": [
+      "725100"
+    ],
+    "geo": {
+      "lat": "42.711",
+      "lon": "74.953"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

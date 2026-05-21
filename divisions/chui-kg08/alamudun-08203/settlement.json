@@ -1,0 +1,954 @@
+[
+  {
+    "id": "KG08203803000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Дөбө",
+      "en": "Ak-Debe",
+      "slug": "ak-debe-03803"
+    },
+    "code": {
+      "id": "KG08203803000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725200"
+    ],
+    "geo": {
+      "lat": "42.963",
+      "lon": "74.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203805000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ала-Арча",
+      "en": "Ala-Archa",
+      "slug": "ala-archa-03805"
+    },
+    "code": {
+      "id": "KG08203805000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725200"
+    ],
+    "geo": {
+      "lat": "43.052",
+      "lon": "74.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203807000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Аламүдүн",
+      "en": "Alamudun",
+      "slug": "alamudun-03807"
+    },
+    "code": {
+      "id": "KG08203807000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725200"
+    ],
+    "geo": {
+      "lat": "42.919",
+      "lon": "74.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203809000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Арашан",
+      "en": "Arashan",
+      "slug": "arashan-03809"
+    },
+    "code": {
+      "id": "KG08203809000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724108"
+    ],
+    "geo": {
+      "lat": "42.66",
+      "lon": "74.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203855000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Байтик",
+      "en": "Baitik",
+      "slug": "baitik-03855"
+    },
+    "code": {
+      "id": "KG08203855000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724306"
+    ],
+    "geo": {
+      "lat": "42.71",
+      "lon": "74.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203819000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Гроздь",
+      "en": "Grozd",
+      "slug": "grozd-03819"
+    },
+    "code": {
+      "id": "KG08203819000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724311"
+    ],
+    "geo": {
+      "lat": "43.028",
+      "lon": "74.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203826000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Жыгач",
+      "en": "Kara-Djygach",
+      "slug": "kara-djygach-03826"
+    },
+    "code": {
+      "id": "KG08203826000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725200"
+    ],
+    "geo": {
+      "lat": "42.816",
+      "lon": "74.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203828000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көк-Жар",
+      "en": "Kek-Djar",
+      "slug": "kek-djar-03828"
+    },
+    "code": {
+      "id": "KG08203828000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725200"
+    ],
+    "geo": {
+      "lat": "42.822",
+      "lon": "74.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203831000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Лебединовка",
+      "en": "Lebedinovka",
+      "slug": "lebedinovka-03831"
+    },
+    "code": {
+      "id": "KG08203831000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724300"
+    ],
+    "geo": {
+      "lat": "42.906",
+      "lon": "74.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203834000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ленин",
+      "en": "Lenin",
+      "slug": "lenin-03834"
+    },
+    "code": {
+      "id": "KG08203834000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725022"
+    ],
+    "geo": {
+      "lat": "42.974",
+      "lon": "74.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203838000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Маевка",
+      "en": "Maevka",
+      "slug": "maevka-03838"
+    },
+    "code": {
+      "id": "KG08203838000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724315"
+    ],
+    "geo": {
+      "lat": "42.958",
+      "lon": "74.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203845000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Төмөнкү Ала-Арча",
+      "en": "Nizhnyaya Alaarcha",
+      "slug": "nizhnyaya-alaarcha-03845"
+    },
+    "code": {
+      "id": "KG08203845000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725200"
+    ],
+    "geo": {
+      "lat": "42.947",
+      "lon": "74.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203852000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Октябрь",
+      "en": "Oktyabr'",
+      "slug": "oktyabr-03852"
+    },
+    "code": {
+      "id": "KG08203852000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723003"
+    ],
+    "geo": {
+      "lat": "43.117",
+      "lon": "74.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203859000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Пригородное",
+      "en": "Prigorodnoe",
+      "slug": "prigorodnoe-03859"
+    },
+    "code": {
+      "id": "KG08203859000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724327"
+    ],
+    "geo": {
+      "lat": "42.982",
+      "lon": "74.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203864000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Таш-Дөбө",
+      "en": "Tash-Debe",
+      "slug": "tash-debe-03864"
+    },
+    "code": {
+      "id": "KG08203864000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725200"
+    ],
+    "geo": {
+      "lat": "42.722",
+      "lon": "74.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203866000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Таш-Мойнок",
+      "en": "Tash-Moynok",
+      "slug": "tash-moynok-03866"
+    },
+    "code": {
+      "id": "KG08203866000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724315"
+    ],
+    "geo": {
+      "lat": "42.692",
+      "lon": "74.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08203814000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Васильевка",
+      "en": "Vasilevka",
+      "slug": "vasilevka-03814"
+    },
+    "code": {
+      "id": "KG08203814000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08203000000",
+      "level": 2,
+      "name": {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08203000000",
+        "level": 2,
+        "name": {
+          "local": "Аламүдүн",
+          "en": "Alamudun",
+          "slug": "alamudun-08203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724308"
+    ],
+    "geo": {
+      "lat": "43.102",
+      "lon": "74.555"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

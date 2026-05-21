@@ -1,0 +1,674 @@
+[
+  {
+    "id": "KG04220813000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ача-Кайыңды",
+      "en": "Acha-Kaindy",
+      "slug": "acha-kaindy-20813"
+    },
+    "code": {
+      "id": "KG04220813000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722600"
+    ],
+    "geo": {
+      "lat": "41.105",
+      "lon": "75.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220803000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Жар",
+      "en": "Ak-Djar",
+      "slug": "ak-djar-20803"
+    },
+    "code": {
+      "id": "KG04220803000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723901"
+    ],
+    "geo": {
+      "lat": "41.248",
+      "lon": "75.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220806000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Моюн",
+      "en": "Ak-Moyun",
+      "slug": "ak-moyun-20806"
+    },
+    "code": {
+      "id": "KG04220806000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722600"
+    ],
+    "geo": {
+      "lat": "41.257",
+      "lon": "76.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220807000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Муз",
+      "en": "Ak-Muz",
+      "slug": "ak-muz-20807"
+    },
+    "code": {
+      "id": "KG04220807000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722600"
+    ],
+    "geo": {
+      "lat": "41.288",
+      "lon": "76.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Талаа",
+      "en": "Ak-Tala",
+      "slug": "ak-tala-20808"
+    },
+    "code": {
+      "id": "KG04220808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723313"
+    ],
+    "geo": {
+      "lat": "41.089",
+      "lon": "75.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ат-Башы",
+      "en": "At-Bashy",
+      "slug": "at-bashy-20812"
+    },
+    "code": {
+      "id": "KG04220812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722600"
+    ],
+    "geo": {
+      "lat": "41.176",
+      "lon": "75.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220817000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Баш-Кайыңды",
+      "en": "Bash-Kaindy",
+      "slug": "bash-kaindy-20817"
+    },
+    "code": {
+      "id": "KG04220817000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722600"
+    ],
+    "geo": {
+      "lat": "41.147",
+      "lon": "75.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220000903",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чатыр Көл",
+      "en": "Chatyr Kul",
+      "slug": "chatyr-kul-00903"
+    },
+    "code": {
+      "id": "KG04220000903",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722600"
+    ],
+    "geo": {
+      "lat": "40.639",
+      "lon": "75.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Коюн",
+      "en": "Kara-Koyun",
+      "slug": "kara-koyun-20832"
+    },
+    "code": {
+      "id": "KG04220832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722600"
+    ],
+    "geo": {
+      "lat": "41.113",
+      "lon": "75.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220836000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Суу",
+      "en": "Kara-Suu",
+      "slug": "kara-suu-20836"
+    },
+    "code": {
+      "id": "KG04220836000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722600"
+    ],
+    "geo": {
+      "lat": "41.201",
+      "lon": "75.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Казыбек",
+      "en": "Kazybek",
+      "slug": "kazybek-22083"
+    },
+    "code": {
+      "id": "KG04220830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722611"
+    ],
+    "geo": {
+      "lat": "40.938",
+      "lon": "75.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04220845000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Талды-Суу",
+      "en": "Taldy-Suu",
+      "slug": "taldy-suu-20845"
+    },
+    "code": {
+      "id": "KG04220845000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04220000000",
+      "level": 2,
+      "name": {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04220000000",
+        "level": 2,
+        "name": {
+          "local": "Ат-Башы",
+          "en": "Ak-Bashy",
+          "slug": "ak-bashy-g0422"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722600"
+    ],
+    "geo": {
+      "lat": "41.192",
+      "lon": "76.101"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

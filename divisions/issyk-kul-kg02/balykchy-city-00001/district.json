@@ -1,0 +1,49 @@
+{
+  "id": "KG02420000010",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Балыкчы ш.",
+    "en": "Balykchy (city)",
+    "slug": "balykchy-city-00001"
+  },
+  "code": {
+    "id": "KG02420000010",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG02000000000",
+    "level": 1,
+    "name": {
+      "local": "Ысык-Көл",
+      "en": "Issyk-Kul",
+      "slug": "issyk-kul-kg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 1
+  },
+  "zip_codes": [
+    "721900"
+  ],
+  "geo": {
+    "lat": "42.455",
+    "lon": "76.183"
+  },
+  "metadata": {},
+  "source": {}
+}

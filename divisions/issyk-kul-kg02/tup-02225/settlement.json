@@ -1,0 +1,730 @@
+[
+  {
+    "id": "KG02225896000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Булак",
+      "en": "Ak-Bulak",
+      "slug": "ak-bulak-25896"
+    },
+    "code": {
+      "id": "KG02225896000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.799",
+      "lon": "78.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225873000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Булуң",
+      "en": "Ak-Bulun",
+      "slug": "ak-bulun-25873"
+    },
+    "code": {
+      "id": "KG02225873000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.773",
+      "lon": "78.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225810000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Арал",
+      "en": "Aral",
+      "slug": "aral-22581"
+    },
+    "code": {
+      "id": "KG02225810000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720601"
+    ],
+    "geo": {
+      "lat": "42.714",
+      "lon": "78.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225893000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чоң-Таш",
+      "en": "Chon-Tash",
+      "slug": "chon-tash-25893"
+    },
+    "code": {
+      "id": "KG02225893000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.763",
+      "lon": "78.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225815000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ысык-Көл",
+      "en": "Issyk-Kel",
+      "slug": "issyk-kel-25815"
+    },
+    "code": {
+      "id": "KG02225815000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.634",
+      "lon": "78.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225883000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Карасаев",
+      "en": "Karasaev",
+      "slug": "karasaev-25883"
+    },
+    "code": {
+      "id": "KG02225883000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.717",
+      "lon": "78.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225835000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кутургу",
+      "en": "Kuturgi",
+      "slug": "kuturgi-25835"
+    },
+    "code": {
+      "id": "KG02225835000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722408"
+    ],
+    "geo": {
+      "lat": "42.759",
+      "lon": "78.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225841000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Михайловка",
+      "en": "Mikhaylovka",
+      "slug": "mikhaylovka-25841"
+    },
+    "code": {
+      "id": "KG02225841000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721322"
+    ],
+    "geo": {
+      "lat": "42.633",
+      "lon": "78.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225865000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сан-Таш",
+      "en": "San-Tash",
+      "slug": "san-tash-25865"
+    },
+    "code": {
+      "id": "KG02225865000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.734",
+      "lon": "78.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225870000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сары-Булак",
+      "en": "Sary-Bulak",
+      "slug": "sary-bulak-22587"
+    },
+    "code": {
+      "id": "KG02225870000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723700"
+    ],
+    "geo": {
+      "lat": "42.786",
+      "lon": "78.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225876000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Талды-Суу",
+      "en": "Taldy-Suu",
+      "slug": "taldy-suu-25876"
+    },
+    "code": {
+      "id": "KG02225876000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.779",
+      "lon": "78.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225847000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Тогуз-Булак",
+      "en": "Toguz-Bulak",
+      "slug": "toguz-bulak-25847"
+    },
+    "code": {
+      "id": "KG02225847000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720426"
+    ],
+    "geo": {
+      "lat": "42.674",
+      "lon": "78.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02225889000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Түп",
+      "en": "Tyup",
+      "slug": "tyup-25889"
+    },
+    "code": {
+      "id": "KG02225889000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02225000000",
+      "level": 2,
+      "name": {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02225000000",
+        "level": 2,
+        "name": {
+          "local": "Түп",
+          "en": "Tup",
+          "slug": "tup-02225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "42.736",
+      "lon": "78.402"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

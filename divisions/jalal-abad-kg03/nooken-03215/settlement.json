@@ -1,0 +1,506 @@
+[
+  {
+    "id": "KG03215804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Арал",
+      "en": "Aral",
+      "slug": "aral-15804"
+    },
+    "code": {
+      "id": "KG03215804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03215000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокен",
+        "en": "Nooken",
+        "slug": "nooken-03215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03215000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокен",
+          "en": "Nooken",
+          "slug": "nooken-03215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720601"
+    ],
+    "geo": {
+      "lat": "41.009",
+      "lon": "72.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03215819000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бүргөндү",
+      "en": "Byurgendi",
+      "slug": "byurgendi-15819"
+    },
+    "code": {
+      "id": "KG03215819000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03215000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокен",
+        "en": "Nooken",
+        "slug": "nooken-03215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03215000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокен",
+          "en": "Nooken",
+          "slug": "nooken-03215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721200"
+    ],
+    "geo": {
+      "lat": "41.079",
+      "lon": "72.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03215821000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Достук",
+      "en": "Dostuk",
+      "slug": "dostuk-15821"
+    },
+    "code": {
+      "id": "KG03215821000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03215000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокен",
+        "en": "Nooken",
+        "slug": "nooken-03215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03215000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокен",
+          "en": "Nooken",
+          "slug": "nooken-03215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720409"
+    ],
+    "geo": {
+      "lat": "41.191",
+      "lon": "72.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03215600010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кочкор-Ата",
+      "en": "Kochkor-Ata (city)",
+      "slug": "kochkor-ata-city-60001"
+    },
+    "code": {
+      "id": "KG03215600010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03215000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокен",
+        "en": "Nooken",
+        "slug": "nooken-03215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03215000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокен",
+          "en": "Nooken",
+          "slug": "nooken-03215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721200"
+    ],
+    "geo": {
+      "lat": "41.041",
+      "lon": "72.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03215836000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Масы",
+      "en": "Massy",
+      "slug": "massy-15836"
+    },
+    "code": {
+      "id": "KG03215836000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03215000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокен",
+        "en": "Nooken",
+        "slug": "nooken-03215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03215000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокен",
+          "en": "Nooken",
+          "slug": "nooken-03215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721200"
+    ],
+    "geo": {
+      "lat": "41.071",
+      "lon": "72.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03215840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Момбеков",
+      "en": "Mombekov",
+      "slug": "mombekov-21584"
+    },
+    "code": {
+      "id": "KG03215840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03215000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокен",
+        "en": "Nooken",
+        "slug": "nooken-03215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03215000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокен",
+          "en": "Nooken",
+          "slug": "nooken-03215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721207"
+    ],
+    "geo": {
+      "lat": "41.038",
+      "lon": "72.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03215846000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ноокат",
+      "en": "Nookat",
+      "slug": "nookat-15846"
+    },
+    "code": {
+      "id": "KG03215846000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03215000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокен",
+        "en": "Nooken",
+        "slug": "nooken-03215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03215000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокен",
+          "en": "Nooken",
+          "slug": "nooken-03215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723415"
+    ],
+    "geo": {
+      "lat": "41.059",
+      "lon": "72.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03215851000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сакалды",
+      "en": "Sakaldi",
+      "slug": "sakaldi-15851"
+    },
+    "code": {
+      "id": "KG03215851000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03215000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокен",
+        "en": "Nooken",
+        "slug": "nooken-03215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03215000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокен",
+          "en": "Nooken",
+          "slug": "nooken-03215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721211"
+    ],
+    "geo": {
+      "lat": "40.993",
+      "lon": "72.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03215876000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Шайдан",
+      "en": "Shaydan",
+      "slug": "shaydan-15876"
+    },
+    "code": {
+      "id": "KG03215876000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03215000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокен",
+        "en": "Nooken",
+        "slug": "nooken-03215"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03215000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокен",
+          "en": "Nooken",
+          "slug": "nooken-03215"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721200"
+    ],
+    "geo": {
+      "lat": "41.089",
+      "lon": "72.685"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

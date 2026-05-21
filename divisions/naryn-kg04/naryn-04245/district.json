@@ -1,0 +1,49 @@
+{
+  "id": "KG04245000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Нарын",
+    "en": "Naryn",
+    "slug": "naryn-04245"
+  },
+  "code": {
+    "id": "KG04245000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG04000000000",
+    "level": 1,
+    "name": {
+      "local": "Нарын",
+      "en": "Naryn",
+      "slug": "naryn-kg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 14
+  },
+  "zip_codes": [
+    "722900"
+  ],
+  "geo": {
+    "lat": "41.511",
+    "lon": "75.906"
+  },
+  "metadata": {},
+  "source": {}
+}

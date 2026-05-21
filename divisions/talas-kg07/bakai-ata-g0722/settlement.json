@@ -1,0 +1,506 @@
+[
+  {
+    "id": "KG07220840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Дөбө",
+      "en": "Ak-Debe",
+      "slug": "ak-debe-22084"
+    },
+    "code": {
+      "id": "KG07220840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07220000000",
+      "level": 2,
+      "name": {
+        "local": "Бакай-Ата",
+        "en": "Bakai-Ata",
+        "slug": "bakai-ata-g0722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07220000000",
+        "level": 2,
+        "name": {
+          "local": "Бакай-Ата",
+          "en": "Bakai-Ata",
+          "slug": "bakai-ata-g0722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724900"
+    ],
+    "geo": {
+      "lat": "42.538",
+      "lon": "71.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07220826000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Акназаров",
+      "en": "Aknazarov",
+      "slug": "aknazarov-20826"
+    },
+    "code": {
+      "id": "KG07220826000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07220000000",
+      "level": 2,
+      "name": {
+        "local": "Бакай-Ата",
+        "en": "Bakai-Ata",
+        "slug": "bakai-ata-g0722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07220000000",
+        "level": 2,
+        "name": {
+          "local": "Бакай-Ата",
+          "en": "Bakai-Ata",
+          "slug": "bakai-ata-g0722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724900"
+    ],
+    "geo": {
+      "lat": "42.43",
+      "lon": "72.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07220823000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Боо-Терек",
+      "en": "Boo-Terek",
+      "slug": "boo-terek-20823"
+    },
+    "code": {
+      "id": "KG07220823000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07220000000",
+      "level": 2,
+      "name": {
+        "local": "Бакай-Ата",
+        "en": "Bakai-Ata",
+        "slug": "bakai-ata-g0722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07220000000",
+        "level": 2,
+        "name": {
+          "local": "Бакай-Ата",
+          "en": "Bakai-Ata",
+          "slug": "bakai-ata-g0722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724900"
+    ],
+    "geo": {
+      "lat": "42.591",
+      "lon": "71.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07220828000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кең-Арал",
+      "en": "Ken-Aral",
+      "slug": "ken-aral-20828"
+    },
+    "code": {
+      "id": "KG07220828000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07220000000",
+      "level": 2,
+      "name": {
+        "local": "Бакай-Ата",
+        "en": "Bakai-Ata",
+        "slug": "bakai-ata-g0722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07220000000",
+        "level": 2,
+        "name": {
+          "local": "Бакай-Ата",
+          "en": "Bakai-Ata",
+          "slug": "bakai-ata-g0722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724900"
+    ],
+    "geo": {
+      "lat": "42.514",
+      "lon": "72.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07220830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ленинполь",
+      "en": "Leninpol'",
+      "slug": "leninpol-22083"
+    },
+    "code": {
+      "id": "KG07220830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07220000000",
+      "level": 2,
+      "name": {
+        "local": "Бакай-Ата",
+        "en": "Bakai-Ata",
+        "slug": "bakai-ata-g0722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07220000000",
+        "level": 2,
+        "name": {
+          "local": "Бакай-Ата",
+          "en": "Bakai-Ata",
+          "slug": "bakai-ata-g0722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723800"
+    ],
+    "geo": {
+      "lat": "42.448",
+      "lon": "71.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07220833000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Миң-Булак",
+      "en": "Min-Bulak",
+      "slug": "min-bulak-20833"
+    },
+    "code": {
+      "id": "KG07220833000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07220000000",
+      "level": 2,
+      "name": {
+        "local": "Бакай-Ата",
+        "en": "Bakai-Ata",
+        "slug": "bakai-ata-g0722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07220000000",
+        "level": 2,
+        "name": {
+          "local": "Бакай-Ата",
+          "en": "Bakai-Ata",
+          "slug": "bakai-ata-g0722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724900"
+    ],
+    "geo": {
+      "lat": "42.572",
+      "lon": "71.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07220843000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Орос",
+      "en": "Oros",
+      "slug": "oros-20843"
+    },
+    "code": {
+      "id": "KG07220843000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07220000000",
+      "level": 2,
+      "name": {
+        "local": "Бакай-Ата",
+        "en": "Bakai-Ata",
+        "slug": "bakai-ata-g0722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07220000000",
+        "level": 2,
+        "name": {
+          "local": "Бакай-Ата",
+          "en": "Bakai-Ata",
+          "slug": "bakai-ata-g0722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724900"
+    ],
+    "geo": {
+      "lat": "42.506",
+      "lon": "71.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07220835000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Өзгөрүш",
+      "en": "Ozgeryush",
+      "slug": "ozgeryush-20835"
+    },
+    "code": {
+      "id": "KG07220835000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07220000000",
+      "level": 2,
+      "name": {
+        "local": "Бакай-Ата",
+        "en": "Bakai-Ata",
+        "slug": "bakai-ata-g0722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07220000000",
+        "level": 2,
+        "name": {
+          "local": "Бакай-Ата",
+          "en": "Bakai-Ata",
+          "slug": "bakai-ata-g0722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724900"
+    ],
+    "geo": {
+      "lat": "42.543",
+      "lon": "72.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07220808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Шадыкан",
+      "en": "Shadykan",
+      "slug": "shadykan-20808"
+    },
+    "code": {
+      "id": "KG07220808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG07220000000",
+      "level": 2,
+      "name": {
+        "local": "Бакай-Ата",
+        "en": "Bakai-Ata",
+        "slug": "bakai-ata-g0722"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG07000000000",
+        "level": 1,
+        "name": {
+          "local": "Талас",
+          "en": "Talas",
+          "slug": "talas-kg07"
+        }
+      },
+      {
+        "id": "KG07220000000",
+        "level": 2,
+        "name": {
+          "local": "Бакай-Ата",
+          "en": "Bakai-Ata",
+          "slug": "bakai-ata-g0722"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724900"
+    ],
+    "geo": {
+      "lat": "42.45",
+      "lon": "72.124"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

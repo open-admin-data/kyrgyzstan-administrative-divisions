@@ -1,0 +1,730 @@
+[
+  {
+    "id": "KG03220851000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Багыш",
+      "en": "Bagysh",
+      "slug": "bagysh-20851"
+    },
+    "code": {
+      "id": "KG03220851000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721303"
+    ],
+    "geo": {
+      "lat": "41.039",
+      "lon": "73.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Барпы",
+      "en": "Barpyn",
+      "slug": "barpyn-20812"
+    },
+    "code": {
+      "id": "KG03220812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "40.892",
+      "lon": "73.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Алма",
+      "en": "Kara-Almin",
+      "slug": "kara-almin-20825"
+    },
+    "code": {
+      "id": "KG03220825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "41.239",
+      "lon": "73.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220828000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Дарья",
+      "en": "Kara-Daryyan",
+      "slug": "kara-daryyan-20828"
+    },
+    "code": {
+      "id": "KG03220828000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "40.88",
+      "lon": "72.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220834000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көк-Арт",
+      "en": "Kegart",
+      "slug": "kegart-20834"
+    },
+    "code": {
+      "id": "KG03220834000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "41.092",
+      "lon": "73.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220805000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Курманбек",
+      "en": "Kurmanbek",
+      "slug": "kurmanbek-20805"
+    },
+    "code": {
+      "id": "KG03220805000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "41.111",
+      "lon": "73.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220838000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кыз-Көл",
+      "en": "Kyz-Kel",
+      "slug": "kyz-kel-20838"
+    },
+    "code": {
+      "id": "KG03220838000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "41.175",
+      "lon": "73.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220842000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Туу",
+      "en": "Kyzyl-Tuu",
+      "slug": "kyzyl-tuu-20842"
+    },
+    "code": {
+      "id": "KG03220842000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "41.112",
+      "lon": "72.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220846000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ленин",
+      "en": "Lenin",
+      "slug": "lenin-20846"
+    },
+    "code": {
+      "id": "KG03220846000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725022"
+    ],
+    "geo": {
+      "lat": "41.09",
+      "lon": "73.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220854000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сайпидин Атабеков",
+      "en": "Saypidin-Atabekov",
+      "slug": "saypidin-atabekov-20854"
+    },
+    "code": {
+      "id": "KG03220854000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "40.844",
+      "lon": "72.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220856000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сузак",
+      "en": "Suzak",
+      "slug": "suzak-20856"
+    },
+    "code": {
+      "id": "KG03220856000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "40.905",
+      "lon": "73.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220863000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Таш-Булак",
+      "en": "Tash-Bulak",
+      "slug": "tash-bulak-20863"
+    },
+    "code": {
+      "id": "KG03220863000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721300"
+    ],
+    "geo": {
+      "lat": "40.944",
+      "lon": "73.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03220874000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ырыс",
+      "en": "Yrys",
+      "slug": "yrys-20874"
+    },
+    "code": {
+      "id": "KG03220874000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03220000000",
+      "level": 2,
+      "name": {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03220000000",
+        "level": 2,
+        "name": {
+          "local": "Сузак",
+          "en": "Suzak",
+          "slug": "suzak-g0322"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721308"
+    ],
+    "geo": {
+      "lat": "40.903",
+      "lon": "72.952"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

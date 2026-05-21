@@ -1,0 +1,30 @@
+{
+  "id": "KG02000000000",
+  "level": 1,
+  "level_name": {
+    "local": "Область",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Ысык-Көл",
+    "en": "Issyk-Kul",
+    "slug": "issyk-kul-kg02"
+  },
+  "code": {
+    "id": "KG02000000000",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7,
+    "settlement": 63
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.062",
+    "lon": "78.159"
+  },
+  "metadata": {},
+  "source": {}
+}

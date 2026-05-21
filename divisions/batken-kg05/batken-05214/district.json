@@ -1,0 +1,49 @@
+{
+  "id": "KG05214000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Баткен",
+    "en": "Batken",
+    "slug": "batken-05214"
+  },
+  "code": {
+    "id": "KG05214000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG05000000000",
+    "level": 1,
+    "name": {
+      "local": "Баткен",
+      "en": "Batken",
+      "slug": "batken-kg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG05000000000",
+      "level": 1,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 9
+  },
+  "zip_codes": [
+    "720100"
+  ],
+  "geo": {
+    "lat": "39.841",
+    "lon": "70.98"
+  },
+  "metadata": {},
+  "source": {}
+}

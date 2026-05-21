@@ -1,0 +1,1066 @@
+[
+  {
+    "id": "KG08206803000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Кудук",
+      "en": "Ak-Kuduk",
+      "slug": "ak-kuduk-06803"
+    },
+    "code": {
+      "id": "KG08206803000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725100"
+    ],
+    "geo": {
+      "lat": "42.943",
+      "lon": "74.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206810000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бирдик",
+      "en": "Birdik",
+      "slug": "birdik-20681"
+    },
+    "code": {
+      "id": "KG08206810000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721203"
+    ],
+    "geo": {
+      "lat": "42.97",
+      "lon": "74.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206818000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жээк",
+      "en": "Djeek",
+      "slug": "djeek-06818"
+    },
+    "code": {
+      "id": "KG08206818000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725100"
+    ],
+    "geo": {
+      "lat": "42.894",
+      "lon": "74.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206821000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Интернационал",
+      "en": "Internatsional",
+      "slug": "internatsional-06821"
+    },
+    "code": {
+      "id": "KG08206821000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725100"
+    ],
+    "geo": {
+      "lat": "42.786",
+      "lon": "74.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206822000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ысык-Ата",
+      "en": "Issyk-Ata",
+      "slug": "issyk-ata-06822"
+    },
+    "code": {
+      "id": "KG08206822000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725031"
+    ],
+    "geo": {
+      "lat": "42.653",
+      "lon": "74.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ивановка",
+      "en": "Ivanovka",
+      "slug": "ivanovka-06812"
+    },
+    "code": {
+      "id": "KG08206812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725008"
+    ],
+    "geo": {
+      "lat": "42.855",
+      "lon": "75.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206600010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кант",
+      "en": "Kant (city)",
+      "slug": "kant-city-60001"
+    },
+    "code": {
+      "id": "KG08206600010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725000"
+    ],
+    "geo": {
+      "lat": "42.899",
+      "lon": "74.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кең-Булуң",
+      "en": "Ken-Bulun",
+      "slug": "ken-bulun-20682"
+    },
+    "code": {
+      "id": "KG08206820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725100"
+    ],
+    "geo": {
+      "lat": "42.83",
+      "lon": "75.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206838000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кочкорбаев",
+      "en": "Kochkorbaev",
+      "slug": "kochkorbaev-06838"
+    },
+    "code": {
+      "id": "KG08206838000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725100"
+    ],
+    "geo": {
+      "lat": "42.89",
+      "lon": "74.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206823000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Красная-Речка",
+      "en": "Krasnya-Rechka",
+      "slug": "krasnya-rechka-06823"
+    },
+    "code": {
+      "id": "KG08206823000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725100"
+    ],
+    "geo": {
+      "lat": "42.893",
+      "lon": "74.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206836000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Логвиненко",
+      "en": "Logvinenko",
+      "slug": "logvinenko-06836"
+    },
+    "code": {
+      "id": "KG08206836000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725100"
+    ],
+    "geo": {
+      "lat": "42.808",
+      "lon": "74.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206839000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Люксембург",
+      "en": "Lyuksemburg",
+      "slug": "lyuksemburg-06839"
+    },
+    "code": {
+      "id": "KG08206839000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725020"
+    ],
+    "geo": {
+      "lat": "42.868",
+      "lon": "74.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206842000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Милянфан",
+      "en": "Milyanfan",
+      "slug": "milyanfan-06842"
+    },
+    "code": {
+      "id": "KG08206842000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725021"
+    ],
+    "geo": {
+      "lat": "42.973",
+      "lon": "74.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206848000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Новопокровка",
+      "en": "Novopokrovka",
+      "slug": "novopokrovka-06848"
+    },
+    "code": {
+      "id": "KG08206848000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725022"
+    ],
+    "geo": {
+      "lat": "42.832",
+      "lon": "74.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206816000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Нурманбет",
+      "en": "Nurmanbet",
+      "slug": "nurmanbet-06816"
+    },
+    "code": {
+      "id": "KG08206816000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725025"
+    ],
+    "geo": {
+      "lat": "42.779",
+      "lon": "75.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206846000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сын-Таш",
+      "en": "Syn-Tash",
+      "slug": "syn-tash-06846"
+    },
+    "code": {
+      "id": "KG08206846000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725028"
+    ],
+    "geo": {
+      "lat": "42.737",
+      "lon": "75.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206870000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Туз",
+      "en": "Tuz",
+      "slug": "tuz-20687"
+    },
+    "code": {
+      "id": "KG08206870000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722815"
+    ],
+    "geo": {
+      "lat": "42.756",
+      "lon": "74.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206873000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Узун-Кыр",
+      "en": "Uzun-Kyr",
+      "slug": "uzun-kyr-06873"
+    },
+    "code": {
+      "id": "KG08206873000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725100"
+    ],
+    "geo": {
+      "lat": "42.947",
+      "lon": "74.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08206852000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Юрьевка",
+      "en": "Yurevka",
+      "slug": "yurevka-06852"
+    },
+    "code": {
+      "id": "KG08206852000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08206000000",
+      "level": 2,
+      "name": {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08206000000",
+        "level": 2,
+        "name": {
+          "local": "Ысык-Ата",
+          "en": "Ysyk-Ata",
+          "slug": "ysyk-ata-08206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725032"
+    ],
+    "geo": {
+      "lat": "42.729",
+      "lon": "75.034"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

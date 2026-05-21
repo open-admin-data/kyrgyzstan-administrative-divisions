@@ -1,0 +1,898 @@
+[
+  {
+    "id": "KG06226804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Таш",
+      "en": "Ak-Tash",
+      "slug": "ak-tash-26804"
+    },
+    "code": {
+      "id": "KG06226804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.658",
+      "lon": "72.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226806000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаңы-Арык",
+      "en": "Djany-Aryk",
+      "slug": "djany-aryk-26806"
+    },
+    "code": {
+      "id": "KG06226806000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.67",
+      "lon": "73.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226807000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жоош",
+      "en": "Joosh",
+      "slug": "joosh-26807"
+    },
+    "code": {
+      "id": "KG06226807000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723308"
+    ],
+    "geo": {
+      "lat": "40.492",
+      "lon": "73.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226600010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Суу",
+      "en": "Kara-Suu (city)",
+      "slug": "kara-suu-city-60001"
+    },
+    "code": {
+      "id": "KG06226600010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.708",
+      "lon": "72.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226816000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кашгар-Кыштак",
+      "en": "Kashgar-Kyshtak",
+      "slug": "kashgar-kyshtak-26816"
+    },
+    "code": {
+      "id": "KG06226816000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.333",
+      "lon": "73.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Катта-Талдык",
+      "en": "Katta-Taldyk",
+      "slug": "katta-taldyk-26812"
+    },
+    "code": {
+      "id": "KG06226812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.586",
+      "lon": "73.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226819000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Кыштак",
+      "en": "Kyzyl-Kyshtak",
+      "slug": "kyzyl-kyshtak-26819"
+    },
+    "code": {
+      "id": "KG06226819000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.56",
+      "lon": "72.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226822000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Суу",
+      "en": "Kyzyl-Suu",
+      "slug": "kyzyl-suu-26822"
+    },
+    "code": {
+      "id": "KG06226822000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.453",
+      "lon": "73.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226826000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Мады",
+      "en": "Mady",
+      "slug": "mady-26826"
+    },
+    "code": {
+      "id": "KG06226826000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723324"
+    ],
+    "geo": {
+      "lat": "40.294",
+      "lon": "73.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Нариман",
+      "en": "Nariman",
+      "slug": "nariman-22683"
+    },
+    "code": {
+      "id": "KG06226830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723325"
+    ],
+    "geo": {
+      "lat": "40.593",
+      "lon": "72.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226838000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Отуз-Адыр",
+      "en": "Otuz-Adyr",
+      "slug": "otuz-adyr-26838"
+    },
+    "code": {
+      "id": "KG06226838000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.635",
+      "lon": "72.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226842000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Папан",
+      "en": "Papan",
+      "slug": "papan-26842"
+    },
+    "code": {
+      "id": "KG06226842000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723327"
+    ],
+    "geo": {
+      "lat": "40.298",
+      "lon": "72.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226854000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сарай",
+      "en": "Saray",
+      "slug": "saray-26854"
+    },
+    "code": {
+      "id": "KG06226854000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.683",
+      "lon": "72.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226850000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Савай",
+      "en": "Savay",
+      "slug": "savay-22685"
+    },
+    "code": {
+      "id": "KG06226850000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723328"
+    ],
+    "geo": {
+      "lat": "40.721",
+      "lon": "72.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226868000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Шарк",
+      "en": "Shark",
+      "slug": "shark-26868"
+    },
+    "code": {
+      "id": "KG06226868000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723330"
+    ],
+    "geo": {
+      "lat": "40.531",
+      "lon": "72.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06226862000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Төлөйкөн",
+      "en": "Teleyken",
+      "slug": "teleyken-26862"
+    },
+    "code": {
+      "id": "KG06226862000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06226000000",
+      "level": 2,
+      "name": {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06226000000",
+        "level": 2,
+        "name": {
+          "local": "Кара-Суу",
+          "en": "Kara-Suu",
+          "slug": "kara-suu-06226"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723301"
+    ],
+    "geo": {
+      "lat": "40.461",
+      "lon": "72.818"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

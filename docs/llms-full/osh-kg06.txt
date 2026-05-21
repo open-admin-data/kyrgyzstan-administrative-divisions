@@ -1,0 +1,360 @@
+# Osh — Kyrgyzstan Administrative Divisions
+
+> 7 districts, 79 settlements
+> Code: KG06000000000
+> Coordinates: 40.164, 73.361
+> Last updated: 2026-05-21. License: CC-BY-4.0.
+
+## Districts
+
+### Алай (Alai)
+
+Code: KG06207000000, Coordinates: 39.925, 73.569
+Settlements: 11
+
+#### К.Белекбаев атындагы Алай (Alay (K.Belekbaeva))
+
+Code: KG06207804000, Postal: 723000, Coordinates: 39.995, 73.657
+
+#### Будалык (Budalyk)
+
+Code: KG06207809000, Postal: 723000, Coordinates: 40.269, 73.555
+
+#### Бүлөлү (Byuleli)
+
+Code: KG06207811000, Postal: 723000, Coordinates: 40.182, 73.613
+
+#### Жошолу (Djosholu)
+
+Code: KG06207818000, Postal: 723000, Coordinates: 40.338, 73.57
+
+#### Гүлчө (Gulchi)
+
+Code: KG06207814000, Postal: 723000, Coordinates: 40.274, 73.414
+
+#### Коңур-Дөбө (Konur-Dobe)
+
+Code: KG06207822000, Postal: 723000, Coordinates: 40.343, 73.33
+
+#### Корул (Korul)
+
+Code: KG06207825000, Postal: 723000, Coordinates: 40.402, 73.485
+
+#### Ленин (Lenin)
+
+Code: KG06207830000, Postal: 725022, Coordinates: 40.143, 73.467
+
+#### Сары-Таш (Sary-Tash)
+
+Code: KG06207844000, Postal: 723000, Coordinates: 39.733, 73.244
+
+#### Талды-Суу (Taldy-Suu)
+
+Code: KG06207838000, Postal: 723000, Coordinates: 39.749, 73.02
+
+#### Үч-Дөбө (Uch-Debe)
+
+Code: KG06207840000, Postal: 723000, Coordinates: 39.876, 73.36
+
+### Араван (Aravan)
+
+Code: KG06211000000, Coordinates: 40.48, 72.563
+Settlements: 6
+
+#### Алля Анаров (Allya Anarov)
+
+Code: KG06211807000, Postal: 723100, Coordinates: 40.505, 72.524
+
+#### Чек-Абад (Chek-Abad)
+
+Code: KG06211835000, Postal: 723105, Coordinates: 40.499, 72.445
+
+#### Керме-Тоо (Kerme-Too)
+
+Code: KG06211815000, Postal: 723100, Coordinates: 40.48, 72.654
+
+#### Мангыт (Mangyt)
+
+Code: KG06211812000, Postal: 723106, Coordinates: 40.434, 72.601
+
+#### Төө-Моюн (Teo-Moyun)
+
+Code: KG06211829000, Postal: 723100, Coordinates: 40.424, 72.195
+
+#### Тепе-Коргон (Tepe-Korgon)
+
+Code: KG06211823000, Postal: 723100, Coordinates: 40.579, 72.414
+
+### Чоӊ-Алай (Chon-Alai)
+
+Code: KG06259000000, Coordinates: 39.507, 72.231
+Settlements: 3
+
+#### Чоң-Алай (Chon-Alay)
+
+Code: KG06259851000, Postal: 723000, Coordinates: 39.48, 71.768
+
+#### Жекенди (Jekendi)
+
+Code: KG06259816000, Postal: 723702, Coordinates: 39.559, 72.124
+
+#### Кашка-Суу (Kashka-Suu)
+
+Code: KG06259824000, Postal: 723000, Coordinates: 39.545, 72.446
+
+### Кара-Кулжа (Kara-Kulja)
+
+Code: KG06246000000, Coordinates: 40.436, 74.173
+Settlements: 11
+
+#### Алайкуу (Alaykuu)
+
+Code: KG06246804000, Postal: 723200, Coordinates: 40.329, 74.364
+
+#### Чалма (Chalma)
+
+Code: KG06246860000, Postal: 723214, Coordinates: 40.495, 73.812
+
+#### Капчыгай (Kapchygay)
+
+Code: KG06246812000, Postal: 720101, Coordinates: 40.577, 74.038
+
+#### Кара-Кочкор (Kara-Kochkor)
+
+Code: KG06246818000, Postal: 723200, Coordinates: 40.697, 73.655
+
+#### Кара-Кулжа (Kara-Kul&#39;dja)
+
+Code: KG06246820000, Postal: 723200, Coordinates: 40.663, 73.752
+
+#### Карагуз (Karaguz)
+
+Code: KG06246816000, Postal: 723200, Coordinates: 40.545, 73.507
+
+#### Кашка-Жол (Kashka-Jol)
+
+Code: KG06246861000, Postal: 723200, Coordinates: 40.683, 73.418
+
+#### Кызыл-Жар (Kyzyl-Jar)
+
+Code: KG06246826000, Postal: 723200, Coordinates: 40.35, 74.222
+
+#### Ой-Тал (Oy-Tal)
+
+Code: KG06246838000, Postal: 723200, Coordinates: 40.429, 74.105
+
+#### Сары-Булак (Sary-Bulak)
+
+Code: KG06246849000, Postal: 723700, Coordinates: 40.461, 73.624
+
+#### Ылай-Талаа (Ylay-Talaa)
+
+Code: KG06246834000, Postal: 723200, Coordinates: 40.491, 73.712
+
+### Кара-Суу (Kara-Suu)
+
+Code: KG06226000000, Coordinates: 40.292, 73.121
+Settlements: 16
+
+#### Ак-Таш (Ak-Tash)
+
+Code: KG06226804000, Postal: 723301, Coordinates: 40.658, 72.853
+
+#### Жаңы-Арык (Djany-Aryk)
+
+Code: KG06226806000, Postal: 723301, Coordinates: 40.67, 73.113
+
+#### Жоош (Joosh)
+
+Code: KG06226807000, Postal: 723308, Coordinates: 40.492, 73.14
+
+#### Кара-Суу (Kara-Suu (city))
+
+Code: KG06226600010, Postal: 723301, Coordinates: 40.708, 72.873
+
+#### Кашгар-Кыштак (Kashgar-Kyshtak)
+
+Code: KG06226816000, Postal: 723301, Coordinates: 40.333, 73.221
+
+#### Катта-Талдык (Katta-Taldyk)
+
+Code: KG06226812000, Postal: 723301, Coordinates: 40.586, 73.063
+
+#### Кызыл-Кыштак (Kyzyl-Kyshtak)
+
+Code: KG06226819000, Postal: 723301, Coordinates: 40.56, 72.725
+
+#### Кызыл-Суу (Kyzyl-Suu)
+
+Code: KG06226822000, Postal: 723301, Coordinates: 40.453, 73.291
+
+#### Мады (Mady)
+
+Code: KG06226826000, Postal: 723324, Coordinates: 40.294, 73.092
+
+#### Нариман (Nariman)
+
+Code: KG06226830000, Postal: 723325, Coordinates: 40.593, 72.787
+
+#### Отуз-Адыр (Otuz-Adyr)
+
+Code: KG06226838000, Postal: 723301, Coordinates: 40.635, 72.983
+
+#### Папан (Papan)
+
+Code: KG06226842000, Postal: 723327, Coordinates: 40.298, 72.959
+
+#### Сарай (Saray)
+
+Code: KG06226854000, Postal: 723301, Coordinates: 40.683, 72.881
+
+#### Савай (Savay)
+
+Code: KG06226850000, Postal: 723328, Coordinates: 40.721, 72.937
+
+#### Шарк (Shark)
+
+Code: KG06226868000, Postal: 723330, Coordinates: 40.531, 72.849
+
+#### Төлөйкөн (Teleyken)
+
+Code: KG06226862000, Postal: 723301, Coordinates: 40.461, 72.818
+
+### Ноокат (Nookat)
+
+Code: KG06242000000, Coordinates: 40.106, 72.712
+Settlements: 14
+
+#### Бел (Bel)
+
+Code: KG06242808000, Postal: 723403, Coordinates: 40.201, 72.493
+
+#### Жаңы-Ноокат (Djany-Nookat)
+
+Code: KG06242814000, Postal: 723400, Coordinates: 40.25, 72.525
+
+#### Гүлстан (Gyulstan)
+
+Code: KG06242811000, Postal: 723400, Coordinates: 40.273, 72.592
+
+#### Исанов (Isanov)
+
+Code: KG06242836000, Postal: 723400, Coordinates: 40.25, 72.854
+
+#### Кара-Таш (Kara-Tash)
+
+Code: KG06242812000, Postal: 723418, Coordinates: 40.209, 72.621
+
+#### Кеңеш (Kenesh)
+
+Code: KG06242825000, Postal: 723400, Coordinates: 40.386, 72.767
+
+#### Кулатов (Kulatov)
+
+Code: KG06242813000, Postal: 723400, Coordinates: 40.214, 72.351
+
+#### Кыргыз-Ата (Kyrgyz-Ata)
+
+Code: KG06242829000, Postal: 723400, Coordinates: 40.198, 72.695
+
+#### Кызыл-Октябрь (Kyzyl-Oktyabr&#39;)
+
+Code: KG06242839000, Postal: 723400, Coordinates: 40.314, 72.404
+
+#### Найман (Nayman)
+
+Code: KG06242865000, Postal: 723101, Coordinates: 40.328, 72.33
+
+#### Он-Эки-Бел (On-Eki-Bel)
+
+Code: KG06242845000, Postal: 723400, Coordinates: 40.298, 72.3
+
+#### Төөлөс (Teeles)
+
+Code: KG06242850000, Postal: 723400, Coordinates: 40.331, 72.252
+
+#### Токтомат Зулпуев атындагы (Toktomata Zulpueva)
+
+Code: KG06242832000, Postal: 723400, Coordinates: 40.321, 72.71
+
+#### Ынтымак (Yntymak)
+
+Code: KG06242862000, Postal: 720111, Coordinates: 40.198, 72.229
+
+### Өзгөн (Uzgen)
+
+Code: KG06255000000, Coordinates: 40.808, 73.67
+Settlements: 18
+
+#### Ак-Жар (Ak-Djar)
+
+Code: KG06255804000, Postal: 723901, Coordinates: 40.779, 73.508
+
+#### Баш-Дөбө (Bash-Debe)
+
+Code: KG06255808000, Postal: 723400, Coordinates: 40.755, 73.234
+
+#### Дөң-Булак (Den-Bulak)
+
+Code: KG06255817000, Postal: 723400, Coordinates: 40.752, 73.35
+
+#### Жалпак-Таш (Djalpak-Tash)
+
+Code: KG06255813000, Postal: 723400, Coordinates: 40.591, 73.332
+
+#### Жыланды (Djylandy)
+
+Code: KG06255815000, Postal: 723400, Coordinates: 40.847, 73.349
+
+#### Ийри-Суу (Iyri-Suu)
+
+Code: KG06255826000, Postal: 723400, Coordinates: 41.015, 73.413
+
+#### Жазы (Jazy)
+
+Code: KG06255824000, Postal: 723606, Coordinates: 40.835, 73.451
+
+#### Кара-Таш (Kara-Tash)
+
+Code: KG06255830000, Postal: 723418, Coordinates: 40.521, 73.257
+
+#### Кароол (Karool)
+
+Code: KG06255832000, Postal: 720210, Coordinates: 40.713, 73.299
+
+#### Көлдүк (Keldyuk)
+
+Code: KG06255840000, Postal: 723400, Coordinates: 40.767, 73.612
+
+#### Куршаб (Kurshab)
+
+Code: KG06255853000, Postal: 723613, Coordinates: 40.661, 73.212
+
+#### Кызыл-Октябрь (Kyzyl-Oktyabr)
+
+Code: KG06255844000, Postal: 723400, Coordinates: 40.639, 73.15
+
+#### Кызыл-Тоо (Kyzyl-Too)
+
+Code: KG06255847000, Postal: 723400, Coordinates: 40.875, 73.525
+
+#### Мырза-Аке (Myrza-Ake)
+
+Code: KG06255859000, Postal: 723400, Coordinates: 40.724, 73.512
+
+#### Салам-Алик (Salamalik)
+
+Code: KG06255865000, Postal: 723400, Coordinates: 40.899, 73.792
+
+#### Төрт-Көл (Tert-Kel)
+
+Code: KG06255876000, Postal: 723400, Coordinates: 40.872, 73.268
+
+#### Өзгөн (Uzgen (city))
+
+Code: KG06255600010, Postal: 723400, Coordinates: 40.769, 73.306
+
+#### Заргер (Zarger)
+
+Code: KG06255822000, Postal: 723400, Coordinates: 40.927, 73.471
+

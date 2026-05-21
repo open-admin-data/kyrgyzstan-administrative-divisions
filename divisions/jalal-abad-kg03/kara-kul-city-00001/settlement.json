@@ -1,0 +1,58 @@
+[
+  {
+    "id": "KG03440510010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кетмен-Төбө",
+      "en": "Ketmen-Tebe",
+      "slug": "ketmen-tebe-51001"
+    },
+    "code": {
+      "id": "KG03440510010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03440000010",
+      "level": 2,
+      "name": {
+        "local": "Кара-Көл ш.",
+        "en": "Kara-Kul (city)",
+        "slug": "kara-kul-city-00001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03440000010",
+        "level": 2,
+        "name": {
+          "local": "Кара-Көл ш.",
+          "en": "Kara-Kul (city)",
+          "slug": "kara-kul-city-00001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721000"
+    ],
+    "geo": {
+      "lat": "41.724",
+      "lon": "73.128"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

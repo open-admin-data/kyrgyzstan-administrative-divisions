@@ -1,0 +1,226 @@
+[
+  {
+    "id": "KG03230841000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чаткал",
+      "en": "Chatkal",
+      "slug": "chatkal-30841"
+    },
+    "code": {
+      "id": "KG03230841000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03230000000",
+      "level": 2,
+      "name": {
+        "local": "Чаткал",
+        "en": "Chatkal",
+        "slug": "chatkal-g0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03230000000",
+        "level": 2,
+        "name": {
+          "local": "Чаткал",
+          "en": "Chatkal",
+          "slug": "chatkal-g0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721700"
+    ],
+    "geo": {
+      "lat": "41.697",
+      "lon": "70.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03230822000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Каныш-Кыя",
+      "en": "Kanysh-Kyya",
+      "slug": "kanysh-kyya-30822"
+    },
+    "code": {
+      "id": "KG03230822000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03230000000",
+      "level": 2,
+      "name": {
+        "local": "Чаткал",
+        "en": "Chatkal",
+        "slug": "chatkal-g0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03230000000",
+        "level": 2,
+        "name": {
+          "local": "Чаткал",
+          "en": "Chatkal",
+          "slug": "chatkal-g0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721700"
+    ],
+    "geo": {
+      "lat": "41.734",
+      "lon": "71.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03230844000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сумсар",
+      "en": "Sumsar",
+      "slug": "sumsar-30844"
+    },
+    "code": {
+      "id": "KG03230844000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03230000000",
+      "level": 2,
+      "name": {
+        "local": "Чаткал",
+        "en": "Chatkal",
+        "slug": "chatkal-g0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03230000000",
+        "level": 2,
+        "name": {
+          "local": "Чаткал",
+          "en": "Chatkal",
+          "slug": "chatkal-g0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721703"
+    ],
+    "geo": {
+      "lat": "41.244",
+      "lon": "71.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03230847000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Терек-Сай",
+      "en": "Terek-Say",
+      "slug": "terek-say-30847"
+    },
+    "code": {
+      "id": "KG03230847000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03230000000",
+      "level": 2,
+      "name": {
+        "local": "Чаткал",
+        "en": "Chatkal",
+        "slug": "chatkal-g0323"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03230000000",
+        "level": 2,
+        "name": {
+          "local": "Чаткал",
+          "en": "Chatkal",
+          "slug": "chatkal-g0323"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721700"
+    ],
+    "geo": {
+      "lat": "41.499",
+      "lon": "71.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

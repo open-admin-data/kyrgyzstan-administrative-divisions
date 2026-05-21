@@ -1,0 +1,49 @@
+{
+  "id": "KG05430000010",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Кызыл-Кыя ш.",
+    "en": "Kyzyl-Kia (city)",
+    "slug": "kyzyl-kia-city-00001"
+  },
+  "code": {
+    "id": "KG05430000010",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG05000000000",
+    "level": 1,
+    "name": {
+      "local": "Баткен",
+      "en": "Batken",
+      "slug": "batken-kg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG05000000000",
+      "level": 1,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 0
+  },
+  "zip_codes": [
+    "720300"
+  ],
+  "geo": {
+    "lat": "40.247",
+    "lon": "72.14"
+  },
+  "metadata": {},
+  "source": {}
+}

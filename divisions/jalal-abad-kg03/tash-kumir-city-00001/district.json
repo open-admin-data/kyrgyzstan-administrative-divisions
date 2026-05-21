@@ -1,0 +1,49 @@
+{
+  "id": "KG03420000010",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Таш-Көмүр ш.",
+    "en": "Tash-Kumir (city)",
+    "slug": "tash-kumir-city-00001"
+  },
+  "code": {
+    "id": "KG03420000010",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG03000000000",
+    "level": 1,
+    "name": {
+      "local": "Жалалабат",
+      "en": "Jalal-Abad",
+      "slug": "jalal-abad-kg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 2
+  },
+  "zip_codes": [
+    "721400"
+  ],
+  "geo": {
+    "lat": "41.373",
+    "lon": "72.196"
+  },
+  "metadata": {},
+  "source": {}
+}

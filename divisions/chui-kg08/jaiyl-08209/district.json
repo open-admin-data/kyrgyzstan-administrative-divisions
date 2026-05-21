@@ -1,0 +1,49 @@
+{
+  "id": "KG08209000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Жайыл",
+    "en": "Jaiyl",
+    "slug": "jaiyl-08209"
+  },
+  "code": {
+    "id": "KG08209000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG08000000000",
+    "level": 1,
+    "name": {
+      "local": "Чүй",
+      "en": "Chui",
+      "slug": "chui-kg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 13
+  },
+  "zip_codes": [
+    "724400"
+  ],
+  "geo": {
+    "lat": "42.074",
+    "lon": "74.097"
+  },
+  "metadata": {},
+  "source": {}
+}

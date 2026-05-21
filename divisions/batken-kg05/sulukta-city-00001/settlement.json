@@ -1,0 +1,58 @@
+[
+  {
+    "id": "KG05420510010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Восточный",
+      "en": "Vostochnyy",
+      "slug": "vostochnyy-51001"
+    },
+    "code": {
+      "id": "KG05420510010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05420000010",
+      "level": 2,
+      "name": {
+        "local": "Сүлүктү ш.",
+        "en": "Sulukta (city)",
+        "slug": "sulukta-city-00001"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05420000010",
+        "level": 2,
+        "name": {
+          "local": "Сүлүктү ш.",
+          "en": "Sulukta (city)",
+          "slug": "sulukta-city-00001"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720500"
+    ],
+    "geo": {
+      "lat": "39.926",
+      "lon": "69.65"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

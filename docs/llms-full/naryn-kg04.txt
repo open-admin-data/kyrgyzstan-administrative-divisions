@@ -1,0 +1,279 @@
+# Naryn — Kyrgyzstan Administrative Divisions
+
+> 6 districts, 60 settlements
+> Code: KG04000000000
+> Coordinates: 41.366, 75.993
+> Last updated: 2026-05-21. License: CC-BY-4.0.
+
+## Districts
+
+### Ат-Башы (Ak-Bashy)
+
+Code: KG04220000000, Coordinates: 40.856, 75.46
+Settlements: 12
+
+#### Ача-Кайыңды (Acha-Kaindy)
+
+Code: KG04220813000, Postal: 722600, Coordinates: 41.105, 75.83
+
+#### Ак-Жар (Ak-Djar)
+
+Code: KG04220803000, Postal: 723901, Coordinates: 41.248, 75.834
+
+#### Ак-Моюн (Ak-Moyun)
+
+Code: KG04220806000, Postal: 722600, Coordinates: 41.257, 76.027
+
+#### Ак-Муз (Ak-Muz)
+
+Code: KG04220807000, Postal: 722600, Coordinates: 41.288, 76.217
+
+#### Ак-Талаа (Ak-Tala)
+
+Code: KG04220808000, Postal: 723313, Coordinates: 41.089, 75.704
+
+#### Ат-Башы (At-Bashy)
+
+Code: KG04220812000, Postal: 722600, Coordinates: 41.176, 75.828
+
+#### Баш-Кайыңды (Bash-Kaindy)
+
+Code: KG04220817000, Postal: 722600, Coordinates: 41.147, 75.94
+
+#### Чатыр Көл (Chatyr Kul)
+
+Code: KG04220000903, Postal: 722600, Coordinates: 40.639, 75.309
+
+#### Кара-Коюн (Kara-Koyun)
+
+Code: KG04220832000, Postal: 722600, Coordinates: 41.113, 75.481
+
+#### Кара-Суу (Kara-Suu)
+
+Code: KG04220836000, Postal: 722600, Coordinates: 41.201, 75.441
+
+#### Казыбек (Kazybek)
+
+Code: KG04220830000, Postal: 722611, Coordinates: 40.938, 75.507
+
+#### Талды-Суу (Taldy-Suu)
+
+Code: KG04220845000, Postal: 722600, Coordinates: 41.192, 76.101
+
+### Ак-Талаа (Ak-Tala)
+
+Code: KG04210000000, Coordinates: 41.331, 74.8
+Settlements: 13
+
+#### Ак-Чий (Ak-Chiy)
+
+Code: KG04210808000, Postal: 722500, Coordinates: 41.257, 74.852
+
+#### Ак-Тал (Ak-Tal)
+
+Code: KG04210806000, Postal: 722500, Coordinates: 41.33, 75.075
+
+#### Баетов (Baetov)
+
+Code: KG04210809000, Postal: 722500, Coordinates: 41.251, 74.966
+
+#### Жаңы-Талап (Djany-Talap)
+
+Code: KG04210825000, Postal: 722500, Coordinates: 41.496, 75.043
+
+#### Жерге-Тал (Jerge-Tal)
+
+Code: KG04210819000, Postal: 722500, Coordinates: 41.197, 74.54
+
+#### Кара-Бүргөн (Kara-Byurgen)
+
+Code: KG04210816000, Postal: 722500, Coordinates: 41.279, 74.7
+
+#### Көк-Жар (Kek-Djar)
+
+Code: KG04210830000, Postal: 722500, Coordinates: 41.444, 74.817
+
+#### Коңорчок (Konorchok)
+
+Code: KG04210818000, Postal: 722500, Coordinates: 41.187, 74.599
+
+#### Кош-Дөбө (Kosh-Debe)
+
+Code: KG04210820000, Postal: 722500, Coordinates: 41.104, 74.211
+
+#### Кызыл-Белес (Kyzyl-Beles)
+
+Code: KG04210822000, Postal: 722500, Coordinates: 41.509, 75.247
+
+#### Терек (Terek)
+
+Code: KG04210811000, Postal: 722513, Coordinates: 41.106, 74.427
+
+#### Тоголок-Молдо (Togolok-Moldo)
+
+Code: KG04210828000, Postal: 722500, Coordinates: 41.487, 75.102
+
+#### Үгүт (Ugut)
+
+Code: KG04210840000, Postal: 722500, Coordinates: 41.343, 74.937
+
+### Жумгал (Jumgal)
+
+Code: KG04230000000, Coordinates: 41.893, 74.589
+Settlements: 10
+
+#### Баш-Кууганды (Bash-Kuugandy)
+
+Code: KG04230804000, Postal: 722700, Coordinates: 42.018, 74.652
+
+#### Байзак (Bayzakov)
+
+Code: KG04230817000, Postal: 722703, Coordinates: 41.985, 74.597
+
+#### Чаек (Chaek)
+
+Code: KG04230836000, Postal: 722700, Coordinates: 41.906, 74.504
+
+#### Жаңы-Арык (Djany-Aryk)
+
+Code: KG04230806000, Postal: 722700, Coordinates: 41.997, 75.047
+
+#### Жумгал (Djumgal)
+
+Code: KG04230809000, Postal: 722706, Coordinates: 42.049, 74.943
+
+#### Кабак (Kabak)
+
+Code: KG04230813000, Postal: 722012, Coordinates: 41.751, 74.314
+
+#### Көк-Ой (Kek-Oy)
+
+Code: KG04230815000, Postal: 722700, Coordinates: 41.895, 74.393
+
+#### Куйручук (Kuyruchuk)
+
+Code: KG04230825000, Postal: 722702, Coordinates: 42.022, 74.851
+
+#### Миң-Куш (Min-Kush)
+
+Code: KG04230840000, Postal: 722700, Coordinates: 41.697, 74.503
+
+#### Түгөл-Сай (Tugol-Say)
+
+Code: KG04230834000, Postal: 722700, Coordinates: 42.01, 74.729
+
+### Кочкор (Kochokor)
+
+Code: KG04235000000, Coordinates: 42.095, 75.614
+Settlements: 11
+
+#### Ак-Кыя (Ak-Kyya)
+
+Code: KG04235806000, Postal: 722800, Coordinates: 42.114, 75.883
+
+#### Чолпон (Cholpon)
+
+Code: KG04235842000, Postal: 722817, Coordinates: 42.208, 75.417
+
+#### Кара-Суу (Kara-Suu)
+
+Code: KG04235812000, Postal: 722800, Coordinates: 42.231, 75.234
+
+#### Кочкор (Kochkor)
+
+Code: KG04235816000, Postal: 722800, Coordinates: 42.212, 75.757
+
+#### Көк-Жар (Kok-Jar)
+
+Code: KG04235837000, Postal: 722800, Coordinates: 42.165, 75.596
+
+#### Кош-Дөбө (Kosh-Debe)
+
+Code: KG04235819000, Postal: 722800, Coordinates: 42.191, 75.921
+
+#### Кум-Дөбө (Kum-Debe)
+
+Code: KG04235825000, Postal: 722800, Coordinates: 42.293, 75.422
+
+#### Сары-Булак (Sary-Bulak)
+
+Code: KG04235830000, Postal: 723700, Coordinates: 41.887, 75.945
+
+#### Семиз-Бел (Semiz-Bel)
+
+Code: KG04235832000, Postal: 722800, Coordinates: 42.249, 75.747
+
+#### Соң-Көл (Son-Kul)
+
+Code: KG04235843000, Postal: 722800, Coordinates: 41.913, 75.665
+
+#### Талаа-Булак (Talaa-Bulak)
+
+Code: KG04235835000, Postal: 722800, Coordinates: 42.263, 75.228
+
+### Нарын (Naryn)
+
+Code: KG04245000000, Coordinates: 41.511, 75.906
+Settlements: 14
+
+#### Ак-Кудук (Ak-Kuduk)
+
+Code: KG04245806000, Postal: 722900, Coordinates: 41.458, 75.381
+
+#### Чет-Нура (Chet-Nura)
+
+Code: KG04245850000, Postal: 722900, Coordinates: 41.488, 76.142
+
+#### Дөбөлү (Debeli)
+
+Code: KG04245812000, Postal: 722900, Coordinates: 41.436, 76.159
+
+#### Жан-Булак (Djan-Bulak)
+
+Code: KG04245815000, Postal: 722900, Coordinates: 41.421, 75.731
+
+#### Жерге-Тал (Djergetal)
+
+Code: KG04245818000, Postal: 722900, Coordinates: 41.547, 75.775
+
+#### Достук (Dostuk)
+
+Code: KG04245863000, Postal: 720409, Coordinates: 41.368, 75.634
+
+#### Эмгек-Талаа (Emgek-Talaa)
+
+Code: KG04245855000, Postal: 722900, Coordinates: 41.516, 76.466
+
+#### Эмгекчил (Emgekchil)
+
+Code: KG04245832000, Postal: 722928, Coordinates: 41.505, 75.986
+
+#### Кара-Кужур (Kara-Kudjur)
+
+Code: KG04245829000, Postal: 722900, Coordinates: 41.934, 76.327
+
+#### Казан-Куйган (Kazan-Kuygan)
+
+Code: KG04245825000, Postal: 722900, Coordinates: 41.612, 75.832
+
+#### Миң-Булак (Min-Bulak)
+
+Code: KG04245835000, Postal: 722900, Coordinates: 41.497, 75.881
+
+#### Он-Арча (On-Archa)
+
+Code: KG04245840000, Postal: 722900, Coordinates: 41.606, 75.915
+
+#### Орток (Ortok)
+
+Code: KG04245844000, Postal: 722813, Coordinates: 41.475, 76.418
+
+#### Учкун (Uchkun)
+
+Code: KG04245845000, Postal: 720213, Coordinates: 41.378, 75.401
+
+### Нарын ш. (Naryn (city))
+
+Code: KG04400000010, Coordinates: 41.418, 76.001
+Settlements: 0
+

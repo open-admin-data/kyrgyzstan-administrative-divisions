@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "KG08222829000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Асылбаш",
+      "en": "Asylbash",
+      "slug": "asylbash-22829"
+    },
+    "code": {
+      "id": "KG08222829000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "42.728",
+      "lon": "74.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222805000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ат-Башы",
+      "en": "At-Bashy",
+      "slug": "at-bashy-22805"
+    },
+    "code": {
+      "id": "KG08222805000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "43.024",
+      "lon": "74.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222822000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаңы-Жер",
+      "en": "Djany-Djer",
+      "slug": "djany-djer-22822"
+    },
+    "code": {
+      "id": "KG08222822000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "43.124",
+      "lon": "74.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222826000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаңы-Пахта",
+      "en": "Djany-Pakhty",
+      "slug": "djany-pakhty-22826"
+    },
+    "code": {
+      "id": "KG08222826000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "43.117",
+      "lon": "74.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222869000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Фрунзе",
+      "en": "Frunze",
+      "slug": "frunze-22869"
+    },
+    "code": {
+      "id": "KG08222869000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720220"
+    ],
+    "geo": {
+      "lat": "42.963",
+      "lon": "74.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222817000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Гавриловка",
+      "en": "Gavrilovka",
+      "slug": "gavrilovka-22817"
+    },
+    "code": {
+      "id": "KG08222817000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724807"
+    ],
+    "geo": {
+      "lat": "42.798",
+      "lon": "74.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222828000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Камышановка",
+      "en": "Kamyshanovka",
+      "slug": "kamyshanovka-22828"
+    },
+    "code": {
+      "id": "KG08222828000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724811"
+    ],
+    "geo": {
+      "lat": "43.207",
+      "lon": "74.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222872000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кайназарова атындагы",
+      "en": "Kaynazarovoy",
+      "slug": "kaynazarovoy-22872"
+    },
+    "code": {
+      "id": "KG08222872000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "42.965",
+      "lon": "74.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222834000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Крупская",
+      "en": "Krupskaya",
+      "slug": "krupskaya-22834"
+    },
+    "code": {
+      "id": "KG08222834000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723004"
+    ],
+    "geo": {
+      "lat": "42.895",
+      "lon": "74.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Күн-Туу",
+      "en": "Kuntuu",
+      "slug": "kuntuu-22832"
+    },
+    "code": {
+      "id": "KG08222832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "42.778",
+      "lon": "74.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222838000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Туу",
+      "en": "Kyzyl-Tuu",
+      "slug": "kyzyl-tuu-22838"
+    },
+    "code": {
+      "id": "KG08222838000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "42.795",
+      "lon": "74.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222846000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Төмөнкү Чүй",
+      "en": "Nijnechuy",
+      "slug": "nijnechuy-22846"
+    },
+    "code": {
+      "id": "KG08222846000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "43.17",
+      "lon": "74.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222849000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Новопавловка",
+      "en": "Novopavlovka",
+      "slug": "novopavlovka-22849"
+    },
+    "code": {
+      "id": "KG08222849000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724817"
+    ],
+    "geo": {
+      "lat": "43.046",
+      "lon": "74.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222856000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Орок",
+      "en": "Orok",
+      "slug": "orok-22856"
+    },
+    "code": {
+      "id": "KG08222856000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "42.812",
+      "lon": "74.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222860000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Биринчи Май",
+      "en": "Pervomay",
+      "slug": "pervomay-22286"
+    },
+    "code": {
+      "id": "KG08222860000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722608"
+    ],
+    "geo": {
+      "lat": "42.907",
+      "lon": "74.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222852000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Саз",
+      "en": "Saz",
+      "slug": "saz-22852"
+    },
+    "code": {
+      "id": "KG08222852000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724818"
+    ],
+    "geo": {
+      "lat": "42.743",
+      "lon": "74.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222600010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Шопоков",
+      "en": "Shopokov (city)",
+      "slug": "shopokov-city-60001"
+    },
+    "code": {
+      "id": "KG08222600010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "42.86",
+      "lon": "74.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222865000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сокулук",
+      "en": "Sokuluk",
+      "slug": "sokuluk-22865"
+    },
+    "code": {
+      "id": "KG08222865000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "42.867",
+      "lon": "74.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222809000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Төш-Булак",
+      "en": "Tosh-Bulak",
+      "slug": "tosh-bulak-22809"
+    },
+    "code": {
+      "id": "KG08222809000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "42.674",
+      "lon": "74.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08222813000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Военна-Антоновка",
+      "en": "Voenno-Antonovka",
+      "slug": "voenno-antonovka-22813"
+    },
+    "code": {
+      "id": "KG08222813000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08222000000",
+      "level": 2,
+      "name": {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08222000000",
+        "level": 2,
+        "name": {
+          "local": "Сокулук",
+          "en": "Sokuluk",
+          "slug": "sokuluk-08222"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724800"
+    ],
+    "geo": {
+      "lat": "42.869",
+      "lon": "74.432"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

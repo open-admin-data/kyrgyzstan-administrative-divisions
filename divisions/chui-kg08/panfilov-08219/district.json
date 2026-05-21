@@ -1,0 +1,49 @@
+{
+  "id": "KG08219000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Панфилов",
+    "en": "Panfilov",
+    "slug": "panfilov-08219"
+  },
+  "code": {
+    "id": "KG08219000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG08000000000",
+    "level": 1,
+    "name": {
+      "local": "Чүй",
+      "en": "Chui",
+      "slug": "chui-kg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 8
+  },
+  "zip_codes": [
+    "724700"
+  ],
+  "geo": {
+    "lat": "42.205",
+    "lon": "73.375"
+  },
+  "metadata": {},
+  "source": {}
+}

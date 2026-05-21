@@ -1,0 +1,338 @@
+[
+  {
+    "id": "KG06211807000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Алля Анаров",
+      "en": "Allya Anarov",
+      "slug": "allya-anarov-11807"
+    },
+    "code": {
+      "id": "KG06211807000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06211000000",
+      "level": 2,
+      "name": {
+        "local": "Араван",
+        "en": "Aravan",
+        "slug": "aravan-06211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06211000000",
+        "level": 2,
+        "name": {
+          "local": "Араван",
+          "en": "Aravan",
+          "slug": "aravan-06211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723100"
+    ],
+    "geo": {
+      "lat": "40.505",
+      "lon": "72.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06211835000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чек-Абад",
+      "en": "Chek-Abad",
+      "slug": "chek-abad-11835"
+    },
+    "code": {
+      "id": "KG06211835000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06211000000",
+      "level": 2,
+      "name": {
+        "local": "Араван",
+        "en": "Aravan",
+        "slug": "aravan-06211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06211000000",
+        "level": 2,
+        "name": {
+          "local": "Араван",
+          "en": "Aravan",
+          "slug": "aravan-06211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723105"
+    ],
+    "geo": {
+      "lat": "40.499",
+      "lon": "72.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06211815000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Керме-Тоо",
+      "en": "Kerme-Too",
+      "slug": "kerme-too-11815"
+    },
+    "code": {
+      "id": "KG06211815000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06211000000",
+      "level": 2,
+      "name": {
+        "local": "Араван",
+        "en": "Aravan",
+        "slug": "aravan-06211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06211000000",
+        "level": 2,
+        "name": {
+          "local": "Араван",
+          "en": "Aravan",
+          "slug": "aravan-06211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723100"
+    ],
+    "geo": {
+      "lat": "40.48",
+      "lon": "72.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06211812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Мангыт",
+      "en": "Mangyt",
+      "slug": "mangyt-11812"
+    },
+    "code": {
+      "id": "KG06211812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06211000000",
+      "level": 2,
+      "name": {
+        "local": "Араван",
+        "en": "Aravan",
+        "slug": "aravan-06211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06211000000",
+        "level": 2,
+        "name": {
+          "local": "Араван",
+          "en": "Aravan",
+          "slug": "aravan-06211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723106"
+    ],
+    "geo": {
+      "lat": "40.434",
+      "lon": "72.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06211829000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Төө-Моюн",
+      "en": "Teo-Moyun",
+      "slug": "teo-moyun-11829"
+    },
+    "code": {
+      "id": "KG06211829000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06211000000",
+      "level": 2,
+      "name": {
+        "local": "Араван",
+        "en": "Aravan",
+        "slug": "aravan-06211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06211000000",
+        "level": 2,
+        "name": {
+          "local": "Араван",
+          "en": "Aravan",
+          "slug": "aravan-06211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723100"
+    ],
+    "geo": {
+      "lat": "40.424",
+      "lon": "72.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06211823000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Тепе-Коргон",
+      "en": "Tepe-Korgon",
+      "slug": "tepe-korgon-11823"
+    },
+    "code": {
+      "id": "KG06211823000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06211000000",
+      "level": 2,
+      "name": {
+        "local": "Араван",
+        "en": "Aravan",
+        "slug": "aravan-06211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06211000000",
+        "level": 2,
+        "name": {
+          "local": "Араван",
+          "en": "Aravan",
+          "slug": "aravan-06211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723100"
+    ],
+    "geo": {
+      "lat": "40.579",
+      "lon": "72.414"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

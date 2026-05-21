@@ -1,0 +1,49 @@
+{
+  "id": "KG04230000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Жумгал",
+    "en": "Jumgal",
+    "slug": "jumgal-g0423"
+  },
+  "code": {
+    "id": "KG04230000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG04000000000",
+    "level": 1,
+    "name": {
+      "local": "Нарын",
+      "en": "Naryn",
+      "slug": "naryn-kg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 10
+  },
+  "zip_codes": [
+    "722700"
+  ],
+  "geo": {
+    "lat": "41.893",
+    "lon": "74.589"
+  },
+  "metadata": {},
+  "source": {}
+}

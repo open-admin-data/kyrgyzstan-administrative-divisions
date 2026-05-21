@@ -1,0 +1,674 @@
+[
+  {
+    "id": "KG02210805000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Дөбө",
+      "en": "Ak-Debe",
+      "slug": "ak-debe-10805"
+    },
+    "code": {
+      "id": "KG02210805000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722300"
+    ],
+    "geo": {
+      "lat": "42.429",
+      "lon": "78.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210855000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Алдашев",
+      "en": "Aldashev",
+      "slug": "aldashev-10855"
+    },
+    "code": {
+      "id": "KG02210855000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722300"
+    ],
+    "geo": {
+      "lat": "42.285",
+      "lon": "77.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210815000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Барскоон",
+      "en": "Barskoon",
+      "slug": "barskoon-10815"
+    },
+    "code": {
+      "id": "KG02210815000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722005"
+    ],
+    "geo": {
+      "lat": "42.129",
+      "lon": "77.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Даркан",
+      "en": "Darkan",
+      "slug": "darkan-21082"
+    },
+    "code": {
+      "id": "KG02210820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722008"
+    ],
+    "geo": {
+      "lat": "42.282",
+      "lon": "77.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаргылчак",
+      "en": "Djargylchak",
+      "slug": "djargylchak-10825"
+    },
+    "code": {
+      "id": "KG02210825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722300"
+    ],
+    "geo": {
+      "lat": "42.231",
+      "lon": "77.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жети-Өгүз",
+      "en": "Djeti-Oguz",
+      "slug": "djeti-oguz-21083"
+    },
+    "code": {
+      "id": "KG02210830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722300"
+    ],
+    "geo": {
+      "lat": "42.46",
+      "lon": "78.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210850000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Суу",
+      "en": "Kyzyl-Suu",
+      "slug": "kyzyl-suu-21085"
+    },
+    "code": {
+      "id": "KG02210850000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722300"
+    ],
+    "geo": {
+      "lat": "42.336",
+      "lon": "78.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Липенка",
+      "en": "Lipenka",
+      "slug": "lipenka-21084"
+    },
+    "code": {
+      "id": "KG02210840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722015"
+    ],
+    "geo": {
+      "lat": "42.523",
+      "lon": "78.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210845000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Оргочор",
+      "en": "Orgochor",
+      "slug": "orgochor-10845"
+    },
+    "code": {
+      "id": "KG02210845000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722016"
+    ],
+    "geo": {
+      "lat": "42.412",
+      "lon": "77.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210860000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Светлая Поляна",
+      "en": "Svetloya Polyana",
+      "slug": "svetloya-polyana-21086"
+    },
+    "code": {
+      "id": "KG02210860000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722019"
+    ],
+    "geo": {
+      "lat": "42.347",
+      "lon": "78.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210862000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Тамга",
+      "en": "Tamga",
+      "slug": "tamga-10862"
+    },
+    "code": {
+      "id": "KG02210862000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722021"
+    ],
+    "geo": {
+      "lat": "42.136",
+      "lon": "77.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02210835000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ырдык",
+      "en": "Yrdyk",
+      "slug": "yrdyk-10835"
+    },
+    "code": {
+      "id": "KG02210835000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG02210000000",
+      "level": 2,
+      "name": {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG02000000000",
+        "level": 1,
+        "name": {
+          "local": "Ысык-Көл",
+          "en": "Issyk-Kul",
+          "slug": "issyk-kul-kg02"
+        }
+      },
+      {
+        "id": "KG02210000000",
+        "level": 2,
+        "name": {
+          "local": "Жети-Өгүз",
+          "en": "Jeti-Oguz",
+          "slug": "jeti-oguz-g0221"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722026"
+    ],
+    "geo": {
+      "lat": "42.458",
+      "lon": "78.273"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

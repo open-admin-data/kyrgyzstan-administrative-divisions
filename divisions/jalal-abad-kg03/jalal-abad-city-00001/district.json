@@ -1,0 +1,49 @@
+{
+  "id": "KG03410000010",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Жалал-Абад ш.",
+    "en": "Jalal-Abad (city)",
+    "slug": "jalal-abad-city-00001"
+  },
+  "code": {
+    "id": "KG03410000010",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG03000000000",
+    "level": 1,
+    "name": {
+      "local": "Жалалабат",
+      "en": "Jalal-Abad",
+      "slug": "jalal-abad-kg03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG03000000000",
+      "level": 1,
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 0
+  },
+  "zip_codes": [
+    "720900"
+  ],
+  "geo": {
+    "lat": "40.933",
+    "lon": "72.997"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,674 @@
+[
+  {
+    "id": "KG08217804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Суу",
+      "en": "Ak-Suu",
+      "slug": "ak-suu-17804"
+    },
+    "code": {
+      "id": "KG08217804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723016"
+    ],
+    "geo": {
+      "lat": "42.695",
+      "lon": "74.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217809000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Александровка",
+      "en": "Aleksandrovka",
+      "slug": "aleksandrovka-17809"
+    },
+    "code": {
+      "id": "KG08217809000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724604"
+    ],
+    "geo": {
+      "lat": "42.893",
+      "lon": "74.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217813000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Беловодское",
+      "en": "Belovodskoe",
+      "slug": "belovodskoe-17813"
+    },
+    "code": {
+      "id": "KG08217813000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724600"
+    ],
+    "geo": {
+      "lat": "42.826",
+      "lon": "74.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217811000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Беш-Терек",
+      "en": "Besh-Terek",
+      "slug": "besh-terek-17811"
+    },
+    "code": {
+      "id": "KG08217811000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722709"
+    ],
+    "geo": {
+      "lat": "43.042",
+      "lon": "73.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217849000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чапаев",
+      "en": "Chapaev",
+      "slug": "chapaev-17849"
+    },
+    "code": {
+      "id": "KG08217849000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "43.04",
+      "lon": "74.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217828000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Биринчи Май",
+      "en": "Pervomay",
+      "slug": "pervomay-17828"
+    },
+    "code": {
+      "id": "KG08217828000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722608"
+    ],
+    "geo": {
+      "lat": "42.801",
+      "lon": "74.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217824000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Петровка",
+      "en": "Petrovka",
+      "slug": "petrovka-17824"
+    },
+    "code": {
+      "id": "KG08217824000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724616"
+    ],
+    "geo": {
+      "lat": "42.866",
+      "lon": "74.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Предтеченка",
+      "en": "Predtechenka",
+      "slug": "predtechenka-17832"
+    },
+    "code": {
+      "id": "KG08217832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724618"
+    ],
+    "geo": {
+      "lat": "42.963",
+      "lon": "74.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217837000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Садовый",
+      "en": "Sadovyy",
+      "slug": "sadovyy-17837"
+    },
+    "code": {
+      "id": "KG08217837000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "42.87",
+      "lon": "74.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сретенка",
+      "en": "Sretenka",
+      "slug": "sretenka-21784"
+    },
+    "code": {
+      "id": "KG08217840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724621"
+    ],
+    "geo": {
+      "lat": "42.948",
+      "lon": "74.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217842000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Төлөк",
+      "en": "Telek",
+      "slug": "telek-17842"
+    },
+    "code": {
+      "id": "KG08217842000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "43.144",
+      "lon": "74.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08217845000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Целинный",
+      "en": "Tselinnyy",
+      "slug": "tselinnyy-17845"
+    },
+    "code": {
+      "id": "KG08217845000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08217000000",
+      "level": 2,
+      "name": {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08217000000",
+        "level": 2,
+        "name": {
+          "local": "Москва",
+          "en": "Moscow",
+          "slug": "moscow-08217"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725300"
+    ],
+    "geo": {
+      "lat": "43.074",
+      "lon": "74.057"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

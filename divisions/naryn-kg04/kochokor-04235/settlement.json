@@ -1,0 +1,618 @@
+[
+  {
+    "id": "KG04235806000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Кыя",
+      "en": "Ak-Kyya",
+      "slug": "ak-kyya-35806"
+    },
+    "code": {
+      "id": "KG04235806000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "42.114",
+      "lon": "75.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235842000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чолпон",
+      "en": "Cholpon",
+      "slug": "cholpon-35842"
+    },
+    "code": {
+      "id": "KG04235842000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722817"
+    ],
+    "geo": {
+      "lat": "42.208",
+      "lon": "75.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Суу",
+      "en": "Kara-Suu",
+      "slug": "kara-suu-35812"
+    },
+    "code": {
+      "id": "KG04235812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "42.231",
+      "lon": "75.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235816000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кочкор",
+      "en": "Kochkor",
+      "slug": "kochkor-35816"
+    },
+    "code": {
+      "id": "KG04235816000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "42.212",
+      "lon": "75.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235837000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көк-Жар",
+      "en": "Kok-Jar",
+      "slug": "kok-jar-35837"
+    },
+    "code": {
+      "id": "KG04235837000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "42.165",
+      "lon": "75.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235819000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кош-Дөбө",
+      "en": "Kosh-Debe",
+      "slug": "kosh-debe-35819"
+    },
+    "code": {
+      "id": "KG04235819000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "42.191",
+      "lon": "75.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кум-Дөбө",
+      "en": "Kum-Debe",
+      "slug": "kum-debe-35825"
+    },
+    "code": {
+      "id": "KG04235825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "42.293",
+      "lon": "75.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сары-Булак",
+      "en": "Sary-Bulak",
+      "slug": "sary-bulak-23583"
+    },
+    "code": {
+      "id": "KG04235830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723700"
+    ],
+    "geo": {
+      "lat": "41.887",
+      "lon": "75.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Семиз-Бел",
+      "en": "Semiz-Bel",
+      "slug": "semiz-bel-35832"
+    },
+    "code": {
+      "id": "KG04235832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "42.249",
+      "lon": "75.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235843000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Соң-Көл",
+      "en": "Son-Kul",
+      "slug": "son-kul-35843"
+    },
+    "code": {
+      "id": "KG04235843000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "41.913",
+      "lon": "75.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235835000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Талаа-Булак",
+      "en": "Talaa-Bulak",
+      "slug": "talaa-bulak-35835"
+    },
+    "code": {
+      "id": "KG04235835000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04235000000",
+      "level": 2,
+      "name": {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04235000000",
+        "level": 2,
+        "name": {
+          "local": "Кочкор",
+          "en": "Kochokor",
+          "slug": "kochokor-04235"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "42.263",
+      "lon": "75.228"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

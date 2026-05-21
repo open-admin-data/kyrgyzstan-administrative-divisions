@@ -1,0 +1,786 @@
+[
+  {
+    "id": "KG08213826000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Дүйшеев",
+      "en": "A. Duysheev",
+      "slug": "a-duysheev-13826"
+    },
+    "code": {
+      "id": "KG08213826000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.842",
+      "lon": "75.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213845000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Түз",
+      "en": "Ak-Tyuz",
+      "slug": "ak-tyuz-13845"
+    },
+    "code": {
+      "id": "KG08213845000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.878",
+      "lon": "76.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Алмалуу",
+      "en": "Almaly",
+      "slug": "almaly-13804"
+    },
+    "code": {
+      "id": "KG08213804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "725004"
+    ],
+    "geo": {
+      "lat": "42.707",
+      "lon": "75.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213530020",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бордун",
+      "en": "Bordun",
+      "slug": "bordun-53002"
+    },
+    "code": {
+      "id": "KG08213530020",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.654",
+      "lon": "75.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Боролдой",
+      "en": "Boroldoy",
+      "slug": "boroldoy-13808"
+    },
+    "code": {
+      "id": "KG08213808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724505"
+    ],
+    "geo": {
+      "lat": "42.832",
+      "lon": "75.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213842000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чоң-Кемин",
+      "en": "Chon-Kemin",
+      "slug": "chon-kemin-13842"
+    },
+    "code": {
+      "id": "KG08213842000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.728",
+      "lon": "76.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213839000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чым-Коргон",
+      "en": "Chym-Korgon",
+      "slug": "chym-korgon-13839"
+    },
+    "code": {
+      "id": "KG08213839000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.799",
+      "lon": "75.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213813000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаңы-Алыш",
+      "en": "Djany-Alysh",
+      "slug": "djany-alysh-13813"
+    },
+    "code": {
+      "id": "KG08213813000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.798",
+      "lon": "75.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213817000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ильич",
+      "en": "Il'ich",
+      "slug": "ilich-13817"
+    },
+    "code": {
+      "id": "KG08213817000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.814",
+      "lon": "76.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Булак",
+      "en": "Kara-Bulak",
+      "slug": "kara-bulak-21382"
+    },
+    "code": {
+      "id": "KG08213820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720107"
+    ],
+    "geo": {
+      "lat": "42.811",
+      "lon": "75.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213823000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көк-Ойрок",
+      "en": "Kek-Oyrok",
+      "slug": "kek-oyrok-13823"
+    },
+    "code": {
+      "id": "KG08213823000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.815",
+      "lon": "76.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213600020",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кемин",
+      "en": "Kemin (city)",
+      "slug": "kemin-city-60002"
+    },
+    "code": {
+      "id": "KG08213600020",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.783",
+      "lon": "75.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Октябрь",
+      "en": "Kyzyl-Oktyabr",
+      "slug": "kyzyl-oktyabr-21383"
+    },
+    "code": {
+      "id": "KG08213830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "724500"
+    ],
+    "geo": {
+      "lat": "42.76",
+      "lon": "75.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08213600010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Орловка",
+      "en": "Orlovka (city)",
+      "slug": "orlovka-city-60001"
+    },
+    "code": {
+      "id": "KG08213600010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG08213000000",
+      "level": 2,
+      "name": {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG08000000000",
+        "level": 1,
+        "name": {
+          "local": "Чүй",
+          "en": "Chui",
+          "slug": "chui-kg08"
+        }
+      },
+      {
+        "id": "KG08213000000",
+        "level": 2,
+        "name": {
+          "local": "Кемин",
+          "en": "Kemin",
+          "slug": "kemin-08213"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723808"
+    ],
+    "geo": {
+      "lat": "42.724",
+      "lon": "75.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

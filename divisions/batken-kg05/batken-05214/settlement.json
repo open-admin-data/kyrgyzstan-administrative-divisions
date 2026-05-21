@@ -1,0 +1,506 @@
+[
+  {
+    "id": "KG05214848000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Сай",
+      "en": "Ak-Say",
+      "slug": "ak-say-14848"
+    },
+    "code": {
+      "id": "KG05214848000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05214000000",
+      "level": 2,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-05214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05214000000",
+        "level": 2,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-05214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720100"
+    ],
+    "geo": {
+      "lat": "39.884",
+      "lon": "70.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05214849000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Татыр",
+      "en": "Ak-Tatyr",
+      "slug": "ak-tatyr-14849"
+    },
+    "code": {
+      "id": "KG05214849000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05214000000",
+      "level": 2,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-05214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05214000000",
+        "level": 2,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-05214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720102"
+    ],
+    "geo": {
+      "lat": "39.976",
+      "lon": "70.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05214812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Дарыя",
+      "en": "Daryin",
+      "slug": "daryin-14812"
+    },
+    "code": {
+      "id": "KG05214812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05214000000",
+      "level": 2,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-05214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05214000000",
+        "level": 2,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-05214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720100"
+    ],
+    "geo": {
+      "lat": "39.768",
+      "lon": "70.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05214823000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Бак",
+      "en": "Kara-Bak",
+      "slug": "kara-bak-14823"
+    },
+    "code": {
+      "id": "KG05214823000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05214000000",
+      "level": 2,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-05214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05214000000",
+        "level": 2,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-05214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720106"
+    ],
+    "geo": {
+      "lat": "40.159",
+      "lon": "70.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05214824000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Булак",
+      "en": "Kara-Bulak",
+      "slug": "kara-bulak-14824"
+    },
+    "code": {
+      "id": "KG05214824000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05214000000",
+      "level": 2,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-05214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05214000000",
+        "level": 2,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-05214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720107"
+    ],
+    "geo": {
+      "lat": "39.971",
+      "lon": "70.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05214835000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кыштут",
+      "en": "Kyshtut",
+      "slug": "kyshtut-14835"
+    },
+    "code": {
+      "id": "KG05214835000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05214000000",
+      "level": 2,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-05214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05214000000",
+        "level": 2,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-05214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720117"
+    ],
+    "geo": {
+      "lat": "39.889",
+      "lon": "71.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05214846000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Самаркандек",
+      "en": "Samarkandek",
+      "slug": "samarkandek-14846"
+    },
+    "code": {
+      "id": "KG05214846000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05214000000",
+      "level": 2,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-05214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05214000000",
+        "level": 2,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-05214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720100"
+    ],
+    "geo": {
+      "lat": "39.944",
+      "lon": "70.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05214852000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Суу-Башы",
+      "en": "Suu-Bashyn",
+      "slug": "suu-bashyn-14852"
+    },
+    "code": {
+      "id": "KG05214852000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05214000000",
+      "level": 2,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-05214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05214000000",
+        "level": 2,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-05214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720100"
+    ],
+    "geo": {
+      "lat": "40.018",
+      "lon": "71.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05214814000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Төрт-Кул",
+      "en": "Tert-Gyul",
+      "slug": "tert-gyul-14814"
+    },
+    "code": {
+      "id": "KG05214814000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05214000000",
+      "level": 2,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-05214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05214000000",
+        "level": 2,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-05214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720100"
+    ],
+    "geo": {
+      "lat": "40.225",
+      "lon": "71.009"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

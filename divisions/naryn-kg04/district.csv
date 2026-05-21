@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.settlement,zip_codes,geo.lat,geo.lon
+KG04220000000,Ат-Башы,Ak-Bashy,ak-bashy-g0422,KG04220000000,12,722600,40.856,75.46
+KG04210000000,Ак-Талаа,Ak-Tala,ak-tala-g0421,KG04210000000,13,722500,41.331,74.8
+KG04230000000,Жумгал,Jumgal,jumgal-g0423,KG04230000000,10,722700,41.893,74.589
+KG04235000000,Кочкор,Kochokor,kochokor-04235,KG04235000000,11,722800,42.095,75.614
+KG04245000000,Нарын,Naryn,naryn-04245,KG04245000000,14,722900,41.511,75.906
+KG04400000010,Нарын ш.,Naryn (city),naryn-city-00001,KG04400000010,0,722900,41.418,76.001

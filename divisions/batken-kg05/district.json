@@ -1,0 +1,296 @@
+[
+  {
+    "id": "KG05214000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Баткен",
+      "en": "Batken",
+      "slug": "batken-05214"
+    },
+    "code": {
+      "id": "KG05214000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05000000000",
+      "level": 1,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 9
+    },
+    "zip_codes": [
+      "720100"
+    ],
+    "geo": {
+      "lat": "39.841",
+      "lon": "70.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05410000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Баткен ш.",
+      "en": "Batken (city)",
+      "slug": "batken-city-00001"
+    },
+    "code": {
+      "id": "KG05410000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05000000000",
+      "level": 1,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 0
+    },
+    "zip_codes": [
+      "720100"
+    ],
+    "geo": {
+      "lat": "40.089",
+      "lon": "70.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Кадамжай",
+      "en": "Kadamjai",
+      "slug": "kadamjai-05258"
+    },
+    "code": {
+      "id": "KG05258000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05000000000",
+      "level": 1,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 14
+    },
+    "zip_codes": [
+      "720200"
+    ],
+    "geo": {
+      "lat": "39.998",
+      "lon": "71.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05430000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Кызыл-Кыя ш.",
+      "en": "Kyzyl-Kia (city)",
+      "slug": "kyzyl-kia-city-00001"
+    },
+    "code": {
+      "id": "KG05430000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05000000000",
+      "level": 1,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 0
+    },
+    "zip_codes": [
+      "720300"
+    ],
+    "geo": {
+      "lat": "40.247",
+      "lon": "72.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05236000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Лейлек",
+      "en": "Leilek",
+      "slug": "leilek-05236"
+    },
+    "code": {
+      "id": "KG05236000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05000000000",
+      "level": 1,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 10
+    },
+    "zip_codes": [
+      "720400"
+    ],
+    "geo": {
+      "lat": "39.877",
+      "lon": "69.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05420000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Сүлүктү ш.",
+      "en": "Sulukta (city)",
+      "slug": "sulukta-city-00001"
+    },
+    "code": {
+      "id": "KG05420000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05000000000",
+      "level": 1,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 1
+    },
+    "zip_codes": [
+      "720500"
+    ],
+    "geo": {
+      "lat": "39.936",
+      "lon": "69.578"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

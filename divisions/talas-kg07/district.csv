@@ -1,0 +1,6 @@
+id,name.local,name.en,name.slug,code.id,children_count.settlement,zip_codes,geo.lat,geo.lon
+KG07220000000,Бакай-Ата,Bakai-Ata,bakai-ata-g0722,KG07220000000,9,724900,42.361,71.925
+KG07215000000,Кара-Буура,Kara-Buura,kara-buura-07215,KG07215000000,9,724900,42.479,71.409
+KG07225000000,Манас,Manas,manas-07225,KG07225000000,5,720900,42.694,71.807
+KG07232000000,Талас,Talas,talas-07232,KG07232000000,13,724200,42.409,72.912
+KG07400000010,Талас ш.,Talas (city),talas-city-00001,KG07400000010,0,724200,42.524,72.243

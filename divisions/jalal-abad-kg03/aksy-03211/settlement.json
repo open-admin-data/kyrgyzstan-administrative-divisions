@@ -1,0 +1,674 @@
+[
+  {
+    "id": "KG03211804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Жол",
+      "en": "Ak-Jol",
+      "slug": "ak-jol-11804"
+    },
+    "code": {
+      "id": "KG03211804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.549",
+      "lon": "72.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211824000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Суу",
+      "en": "Ak-Suu",
+      "slug": "ak-suu-11824"
+    },
+    "code": {
+      "id": "KG03211824000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723016"
+    ],
+    "geo": {
+      "lat": "41.361",
+      "lon": "72.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Авлетим",
+      "en": "Avletim",
+      "slug": "avletim-11808"
+    },
+    "code": {
+      "id": "KG03211808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720601"
+    ],
+    "geo": {
+      "lat": "41.654",
+      "lon": "71.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211813000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаңы-Жол",
+      "en": "Djany-Djol",
+      "slug": "djany-djol-11813"
+    },
+    "code": {
+      "id": "KG03211813000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.607",
+      "lon": "72.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211860000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жерге-Тал",
+      "en": "Djerge-Tal",
+      "slug": "djerge-tal-21186"
+    },
+    "code": {
+      "id": "KG03211860000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.575",
+      "lon": "71.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Жыгач",
+      "en": "Kara-Jygach",
+      "slug": "kara-jygach-11832"
+    },
+    "code": {
+      "id": "KG03211832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.652",
+      "lon": "72.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211857000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Суу",
+      "en": "Kara-Suu",
+      "slug": "kara-suu-11857"
+    },
+    "code": {
+      "id": "KG03211857000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.71",
+      "lon": "72.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211836000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кашка-Суу",
+      "en": "Kashka-Suu",
+      "slug": "kashka-suu-11836"
+    },
+    "code": {
+      "id": "KG03211836000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.586",
+      "lon": "71.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211610010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кербен",
+      "en": "Kerben (city)",
+      "slug": "kerben-city-61001"
+    },
+    "code": {
+      "id": "KG03211610010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.507",
+      "lon": "71.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211849000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Туу",
+      "en": "Kyzyl-Tuu",
+      "slug": "kyzyl-tuu-11849"
+    },
+    "code": {
+      "id": "KG03211849000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.702",
+      "lon": "72.005"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211842000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Мавлянов",
+      "en": "Mavlyanov",
+      "slug": "mavlyanov-11842"
+    },
+    "code": {
+      "id": "KG03211842000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.398",
+      "lon": "71.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03211863000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Назаралиев",
+      "en": "Nazaraliev",
+      "slug": "nazaraliev-11863"
+    },
+    "code": {
+      "id": "KG03211863000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03211000000",
+      "level": 2,
+      "name": {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03211000000",
+        "level": 2,
+        "name": {
+          "local": "Аксы",
+          "en": "Aksy",
+          "slug": "aksy-03211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720600"
+    ],
+    "geo": {
+      "lat": "41.184",
+      "lon": "72.124"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

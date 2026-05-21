@@ -1,0 +1,296 @@
+[
+  {
+    "id": "KG04220000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ат-Башы",
+      "en": "Ak-Bashy",
+      "slug": "ak-bashy-g0422"
+    },
+    "code": {
+      "id": "KG04220000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 12
+    },
+    "zip_codes": [
+      "722600"
+    ],
+    "geo": {
+      "lat": "40.856",
+      "lon": "75.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04210000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ак-Талаа",
+      "en": "Ak-Tala",
+      "slug": "ak-tala-g0421"
+    },
+    "code": {
+      "id": "KG04210000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 13
+    },
+    "zip_codes": [
+      "722500"
+    ],
+    "geo": {
+      "lat": "41.331",
+      "lon": "74.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04230000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Жумгал",
+      "en": "Jumgal",
+      "slug": "jumgal-g0423"
+    },
+    "code": {
+      "id": "KG04230000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 10
+    },
+    "zip_codes": [
+      "722700"
+    ],
+    "geo": {
+      "lat": "41.893",
+      "lon": "74.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04235000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Кочкор",
+      "en": "Kochokor",
+      "slug": "kochokor-04235"
+    },
+    "code": {
+      "id": "KG04235000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 11
+    },
+    "zip_codes": [
+      "722800"
+    ],
+    "geo": {
+      "lat": "42.095",
+      "lon": "75.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245000000",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Нарын",
+      "en": "Naryn",
+      "slug": "naryn-04245"
+    },
+    "code": {
+      "id": "KG04245000000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 14
+    },
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.511",
+      "lon": "75.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04400000010",
+    "level": 2,
+    "level_name": {
+      "local": "Район",
+      "en": "District"
+    },
+    "name": {
+      "local": "Нарын ш.",
+      "en": "Naryn (city)",
+      "slug": "naryn-city-00001"
+    },
+    "code": {
+      "id": "KG04400000010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      }
+    ],
+    "children_count": {
+      "settlement": 0
+    },
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.418",
+      "lon": "76.001"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

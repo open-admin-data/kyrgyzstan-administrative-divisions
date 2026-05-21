@@ -1,0 +1,786 @@
+[
+  {
+    "id": "KG06242808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бел",
+      "en": "Bel",
+      "slug": "bel-42808"
+    },
+    "code": {
+      "id": "KG06242808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723403"
+    ],
+    "geo": {
+      "lat": "40.201",
+      "lon": "72.493"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242814000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаңы-Ноокат",
+      "en": "Djany-Nookat",
+      "slug": "djany-nookat-42814"
+    },
+    "code": {
+      "id": "KG06242814000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.25",
+      "lon": "72.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242811000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Гүлстан",
+      "en": "Gyulstan",
+      "slug": "gyulstan-42811"
+    },
+    "code": {
+      "id": "KG06242811000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.273",
+      "lon": "72.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242836000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Исанов",
+      "en": "Isanov",
+      "slug": "isanov-42836"
+    },
+    "code": {
+      "id": "KG06242836000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.25",
+      "lon": "72.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Таш",
+      "en": "Kara-Tash",
+      "slug": "kara-tash-42812"
+    },
+    "code": {
+      "id": "KG06242812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723418"
+    ],
+    "geo": {
+      "lat": "40.209",
+      "lon": "72.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кеңеш",
+      "en": "Kenesh",
+      "slug": "kenesh-42825"
+    },
+    "code": {
+      "id": "KG06242825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.386",
+      "lon": "72.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242813000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кулатов",
+      "en": "Kulatov",
+      "slug": "kulatov-42813"
+    },
+    "code": {
+      "id": "KG06242813000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.214",
+      "lon": "72.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242829000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кыргыз-Ата",
+      "en": "Kyrgyz-Ata",
+      "slug": "kyrgyz-ata-42829"
+    },
+    "code": {
+      "id": "KG06242829000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.198",
+      "lon": "72.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242839000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Октябрь",
+      "en": "Kyzyl-Oktyabr'",
+      "slug": "kyzyl-oktyabr-42839"
+    },
+    "code": {
+      "id": "KG06242839000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.314",
+      "lon": "72.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242865000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Найман",
+      "en": "Nayman",
+      "slug": "nayman-42865"
+    },
+    "code": {
+      "id": "KG06242865000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723101"
+    ],
+    "geo": {
+      "lat": "40.328",
+      "lon": "72.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242845000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Он-Эки-Бел",
+      "en": "On-Eki-Bel",
+      "slug": "on-eki-bel-42845"
+    },
+    "code": {
+      "id": "KG06242845000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.298",
+      "lon": "72.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242850000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Төөлөс",
+      "en": "Teeles",
+      "slug": "teeles-24285"
+    },
+    "code": {
+      "id": "KG06242850000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.331",
+      "lon": "72.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Токтомат Зулпуев атындагы",
+      "en": "Toktomata Zulpueva",
+      "slug": "toktomata-zulpueva-42832"
+    },
+    "code": {
+      "id": "KG06242832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "723400"
+    ],
+    "geo": {
+      "lat": "40.321",
+      "lon": "72.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06242862000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ынтымак",
+      "en": "Yntymak",
+      "slug": "yntymak-42862"
+    },
+    "code": {
+      "id": "KG06242862000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG06242000000",
+      "level": 2,
+      "name": {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG06000000000",
+        "level": 1,
+        "name": {
+          "local": "Ош",
+          "en": "Osh",
+          "slug": "osh-kg06"
+        }
+      },
+      {
+        "id": "KG06242000000",
+        "level": 2,
+        "name": {
+          "local": "Ноокат",
+          "en": "Nookat",
+          "slug": "nookat-06242"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720111"
+    ],
+    "geo": {
+      "lat": "40.198",
+      "lon": "72.229"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

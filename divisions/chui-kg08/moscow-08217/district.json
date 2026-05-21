@@ -1,0 +1,49 @@
+{
+  "id": "KG08217000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Москва",
+    "en": "Moscow",
+    "slug": "moscow-08217"
+  },
+  "code": {
+    "id": "KG08217000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG08000000000",
+    "level": 1,
+    "name": {
+      "local": "Чүй",
+      "en": "Chui",
+      "slug": "chui-kg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 12
+  },
+  "zip_codes": [
+    "725300"
+  ],
+  "geo": {
+    "lat": "42.777",
+    "lon": "74.041"
+  },
+  "metadata": {},
+  "source": {}
+}

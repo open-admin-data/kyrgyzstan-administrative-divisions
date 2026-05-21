@@ -1,0 +1,49 @@
+{
+  "id": "KG04220000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ат-Башы",
+    "en": "Ak-Bashy",
+    "slug": "ak-bashy-g0422"
+  },
+  "code": {
+    "id": "KG04220000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG04000000000",
+    "level": 1,
+    "name": {
+      "local": "Нарын",
+      "en": "Naryn",
+      "slug": "naryn-kg04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG04000000000",
+      "level": 1,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 12
+  },
+  "zip_codes": [
+    "722600"
+  ],
+  "geo": {
+    "lat": "40.856",
+    "lon": "75.46"
+  },
+  "metadata": {},
+  "source": {}
+}

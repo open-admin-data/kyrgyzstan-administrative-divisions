@@ -1,0 +1,618 @@
+[
+  {
+    "id": "KG03225843000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Абды Сүйөркулов",
+      "en": "Abdy Suerkulov",
+      "slug": "abdy-suerkulov-25843"
+    },
+    "code": {
+      "id": "KG03225843000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.897",
+      "lon": "73.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Аралбаев",
+      "en": "Aralbaev",
+      "slug": "aralbaev-22584"
+    },
+    "code": {
+      "id": "KG03225840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.882",
+      "lon": "73.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225807000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бел-Алды",
+      "en": "Bel'-Aldyn",
+      "slug": "bel-aldyn-25807"
+    },
+    "code": {
+      "id": "KG03225807000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.985",
+      "lon": "73.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225853000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чолпон-Ата",
+      "en": "Cholpon-Ata",
+      "slug": "cholpon-ata-25853"
+    },
+    "code": {
+      "id": "KG03225853000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722100"
+    ],
+    "geo": {
+      "lat": "42.021",
+      "lon": "72.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225815000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жаңы-Жол",
+      "en": "Djany-Djol'",
+      "slug": "djany-djol-25815"
+    },
+    "code": {
+      "id": "KG03225815000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.979",
+      "lon": "72.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кетмен-Дөбө",
+      "en": "Ketmen'-Deben",
+      "slug": "ketmen-deben-25825"
+    },
+    "code": {
+      "id": "KG03225825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.981",
+      "lon": "72.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225820000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кызыл-Өзгөрүш",
+      "en": "Kyzyl-Ozgorush",
+      "slug": "kyzyl-ozgorush-22582"
+    },
+    "code": {
+      "id": "KG03225820000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.65",
+      "lon": "73.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225821000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ничке-Сай",
+      "en": "Nichke-Say",
+      "slug": "nichke-say-25821"
+    },
+    "code": {
+      "id": "KG03225821000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.677",
+      "lon": "73.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225835000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Сары-Камыш",
+      "en": "Sary-Kamysh",
+      "slug": "sary-kamysh-25835"
+    },
+    "code": {
+      "id": "KG03225835000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.784",
+      "lon": "73.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225600010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Токтогул",
+      "en": "Toktogul (city)",
+      "slug": "toktogul-city-60001"
+    },
+    "code": {
+      "id": "KG03225600010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.872",
+      "lon": "72.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03225836000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Үч-Терек",
+      "en": "Uch-Terek",
+      "slug": "uch-terek-25836"
+    },
+    "code": {
+      "id": "KG03225836000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG03225000000",
+      "level": 2,
+      "name": {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG03000000000",
+        "level": 1,
+        "name": {
+          "local": "Жалалабат",
+          "en": "Jalal-Abad",
+          "slug": "jalal-abad-kg03"
+        }
+      },
+      {
+        "id": "KG03225000000",
+        "level": 2,
+        "name": {
+          "local": "Токтогул",
+          "en": "Toktogul",
+          "slug": "toktogul-03225"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721600"
+    ],
+    "geo": {
+      "lat": "41.629",
+      "lon": "73.076"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "KG06226000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Кара-Суу",
+    "en": "Kara-Suu",
+    "slug": "kara-suu-06226"
+  },
+  "code": {
+    "id": "KG06226000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG06000000000",
+    "level": 1,
+    "name": {
+      "local": "Ош",
+      "en": "Osh",
+      "slug": "osh-kg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 16
+  },
+  "zip_codes": [
+    "723301"
+  ],
+  "geo": {
+    "lat": "40.292",
+    "lon": "73.121"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,175 @@
+# Batken — Kyrgyzstan Administrative Divisions
+
+> 6 districts, 34 settlements
+> Code: KG05000000000
+> Coordinates: 39.868, 71.57
+> Last updated: 2026-05-21. License: CC-BY-4.0.
+
+## Districts
+
+### Баткен (Batken)
+
+Code: KG05214000000, Coordinates: 39.841, 70.98
+Settlements: 9
+
+#### Ак-Сай (Ak-Say)
+
+Code: KG05214848000, Postal: 720100, Coordinates: 39.884, 70.518
+
+#### Ак-Татыр (Ak-Tatyr)
+
+Code: KG05214849000, Postal: 720102, Coordinates: 39.976, 70.623
+
+#### Дарыя (Daryin)
+
+Code: KG05214812000, Postal: 720100, Coordinates: 39.768, 70.96
+
+#### Кара-Бак (Kara-Bak)
+
+Code: KG05214823000, Postal: 720106, Coordinates: 40.159, 70.832
+
+#### Кара-Булак (Kara-Bulak)
+
+Code: KG05214824000, Postal: 720107, Coordinates: 39.971, 70.895
+
+#### Кыштут (Kyshtut)
+
+Code: KG05214835000, Postal: 720117, Coordinates: 39.889, 71.044
+
+#### Самаркандек (Samarkandek)
+
+Code: KG05214846000, Postal: 720100, Coordinates: 39.944, 70.213
+
+#### Суу-Башы (Suu-Bashyn)
+
+Code: KG05214852000, Postal: 720100, Coordinates: 40.018, 71.256
+
+#### Төрт-Кул (Tert-Gyul)
+
+Code: KG05214814000, Postal: 720100, Coordinates: 40.225, 71.009
+
+### Баткен ш. (Batken (city))
+
+Code: KG05410000010, Coordinates: 40.089, 70.809
+Settlements: 0
+
+### Кадамжай (Kadamjai)
+
+Code: KG05258000000, Coordinates: 39.998, 71.491
+Settlements: 14
+
+#### Абсамат Масалиев (Absamat Masaliev)
+
+Code: KG05258819000, Postal: 720200, Coordinates: 40.206, 72.021
+
+#### Ак-Турпак (Ak-Turpak)
+
+Code: KG05258804000, Postal: 720103, Coordinates: 40.179, 71.149
+
+#### Алга (Algin)
+
+Code: KG05258808000, Postal: 720202, Coordinates: 40.173, 71.441
+
+#### Айдаркен (Aydarken (city))
+
+Code: KG05258600010, Postal: 720200, Coordinates: 39.941, 71.346
+
+#### Бирлик (Birlik)
+
+Code: KG05258812000, Postal: 721604, Coordinates: 39.946, 71.266
+
+#### Чаувай (Chauvay)
+
+Code: KG05258867000, Postal: 720223, Coordinates: 40.135, 72.185
+
+#### Халмион (Khalmion)
+
+Code: KG05258860000, Postal: 720222, Coordinates: 40.142, 71.579
+
+#### Көтөрмө (Kotormo)
+
+Code: KG05258825000, Postal: 720200, Coordinates: 40.06, 71.834
+
+#### Кыргыз-Кыштак (Kyrgyz-Kyshtak)
+
+Code: KG05258861000, Postal: 720200, Coordinates: 40.176, 71.34
+
+#### Марказ (Markaz)
+
+Code: KG05258834000, Postal: 720211, Coordinates: 40.23, 71.911
+
+#### Майдан (Maydan)
+
+Code: KG05258830000, Postal: 720210, Coordinates: 40.065, 72.073
+
+#### Орозбеков (Orozbekov)
+
+Code: KG05258842000, Postal: 720200, Coordinates: 39.966, 71.434
+
+#### Совет (Sovet)
+
+Code: KG05258864000, Postal: 720200, Coordinates: 40.167, 71.315
+
+#### Үч-Коргон (Uch-Korgon)
+
+Code: KG05258849000, Postal: 720200, Coordinates: 40.201, 72.128
+
+### Кызыл-Кыя ш. (Kyzyl-Kia (city))
+
+Code: KG05430000010, Coordinates: 40.247, 72.14
+Settlements: 0
+
+### Лейлек (Leilek)
+
+Code: KG05236000000, Coordinates: 39.877, 69.739
+Settlements: 10
+
+#### Ак-Суу (Ak-Suu)
+
+Code: KG05236802000, Postal: 723016, Coordinates: 39.922, 69.394
+
+#### Бешкент (Beshkent)
+
+Code: KG05236804000, Postal: 720408, Coordinates: 40.082, 69.822
+
+#### Жаңы-Жер (Djany-Djer)
+
+Code: KG05236808000, Postal: 720400, Coordinates: 40.102, 69.942
+
+#### Исфана (Isfana (city))
+
+Code: KG05236610010, Postal: 720400, Coordinates: 39.834, 69.552
+
+#### Катраң (Katran)
+
+Code: KG05236818000, Postal: 720400, Coordinates: 39.847, 70.06
+
+#### Кулунду (Kulundin)
+
+Code: KG05236825000, Postal: 720419, Coordinates: 40.008, 69.609
+
+#### Лейлек (Leylek)
+
+Code: KG05236816000, Postal: 720402, Coordinates: 39.847, 69.921
+
+#### Маргун (Margun)
+
+Code: KG05236806000, Postal: 720410, Coordinates: 40.108, 69.723
+
+#### Сумбула (Sumbulin)
+
+Code: KG05236836000, Postal: 720400, Coordinates: 39.773, 69.4
+
+#### Тогуз-Булак (Toguz-Bulak)
+
+Code: KG05236842000, Postal: 720426, Coordinates: 39.837, 69.743
+
+### Сүлүктү ш. (Sulukta (city))
+
+Code: KG05420000010, Coordinates: 39.936, 69.578
+Settlements: 1
+
+#### Восточный (Vostochnyy)
+
+Code: KG05420510010, Postal: 720500, Coordinates: 39.926, 69.65
+

@@ -1,0 +1,49 @@
+{
+  "id": "KG02225000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Түп",
+    "en": "Tup",
+    "slug": "tup-02225"
+  },
+  "code": {
+    "id": "KG02225000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG02000000000",
+    "level": 1,
+    "name": {
+      "local": "Ысык-Көл",
+      "en": "Issyk-Kul",
+      "slug": "issyk-kul-kg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 13
+  },
+  "zip_codes": [
+    "722700"
+  ],
+  "geo": {
+    "lat": "42.744",
+    "lon": "78.639"
+  },
+  "metadata": {},
+  "source": {}
+}

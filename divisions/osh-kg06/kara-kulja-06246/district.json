@@ -1,0 +1,49 @@
+{
+  "id": "KG06246000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Кара-Кулжа",
+    "en": "Kara-Kulja",
+    "slug": "kara-kulja-06246"
+  },
+  "code": {
+    "id": "KG06246000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG06000000000",
+    "level": 1,
+    "name": {
+      "local": "Ош",
+      "en": "Osh",
+      "slug": "osh-kg06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG06000000000",
+      "level": 1,
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 11
+  },
+  "zip_codes": [
+    "723200"
+  ],
+  "geo": {
+    "lat": "40.436",
+    "lon": "74.173"
+  },
+  "metadata": {},
+  "source": {}
+}

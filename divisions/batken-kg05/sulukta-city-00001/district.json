@@ -1,0 +1,49 @@
+{
+  "id": "KG05420000010",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Сүлүктү ш.",
+    "en": "Sulukta (city)",
+    "slug": "sulukta-city-00001"
+  },
+  "code": {
+    "id": "KG05420000010",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG05000000000",
+    "level": 1,
+    "name": {
+      "local": "Баткен",
+      "en": "Batken",
+      "slug": "batken-kg05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG05000000000",
+      "level": 1,
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 1
+  },
+  "zip_codes": [
+    "720500"
+  ],
+  "geo": {
+    "lat": "39.936",
+    "lon": "69.578"
+  },
+  "metadata": {},
+  "source": {}
+}

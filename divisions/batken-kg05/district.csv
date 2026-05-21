@@ -1,0 +1,7 @@
+id,name.local,name.en,name.slug,code.id,children_count.settlement,zip_codes,geo.lat,geo.lon
+KG05214000000,Баткен,Batken,batken-05214,KG05214000000,9,720100,39.841,70.98
+KG05410000010,Баткен ш.,Batken (city),batken-city-00001,KG05410000010,0,720100,40.089,70.809
+KG05258000000,Кадамжай,Kadamjai,kadamjai-05258,KG05258000000,14,720200,39.998,71.491
+KG05430000010,Кызыл-Кыя ш.,Kyzyl-Kia (city),kyzyl-kia-city-00001,KG05430000010,0,720300,40.247,72.14
+KG05236000000,Лейлек,Leilek,leilek-05236,KG05236000000,10,720400,39.877,69.739
+KG05420000010,Сүлүктү ш.,Sulukta (city),sulukta-city-00001,KG05420000010,1,720500,39.936,69.578

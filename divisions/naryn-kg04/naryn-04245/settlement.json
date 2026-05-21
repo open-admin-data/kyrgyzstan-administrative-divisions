@@ -1,0 +1,786 @@
+[
+  {
+    "id": "KG04245806000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Кудук",
+      "en": "Ak-Kuduk",
+      "slug": "ak-kuduk-45806"
+    },
+    "code": {
+      "id": "KG04245806000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.458",
+      "lon": "75.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245850000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чет-Нура",
+      "en": "Chet-Nura",
+      "slug": "chet-nura-24585"
+    },
+    "code": {
+      "id": "KG04245850000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.488",
+      "lon": "76.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Дөбөлү",
+      "en": "Debeli",
+      "slug": "debeli-45812"
+    },
+    "code": {
+      "id": "KG04245812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.436",
+      "lon": "76.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245815000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жан-Булак",
+      "en": "Djan-Bulak",
+      "slug": "djan-bulak-45815"
+    },
+    "code": {
+      "id": "KG04245815000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.421",
+      "lon": "75.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245818000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Жерге-Тал",
+      "en": "Djergetal",
+      "slug": "djergetal-45818"
+    },
+    "code": {
+      "id": "KG04245818000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.547",
+      "lon": "75.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245863000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Достук",
+      "en": "Dostuk",
+      "slug": "dostuk-45863"
+    },
+    "code": {
+      "id": "KG04245863000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720409"
+    ],
+    "geo": {
+      "lat": "41.368",
+      "lon": "75.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245855000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Эмгек-Талаа",
+      "en": "Emgek-Talaa",
+      "slug": "emgek-talaa-45855"
+    },
+    "code": {
+      "id": "KG04245855000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.516",
+      "lon": "76.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245832000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Эмгекчил",
+      "en": "Emgekchil",
+      "slug": "emgekchil-45832"
+    },
+    "code": {
+      "id": "KG04245832000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722928"
+    ],
+    "geo": {
+      "lat": "41.505",
+      "lon": "75.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245829000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кара-Кужур",
+      "en": "Kara-Kudjur",
+      "slug": "kara-kudjur-45829"
+    },
+    "code": {
+      "id": "KG04245829000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.934",
+      "lon": "76.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Казан-Куйган",
+      "en": "Kazan-Kuygan",
+      "slug": "kazan-kuygan-45825"
+    },
+    "code": {
+      "id": "KG04245825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.612",
+      "lon": "75.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245835000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Миң-Булак",
+      "en": "Min-Bulak",
+      "slug": "min-bulak-45835"
+    },
+    "code": {
+      "id": "KG04245835000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.497",
+      "lon": "75.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245840000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Он-Арча",
+      "en": "On-Archa",
+      "slug": "on-archa-24584"
+    },
+    "code": {
+      "id": "KG04245840000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722900"
+    ],
+    "geo": {
+      "lat": "41.606",
+      "lon": "75.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245844000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Орток",
+      "en": "Ortok",
+      "slug": "ortok-45844"
+    },
+    "code": {
+      "id": "KG04245844000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "722813"
+    ],
+    "geo": {
+      "lat": "41.475",
+      "lon": "76.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04245845000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Учкун",
+      "en": "Uchkun",
+      "slug": "uchkun-45845"
+    },
+    "code": {
+      "id": "KG04245845000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG04245000000",
+      "level": 2,
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-04245"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG04000000000",
+        "level": 1,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-kg04"
+        }
+      },
+      {
+        "id": "KG04245000000",
+        "level": 2,
+        "name": {
+          "local": "Нарын",
+          "en": "Naryn",
+          "slug": "naryn-04245"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720213"
+    ],
+    "geo": {
+      "lat": "41.378",
+      "lon": "75.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

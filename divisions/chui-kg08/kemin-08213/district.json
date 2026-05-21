@@ -1,0 +1,49 @@
+{
+  "id": "KG08213000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Кемин",
+    "en": "Kemin",
+    "slug": "kemin-08213"
+  },
+  "code": {
+    "id": "KG08213000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG08000000000",
+    "level": 1,
+    "name": {
+      "local": "Чүй",
+      "en": "Chui",
+      "slug": "chui-kg08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG08000000000",
+      "level": 1,
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 14
+  },
+  "zip_codes": [
+    "724500"
+  ],
+  "geo": {
+    "lat": "42.717",
+    "lon": "75.901"
+  },
+  "metadata": {},
+  "source": {}
+}

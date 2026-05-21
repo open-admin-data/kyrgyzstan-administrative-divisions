@@ -1,0 +1,29 @@
+# Kyrgyzstan Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-21. License: CC-BY-4.0.
+
+## Per-Region Data Files
+
+- [Batken](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/blob/main/docs/llms-full/batken-kg05.txt) — 6 districts, 34 settlements
+- [Bishkek (city)](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/blob/main/docs/llms-full/bishkek-city-kg11.txt) — 0 districts, 0 settlements
+- [Chui](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/blob/main/docs/llms-full/chui-kg08.txt) — 9 districts, 113 settlements
+- [Issyk-Kul](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/blob/main/docs/llms-full/issyk-kul-kg02.txt) — 7 districts, 63 settlements
+- [Jalal-Abad](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/blob/main/docs/llms-full/jalal-abad-kg03.txt) — 13 districts, 75 settlements
+- [Naryn](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/blob/main/docs/llms-full/naryn-kg04.txt) — 6 districts, 60 settlements
+- [Osh](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/blob/main/docs/llms-full/osh-kg06.txt) — 7 districts, 79 settlements
+- [Osh (city)](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/blob/main/docs/llms-full/osh-city-kg21.txt) — 0 districts, 0 settlements
+- [Talas](https://github.com/open-admin-data/kyrgyzstan-administrative-divisions/blob/main/docs/llms-full/talas-kg07.txt) — 5 districts, 36 settlements
+
+## Summary
+
+| Region | Districts | Settlements | 
+|---|---|---|
+| Batken | 6 | 34 | 
+| Bishkek (city) | 0 | 0 | 
+| Chui | 9 | 113 | 
+| Issyk-Kul | 7 | 63 | 
+| Jalal-Abad | 13 | 75 | 
+| Naryn | 6 | 60 | 
+| Osh | 7 | 79 | 
+| Osh (city) | 0 | 0 | 
+| Talas | 5 | 36 | 

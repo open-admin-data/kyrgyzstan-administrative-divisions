@@ -1,0 +1,30 @@
+{
+  "id": "KG11000000000",
+  "level": 1,
+  "level_name": {
+    "local": "Область",
+    "en": "Region"
+  },
+  "name": {
+    "local": "Бишкек ш.",
+    "en": "Bishkek (city)",
+    "slug": "bishkek-city-kg11"
+  },
+  "code": {
+    "id": "KG11000000000",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 0,
+    "settlement": 0
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "42.871",
+    "lon": "74.6"
+  },
+  "metadata": {},
+  "source": {}
+}

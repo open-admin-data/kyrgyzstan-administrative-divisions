@@ -1,0 +1,786 @@
+[
+  {
+    "id": "KG05258819000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Абсамат Масалиев",
+      "en": "Absamat Masaliev",
+      "slug": "absamat-masaliev-58819"
+    },
+    "code": {
+      "id": "KG05258819000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720200"
+    ],
+    "geo": {
+      "lat": "40.206",
+      "lon": "72.021"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258804000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Ак-Турпак",
+      "en": "Ak-Turpak",
+      "slug": "ak-turpak-58804"
+    },
+    "code": {
+      "id": "KG05258804000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720103"
+    ],
+    "geo": {
+      "lat": "40.179",
+      "lon": "71.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258808000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Алга",
+      "en": "Algin",
+      "slug": "algin-58808"
+    },
+    "code": {
+      "id": "KG05258808000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720202"
+    ],
+    "geo": {
+      "lat": "40.173",
+      "lon": "71.441"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258600010",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Айдаркен",
+      "en": "Aydarken (city)",
+      "slug": "aydarken-city-60001"
+    },
+    "code": {
+      "id": "KG05258600010",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720200"
+    ],
+    "geo": {
+      "lat": "39.941",
+      "lon": "71.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258812000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Бирлик",
+      "en": "Birlik",
+      "slug": "birlik-58812"
+    },
+    "code": {
+      "id": "KG05258812000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "721604"
+    ],
+    "geo": {
+      "lat": "39.946",
+      "lon": "71.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258867000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Чаувай",
+      "en": "Chauvay",
+      "slug": "chauvay-58867"
+    },
+    "code": {
+      "id": "KG05258867000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720223"
+    ],
+    "geo": {
+      "lat": "40.135",
+      "lon": "72.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258860000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Халмион",
+      "en": "Khalmion",
+      "slug": "khalmion-25886"
+    },
+    "code": {
+      "id": "KG05258860000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720222"
+    ],
+    "geo": {
+      "lat": "40.142",
+      "lon": "71.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258825000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Көтөрмө",
+      "en": "Kotormo",
+      "slug": "kotormo-58825"
+    },
+    "code": {
+      "id": "KG05258825000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720200"
+    ],
+    "geo": {
+      "lat": "40.06",
+      "lon": "71.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258861000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Кыргыз-Кыштак",
+      "en": "Kyrgyz-Kyshtak",
+      "slug": "kyrgyz-kyshtak-58861"
+    },
+    "code": {
+      "id": "KG05258861000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720200"
+    ],
+    "geo": {
+      "lat": "40.176",
+      "lon": "71.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258834000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Марказ",
+      "en": "Markaz",
+      "slug": "markaz-58834"
+    },
+    "code": {
+      "id": "KG05258834000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720211"
+    ],
+    "geo": {
+      "lat": "40.23",
+      "lon": "71.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258830000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Майдан",
+      "en": "Maydan",
+      "slug": "maydan-25883"
+    },
+    "code": {
+      "id": "KG05258830000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720210"
+    ],
+    "geo": {
+      "lat": "40.065",
+      "lon": "72.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258842000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Орозбеков",
+      "en": "Orozbekov",
+      "slug": "orozbekov-58842"
+    },
+    "code": {
+      "id": "KG05258842000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720200"
+    ],
+    "geo": {
+      "lat": "39.966",
+      "lon": "71.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258864000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Совет",
+      "en": "Sovet",
+      "slug": "sovet-58864"
+    },
+    "code": {
+      "id": "KG05258864000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720200"
+    ],
+    "geo": {
+      "lat": "40.167",
+      "lon": "71.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG05258849000",
+    "level": 3,
+    "level_name": {
+      "local": "Айыл аймагы",
+      "en": "Settlement"
+    },
+    "name": {
+      "local": "Үч-Коргон",
+      "en": "Uch-Korgon",
+      "slug": "uch-korgon-58849"
+    },
+    "code": {
+      "id": "KG05258849000",
+      "iso": null
+    },
+    "parent": {
+      "id": "KG05258000000",
+      "level": 2,
+      "name": {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "KG05000000000",
+        "level": 1,
+        "name": {
+          "local": "Баткен",
+          "en": "Batken",
+          "slug": "batken-kg05"
+        }
+      },
+      {
+        "id": "KG05258000000",
+        "level": 2,
+        "name": {
+          "local": "Кадамжай",
+          "en": "Kadamjai",
+          "slug": "kadamjai-05258"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "720200"
+    ],
+    "geo": {
+      "lat": "40.201",
+      "lon": "72.128"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "KG05000000000",
+    "level": 1,
+    "level_name": {
+      "local": "Область",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Баткен",
+      "en": "Batken",
+      "slug": "batken-kg05"
+    },
+    "code": {
+      "id": "KG05000000000",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "settlement": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "39.868",
+      "lon": "71.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG11000000000",
+    "level": 1,
+    "level_name": {
+      "local": "Область",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Бишкек ш.",
+      "en": "Bishkek (city)",
+      "slug": "bishkek-city-kg11"
+    },
+    "code": {
+      "id": "KG11000000000",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 0,
+      "settlement": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.871",
+      "lon": "74.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG08000000000",
+    "level": 1,
+    "level_name": {
+      "local": "Область",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Чүй",
+      "en": "Chui",
+      "slug": "chui-kg08"
+    },
+    "code": {
+      "id": "KG08000000000",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "settlement": 113
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.555",
+      "lon": "74.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG02000000000",
+    "level": 1,
+    "level_name": {
+      "local": "Область",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Ысык-Көл",
+      "en": "Issyk-Kul",
+      "slug": "issyk-kul-kg02"
+    },
+    "code": {
+      "id": "KG02000000000",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "settlement": 63
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.062",
+      "lon": "78.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG03000000000",
+    "level": 1,
+    "level_name": {
+      "local": "Область",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Жалалабат",
+      "en": "Jalal-Abad",
+      "slug": "jalal-abad-kg03"
+    },
+    "code": {
+      "id": "KG03000000000",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "settlement": 75
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.513",
+      "lon": "73.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG04000000000",
+    "level": 1,
+    "level_name": {
+      "local": "Область",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Нарын",
+      "en": "Naryn",
+      "slug": "naryn-kg04"
+    },
+    "code": {
+      "id": "KG04000000000",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "settlement": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "41.366",
+      "lon": "75.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG06000000000",
+    "level": 1,
+    "level_name": {
+      "local": "Область",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Ош",
+      "en": "Osh",
+      "slug": "osh-kg06"
+    },
+    "code": {
+      "id": "KG06000000000",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "settlement": 79
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.164",
+      "lon": "73.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG21000000000",
+    "level": 1,
+    "level_name": {
+      "local": "Область",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Ош ш.",
+      "en": "Osh (city)",
+      "slug": "osh-city-kg21"
+    },
+    "code": {
+      "id": "KG21000000000",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 0,
+      "settlement": 0
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "40.531",
+      "lon": "72.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "KG07000000000",
+    "level": 1,
+    "level_name": {
+      "local": "Область",
+      "en": "Region"
+    },
+    "name": {
+      "local": "Талас",
+      "en": "Talas",
+      "slug": "talas-kg07"
+    },
+    "code": {
+      "id": "KG07000000000",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "settlement": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "42.445",
+      "lon": "72.133"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

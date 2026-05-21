@@ -1,0 +1,49 @@
+{
+  "id": "KG02205000000",
+  "level": 2,
+  "level_name": {
+    "local": "Район",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ак-Суу",
+    "en": "Ak-Suu",
+    "slug": "ak-suu-02205"
+  },
+  "code": {
+    "id": "KG02205000000",
+    "iso": null
+  },
+  "parent": {
+    "id": "KG02000000000",
+    "level": 1,
+    "name": {
+      "local": "Ысык-Көл",
+      "en": "Issyk-Kul",
+      "slug": "issyk-kul-kg02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "KG02000000000",
+      "level": 1,
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      }
+    }
+  ],
+  "children_count": {
+    "settlement": 14
+  },
+  "zip_codes": [
+    "722200"
+  ],
+  "geo": {
+    "lat": "42.285",
+    "lon": "79.276"
+  },
+  "metadata": {},
+  "source": {}
+}
