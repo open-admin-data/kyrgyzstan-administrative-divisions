@@ -26,5 +26,9 @@
     "lon": "74.6"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kg/regions/bishkek-city-kg11/",
+    "api": "https://openadmindata.org/api/kg/"
+  }
 }

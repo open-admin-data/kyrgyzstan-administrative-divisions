@@ -26,5 +26,9 @@
     "lon": "73.218"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kg/regions/jalal-abad-kg03/",
+    "api": "https://openadmindata.org/api/kg/"
+  }
 }

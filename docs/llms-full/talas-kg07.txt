@@ -3,7 +3,7 @@
 > 5 districts, 36 settlements
 > Code: KG07000000000
 > Coordinates: 42.445, 72.133
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Districts
 

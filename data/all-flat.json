@@ -1,61 +1,57 @@
-[
-  {
-    "id": "KG02000000000",
-    "level": 1,
-    "level_name": {
-      "local": "Область",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Ысык-Көл",
-      "en": "Issyk-Kul",
-      "slug": "issyk-kul-kg02"
-    },
-    "code": {
+{
+  "_attribution": "Data from Open Admin Data (https://openadmindata.org/kg/) — CC-BY-4.0. Please cite: https://github.com/open-admin-data/kyrgyzstan-administrative-divisions",
+  "data": [
+    {
       "id": "KG02000000000",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Область",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Ысык-Көл",
+        "en": "Issyk-Kul",
+        "slug": "issyk-kul-kg02"
+      },
+      "code": {
+        "id": "KG02000000000",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 7,
+        "settlement": 63
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "42.062",
+        "lon": "78.159"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kg/regions/issyk-kul-kg02/",
+        "api": "https://openadmindata.org/api/kg/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "district": 7,
-      "settlement": 63
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "42.062",
-      "lon": "78.159"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG02205000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ак-Суу",
-      "en": "Ak-Suu",
-      "slug": "ak-suu-02205"
-    },
-    "code": {
+    {
       "id": "KG02205000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG02000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ысык-Көл",
-        "en": "Issyk-Kul",
-        "slug": "issyk-kul-kg02"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Ак-Суу",
+        "en": "Ak-Suu",
+        "slug": "ak-suu-02205"
+      },
+      "code": {
+        "id": "KG02205000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG02000000000",
         "level": 1,
         "name": {
@@ -63,48 +59,48 @@
           "en": "Issyk-Kul",
           "slug": "issyk-kul-kg02"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 14
+      },
+      "ancestors": [
+        {
+          "id": "KG02000000000",
+          "level": 1,
+          "name": {
+            "local": "Ысык-Көл",
+            "en": "Issyk-Kul",
+            "slug": "issyk-kul-kg02"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 14
+      },
+      "zip_codes": [
+        "722200"
+      ],
+      "geo": {
+        "lat": "42.285",
+        "lon": "79.276"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722200"
-    ],
-    "geo": {
-      "lat": "42.285",
-      "lon": "79.276"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG02210000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Жети-Өгүз",
-      "en": "Jeti-Oguz",
-      "slug": "jeti-oguz-g0221"
-    },
-    "code": {
+    {
       "id": "KG02210000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG02000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ысык-Көл",
-        "en": "Issyk-Kul",
-        "slug": "issyk-kul-kg02"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Жети-Өгүз",
+        "en": "Jeti-Oguz",
+        "slug": "jeti-oguz-g0221"
+      },
+      "code": {
+        "id": "KG02210000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG02000000000",
         "level": 1,
         "name": {
@@ -112,48 +108,48 @@
           "en": "Issyk-Kul",
           "slug": "issyk-kul-kg02"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 12
+      },
+      "ancestors": [
+        {
+          "id": "KG02000000000",
+          "level": 1,
+          "name": {
+            "local": "Ысык-Көл",
+            "en": "Issyk-Kul",
+            "slug": "issyk-kul-kg02"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 12
+      },
+      "zip_codes": [
+        "722300"
+      ],
+      "geo": {
+        "lat": "41.881",
+        "lon": "78.176"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722300"
-    ],
-    "geo": {
-      "lat": "41.881",
-      "lon": "78.176"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG02215000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ысык-Көл",
-      "en": "Issyk-Kul",
-      "slug": "issyk-kul-02215"
-    },
-    "code": {
+    {
       "id": "KG02215000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG02000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
         "local": "Ысык-Көл",
         "en": "Issyk-Kul",
-        "slug": "issyk-kul-kg02"
-      }
-    },
-    "ancestors": [
-      {
+        "slug": "issyk-kul-02215"
+      },
+      "code": {
+        "id": "KG02215000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG02000000000",
         "level": 1,
         "name": {
@@ -161,48 +157,48 @@
           "en": "Issyk-Kul",
           "slug": "issyk-kul-kg02"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 13
+      },
+      "ancestors": [
+        {
+          "id": "KG02000000000",
+          "level": 1,
+          "name": {
+            "local": "Ысык-Көл",
+            "en": "Issyk-Kul",
+            "slug": "issyk-kul-kg02"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 13
+      },
+      "zip_codes": [
+        "722100"
+      ],
+      "geo": {
+        "lat": "42.703",
+        "lon": "76.99"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722100"
-    ],
-    "geo": {
-      "lat": "42.703",
-      "lon": "76.99"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG02220000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Тоӊ",
-      "en": "Ton",
-      "slug": "ton-g0222"
-    },
-    "code": {
+    {
       "id": "KG02220000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG02000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ысык-Көл",
-        "en": "Issyk-Kul",
-        "slug": "issyk-kul-kg02"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Тоӊ",
+        "en": "Ton",
+        "slug": "ton-g0222"
+      },
+      "code": {
+        "id": "KG02220000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG02000000000",
         "level": 1,
         "name": {
@@ -210,48 +206,48 @@
           "en": "Issyk-Kul",
           "slug": "issyk-kul-kg02"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 9
+      },
+      "ancestors": [
+        {
+          "id": "KG02000000000",
+          "level": 1,
+          "name": {
+            "local": "Ысык-Көл",
+            "en": "Issyk-Kul",
+            "slug": "issyk-kul-kg02"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 9
+      },
+      "zip_codes": [
+        "722800"
+      ],
+      "geo": {
+        "lat": "42.086",
+        "lon": "76.733"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722800"
-    ],
-    "geo": {
-      "lat": "42.086",
-      "lon": "76.733"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG02225000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Түп",
-      "en": "Tup",
-      "slug": "tup-02225"
-    },
-    "code": {
+    {
       "id": "KG02225000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG02000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ысык-Көл",
-        "en": "Issyk-Kul",
-        "slug": "issyk-kul-kg02"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Түп",
+        "en": "Tup",
+        "slug": "tup-02225"
+      },
+      "code": {
+        "id": "KG02225000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG02000000000",
         "level": 1,
         "name": {
@@ -259,48 +255,48 @@
           "en": "Issyk-Kul",
           "slug": "issyk-kul-kg02"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 13
+      },
+      "ancestors": [
+        {
+          "id": "KG02000000000",
+          "level": 1,
+          "name": {
+            "local": "Ысык-Көл",
+            "en": "Issyk-Kul",
+            "slug": "issyk-kul-kg02"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 13
+      },
+      "zip_codes": [
+        "722700"
+      ],
+      "geo": {
+        "lat": "42.744",
+        "lon": "78.639"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722700"
-    ],
-    "geo": {
-      "lat": "42.744",
-      "lon": "78.639"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG02410000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Каракол ш.",
-      "en": "Karakol (city)",
-      "slug": "karakol-city-00001"
-    },
-    "code": {
+    {
       "id": "KG02410000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG02000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ысык-Көл",
-        "en": "Issyk-Kul",
-        "slug": "issyk-kul-kg02"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Каракол ш.",
+        "en": "Karakol (city)",
+        "slug": "karakol-city-00001"
+      },
+      "code": {
+        "id": "KG02410000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG02000000000",
         "level": 1,
         "name": {
@@ -308,48 +304,48 @@
           "en": "Issyk-Kul",
           "slug": "issyk-kul-kg02"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 1
+      },
+      "ancestors": [
+        {
+          "id": "KG02000000000",
+          "level": 1,
+          "name": {
+            "local": "Ысык-Көл",
+            "en": "Issyk-Kul",
+            "slug": "issyk-kul-kg02"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 1
+      },
+      "zip_codes": [
+        "722200"
+      ],
+      "geo": {
+        "lat": "42.49",
+        "lon": "78.394"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722200"
-    ],
-    "geo": {
-      "lat": "42.49",
-      "lon": "78.394"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG02420000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Балыкчы ш.",
-      "en": "Balykchy (city)",
-      "slug": "balykchy-city-00001"
-    },
-    "code": {
+    {
       "id": "KG02420000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG02000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ысык-Көл",
-        "en": "Issyk-Kul",
-        "slug": "issyk-kul-kg02"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Балыкчы ш.",
+        "en": "Balykchy (city)",
+        "slug": "balykchy-city-00001"
+      },
+      "code": {
+        "id": "KG02420000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG02000000000",
         "level": 1,
         "name": {
@@ -357,78 +353,82 @@
           "en": "Issyk-Kul",
           "slug": "issyk-kul-kg02"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 1
+      },
+      "ancestors": [
+        {
+          "id": "KG02000000000",
+          "level": 1,
+          "name": {
+            "local": "Ысык-Көл",
+            "en": "Issyk-Kul",
+            "slug": "issyk-kul-kg02"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 1
+      },
+      "zip_codes": [
+        "721900"
+      ],
+      "geo": {
+        "lat": "42.455",
+        "lon": "76.183"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721900"
-    ],
-    "geo": {
-      "lat": "42.455",
-      "lon": "76.183"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03000000000",
-    "level": 1,
-    "level_name": {
-      "local": "Область",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Жалалабат",
-      "en": "Jalal-Abad",
-      "slug": "jalal-abad-kg03"
-    },
-    "code": {
+    {
       "id": "KG03000000000",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Область",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Жалалабат",
+        "en": "Jalal-Abad",
+        "slug": "jalal-abad-kg03"
+      },
+      "code": {
+        "id": "KG03000000000",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 13,
+        "settlement": 75
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "41.513",
+        "lon": "73.218"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kg/regions/jalal-abad-kg03/",
+        "api": "https://openadmindata.org/api/kg/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "district": 13,
-      "settlement": 75
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "41.513",
-      "lon": "73.218"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03204000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ала-Бука",
-      "en": "Ala-Buka",
-      "slug": "ala-buka-03204"
-    },
-    "code": {
+    {
       "id": "KG03204000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Ала-Бука",
+        "en": "Ala-Buka",
+        "slug": "ala-buka-03204"
+      },
+      "code": {
+        "id": "KG03204000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -436,48 +436,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 8
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 8
+      },
+      "zip_codes": [
+        "721500"
+      ],
+      "geo": {
+        "lat": "41.427",
+        "lon": "70.925"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721500"
-    ],
-    "geo": {
-      "lat": "41.427",
-      "lon": "70.925"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03207000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Базар-Коргон",
-      "en": "Bazar-Korgon",
-      "slug": "bazar-korgon-03207"
-    },
-    "code": {
+    {
       "id": "KG03207000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Базар-Коргон",
+        "en": "Bazar-Korgon",
+        "slug": "bazar-korgon-03207"
+      },
+      "code": {
+        "id": "KG03207000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -485,48 +485,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 9
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 9
+      },
+      "zip_codes": [
+        "720800"
+      ],
+      "geo": {
+        "lat": "41.235",
+        "lon": "72.887"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "720800"
-    ],
-    "geo": {
-      "lat": "41.235",
-      "lon": "72.887"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03211000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Аксы",
-      "en": "Aksy",
-      "slug": "aksy-03211"
-    },
-    "code": {
+    {
       "id": "KG03211000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Аксы",
+        "en": "Aksy",
+        "slug": "aksy-03211"
+      },
+      "code": {
+        "id": "KG03211000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -534,48 +534,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 12
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 12
+      },
+      "zip_codes": [
+        "720600"
+      ],
+      "geo": {
+        "lat": "41.566",
+        "lon": "72.03"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "720600"
-    ],
-    "geo": {
-      "lat": "41.566",
-      "lon": "72.03"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03215000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ноокен",
-      "en": "Nooken",
-      "slug": "nooken-03215"
-    },
-    "code": {
+    {
       "id": "KG03215000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Ноокен",
+        "en": "Nooken",
+        "slug": "nooken-03215"
+      },
+      "code": {
+        "id": "KG03215000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -583,48 +583,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 9
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 9
+      },
+      "zip_codes": [
+        "721200"
+      ],
+      "geo": {
+        "lat": "41.232",
+        "lon": "72.617"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721200"
-    ],
-    "geo": {
-      "lat": "41.232",
-      "lon": "72.617"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03220000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Сузак",
-      "en": "Suzak",
-      "slug": "suzak-g0322"
-    },
-    "code": {
+    {
       "id": "KG03220000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Сузак",
+        "en": "Suzak",
+        "slug": "suzak-g0322"
+      },
+      "code": {
+        "id": "KG03220000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -632,48 +632,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 13
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 13
+      },
+      "zip_codes": [
+        "721300"
+      ],
+      "geo": {
+        "lat": "41.09",
+        "lon": "73.161"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721300"
-    ],
-    "geo": {
-      "lat": "41.09",
-      "lon": "73.161"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03220400010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Көк-Жаңгак ш.",
-      "en": "Kok-Zhangak (city)",
-      "slug": "kok-zhangak-city-40001"
-    },
-    "code": {
+    {
       "id": "KG03220400010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Көк-Жаңгак ш.",
+        "en": "Kok-Zhangak (city)",
+        "slug": "kok-zhangak-city-40001"
+      },
+      "code": {
+        "id": "KG03220400010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -681,48 +681,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 0
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 0
+      },
+      "zip_codes": [
+        "721300"
+      ],
+      "geo": {
+        "lat": "41.013",
+        "lon": "73.209"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721300"
-    ],
-    "geo": {
-      "lat": "41.013",
-      "lon": "73.209"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03223000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Тогуз-Торо",
-      "en": "Toguz-Toro",
-      "slug": "toguz-toro-03223"
-    },
-    "code": {
+    {
       "id": "KG03223000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Тогуз-Торо",
+        "en": "Toguz-Toro",
+        "slug": "toguz-toro-03223"
+      },
+      "code": {
+        "id": "KG03223000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -730,48 +730,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 5
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 5
+      },
+      "zip_codes": [
+        "721500"
+      ],
+      "geo": {
+        "lat": "41.309",
+        "lon": "73.978"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721500"
-    ],
-    "geo": {
-      "lat": "41.309",
-      "lon": "73.978"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03225000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Токтогул",
-      "en": "Toktogul",
-      "slug": "toktogul-03225"
-    },
-    "code": {
+    {
       "id": "KG03225000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Токтогул",
+        "en": "Toktogul",
+        "slug": "toktogul-03225"
+      },
+      "code": {
+        "id": "KG03225000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -779,48 +779,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 11
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 11
+      },
+      "zip_codes": [
+        "721600"
+      ],
+      "geo": {
+        "lat": "41.831",
+        "lon": "73.191"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721600"
-    ],
-    "geo": {
-      "lat": "41.831",
-      "lon": "73.191"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03230000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Чаткал",
-      "en": "Chatkal",
-      "slug": "chatkal-g0323"
-    },
-    "code": {
+    {
       "id": "KG03230000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Чаткал",
+        "en": "Chatkal",
+        "slug": "chatkal-g0323"
+      },
+      "code": {
+        "id": "KG03230000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -828,48 +828,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 4
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 4
+      },
+      "zip_codes": [
+        "721700"
+      ],
+      "geo": {
+        "lat": "41.712",
+        "lon": "70.919"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721700"
-    ],
-    "geo": {
-      "lat": "41.712",
-      "lon": "70.919"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03410000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Жалал-Абад ш.",
-      "en": "Jalal-Abad (city)",
-      "slug": "jalal-abad-city-00001"
-    },
-    "code": {
+    {
       "id": "KG03410000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Жалал-Абад ш.",
+        "en": "Jalal-Abad (city)",
+        "slug": "jalal-abad-city-00001"
+      },
+      "code": {
+        "id": "KG03410000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -877,48 +877,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 0
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 0
+      },
+      "zip_codes": [
+        "720900"
+      ],
+      "geo": {
+        "lat": "40.933",
+        "lon": "72.997"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "720900"
-    ],
-    "geo": {
-      "lat": "40.933",
-      "lon": "72.997"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03420000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Таш-Көмүр ш.",
-      "en": "Tash-Kumir (city)",
-      "slug": "tash-kumir-city-00001"
-    },
-    "code": {
+    {
       "id": "KG03420000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Таш-Көмүр ш.",
+        "en": "Tash-Kumir (city)",
+        "slug": "tash-kumir-city-00001"
+      },
+      "code": {
+        "id": "KG03420000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -926,48 +926,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 2
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 2
+      },
+      "zip_codes": [
+        "721400"
+      ],
+      "geo": {
+        "lat": "41.373",
+        "lon": "72.196"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721400"
-    ],
-    "geo": {
-      "lat": "41.373",
-      "lon": "72.196"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03430000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Майлуу-Суу ш.",
-      "en": "Mailuu-Suu (city)",
-      "slug": "mailuu-suu-city-00001"
-    },
-    "code": {
+    {
       "id": "KG03430000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Майлуу-Суу ш.",
+        "en": "Mailuu-Suu (city)",
+        "slug": "mailuu-suu-city-00001"
+      },
+      "code": {
+        "id": "KG03430000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -975,48 +975,48 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 1
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 1
+      },
+      "zip_codes": [
+        "721101"
+      ],
+      "geo": {
+        "lat": "41.258",
+        "lon": "72.441"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721101"
-    ],
-    "geo": {
-      "lat": "41.258",
-      "lon": "72.441"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG03440000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Кара-Көл ш.",
-      "en": "Kara-Kul (city)",
-      "slug": "kara-kul-city-00001"
-    },
-    "code": {
+    {
       "id": "KG03440000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG03000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Жалалабат",
-        "en": "Jalal-Abad",
-        "slug": "jalal-abad-kg03"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Кара-Көл ш.",
+        "en": "Kara-Kul (city)",
+        "slug": "kara-kul-city-00001"
+      },
+      "code": {
+        "id": "KG03440000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG03000000000",
         "level": 1,
         "name": {
@@ -1024,78 +1024,82 @@
           "en": "Jalal-Abad",
           "slug": "jalal-abad-kg03"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 1
+      },
+      "ancestors": [
+        {
+          "id": "KG03000000000",
+          "level": 1,
+          "name": {
+            "local": "Жалалабат",
+            "en": "Jalal-Abad",
+            "slug": "jalal-abad-kg03"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 1
+      },
+      "zip_codes": [
+        "721000"
+      ],
+      "geo": {
+        "lat": "41.724",
+        "lon": "73.128"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "721000"
-    ],
-    "geo": {
-      "lat": "41.724",
-      "lon": "73.128"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG04000000000",
-    "level": 1,
-    "level_name": {
-      "local": "Область",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Нарын",
-      "en": "Naryn",
-      "slug": "naryn-kg04"
-    },
-    "code": {
+    {
       "id": "KG04000000000",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Область",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Нарын",
+        "en": "Naryn",
+        "slug": "naryn-kg04"
+      },
+      "code": {
+        "id": "KG04000000000",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 6,
+        "settlement": 60
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "41.366",
+        "lon": "75.993"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kg/regions/naryn-kg04/",
+        "api": "https://openadmindata.org/api/kg/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "district": 6,
-      "settlement": 60
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "41.366",
-      "lon": "75.993"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG04210000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ак-Талаа",
-      "en": "Ak-Tala",
-      "slug": "ak-tala-g0421"
-    },
-    "code": {
+    {
       "id": "KG04210000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG04000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Нарын",
-        "en": "Naryn",
-        "slug": "naryn-kg04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Ак-Талаа",
+        "en": "Ak-Tala",
+        "slug": "ak-tala-g0421"
+      },
+      "code": {
+        "id": "KG04210000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG04000000000",
         "level": 1,
         "name": {
@@ -1103,48 +1107,48 @@
           "en": "Naryn",
           "slug": "naryn-kg04"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 13
+      },
+      "ancestors": [
+        {
+          "id": "KG04000000000",
+          "level": 1,
+          "name": {
+            "local": "Нарын",
+            "en": "Naryn",
+            "slug": "naryn-kg04"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 13
+      },
+      "zip_codes": [
+        "722500"
+      ],
+      "geo": {
+        "lat": "41.331",
+        "lon": "74.8"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722500"
-    ],
-    "geo": {
-      "lat": "41.331",
-      "lon": "74.8"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG04220000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ат-Башы",
-      "en": "Ak-Bashy",
-      "slug": "ak-bashy-g0422"
-    },
-    "code": {
+    {
       "id": "KG04220000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG04000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Нарын",
-        "en": "Naryn",
-        "slug": "naryn-kg04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Ат-Башы",
+        "en": "Ak-Bashy",
+        "slug": "ak-bashy-g0422"
+      },
+      "code": {
+        "id": "KG04220000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG04000000000",
         "level": 1,
         "name": {
@@ -1152,48 +1156,48 @@
           "en": "Naryn",
           "slug": "naryn-kg04"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 12
+      },
+      "ancestors": [
+        {
+          "id": "KG04000000000",
+          "level": 1,
+          "name": {
+            "local": "Нарын",
+            "en": "Naryn",
+            "slug": "naryn-kg04"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 12
+      },
+      "zip_codes": [
+        "722600"
+      ],
+      "geo": {
+        "lat": "40.856",
+        "lon": "75.46"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722600"
-    ],
-    "geo": {
-      "lat": "40.856",
-      "lon": "75.46"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG04230000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Жумгал",
-      "en": "Jumgal",
-      "slug": "jumgal-g0423"
-    },
-    "code": {
+    {
       "id": "KG04230000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG04000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Нарын",
-        "en": "Naryn",
-        "slug": "naryn-kg04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Жумгал",
+        "en": "Jumgal",
+        "slug": "jumgal-g0423"
+      },
+      "code": {
+        "id": "KG04230000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG04000000000",
         "level": 1,
         "name": {
@@ -1201,48 +1205,48 @@
           "en": "Naryn",
           "slug": "naryn-kg04"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 10
+      },
+      "ancestors": [
+        {
+          "id": "KG04000000000",
+          "level": 1,
+          "name": {
+            "local": "Нарын",
+            "en": "Naryn",
+            "slug": "naryn-kg04"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 10
+      },
+      "zip_codes": [
+        "722700"
+      ],
+      "geo": {
+        "lat": "41.893",
+        "lon": "74.589"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722700"
-    ],
-    "geo": {
-      "lat": "41.893",
-      "lon": "74.589"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG04235000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Кочкор",
-      "en": "Kochokor",
-      "slug": "kochokor-04235"
-    },
-    "code": {
+    {
       "id": "KG04235000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG04000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Нарын",
-        "en": "Naryn",
-        "slug": "naryn-kg04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Кочкор",
+        "en": "Kochokor",
+        "slug": "kochokor-04235"
+      },
+      "code": {
+        "id": "KG04235000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG04000000000",
         "level": 1,
         "name": {
@@ -1250,48 +1254,48 @@
           "en": "Naryn",
           "slug": "naryn-kg04"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 11
+      },
+      "ancestors": [
+        {
+          "id": "KG04000000000",
+          "level": 1,
+          "name": {
+            "local": "Нарын",
+            "en": "Naryn",
+            "slug": "naryn-kg04"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 11
+      },
+      "zip_codes": [
+        "722800"
+      ],
+      "geo": {
+        "lat": "42.095",
+        "lon": "75.614"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722800"
-    ],
-    "geo": {
-      "lat": "42.095",
-      "lon": "75.614"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG04245000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Нарын",
-      "en": "Naryn",
-      "slug": "naryn-04245"
-    },
-    "code": {
+    {
       "id": "KG04245000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG04000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
         "local": "Нарын",
         "en": "Naryn",
-        "slug": "naryn-kg04"
-      }
-    },
-    "ancestors": [
-      {
+        "slug": "naryn-04245"
+      },
+      "code": {
+        "id": "KG04245000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG04000000000",
         "level": 1,
         "name": {
@@ -1299,48 +1303,48 @@
           "en": "Naryn",
           "slug": "naryn-kg04"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 14
+      },
+      "ancestors": [
+        {
+          "id": "KG04000000000",
+          "level": 1,
+          "name": {
+            "local": "Нарын",
+            "en": "Naryn",
+            "slug": "naryn-kg04"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 14
+      },
+      "zip_codes": [
+        "722900"
+      ],
+      "geo": {
+        "lat": "41.511",
+        "lon": "75.906"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722900"
-    ],
-    "geo": {
-      "lat": "41.511",
-      "lon": "75.906"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG04400000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Нарын ш.",
-      "en": "Naryn (city)",
-      "slug": "naryn-city-00001"
-    },
-    "code": {
+    {
       "id": "KG04400000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG04000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Нарын",
-        "en": "Naryn",
-        "slug": "naryn-kg04"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Нарын ш.",
+        "en": "Naryn (city)",
+        "slug": "naryn-city-00001"
+      },
+      "code": {
+        "id": "KG04400000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG04000000000",
         "level": 1,
         "name": {
@@ -1348,78 +1352,82 @@
           "en": "Naryn",
           "slug": "naryn-kg04"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 0
+      },
+      "ancestors": [
+        {
+          "id": "KG04000000000",
+          "level": 1,
+          "name": {
+            "local": "Нарын",
+            "en": "Naryn",
+            "slug": "naryn-kg04"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 0
+      },
+      "zip_codes": [
+        "722900"
+      ],
+      "geo": {
+        "lat": "41.418",
+        "lon": "76.001"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "722900"
-    ],
-    "geo": {
-      "lat": "41.418",
-      "lon": "76.001"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG05000000000",
-    "level": 1,
-    "level_name": {
-      "local": "Область",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Баткен",
-      "en": "Batken",
-      "slug": "batken-kg05"
-    },
-    "code": {
+    {
       "id": "KG05000000000",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Область",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Баткен",
+        "en": "Batken",
+        "slug": "batken-kg05"
+      },
+      "code": {
+        "id": "KG05000000000",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 6,
+        "settlement": 34
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "39.868",
+        "lon": "71.57"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kg/regions/batken-kg05/",
+        "api": "https://openadmindata.org/api/kg/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "district": 6,
-      "settlement": 34
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "39.868",
-      "lon": "71.57"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG05214000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Баткен",
-      "en": "Batken",
-      "slug": "batken-05214"
-    },
-    "code": {
+    {
       "id": "KG05214000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG05000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
         "local": "Баткен",
         "en": "Batken",
-        "slug": "batken-kg05"
-      }
-    },
-    "ancestors": [
-      {
+        "slug": "batken-05214"
+      },
+      "code": {
+        "id": "KG05214000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG05000000000",
         "level": 1,
         "name": {
@@ -1427,48 +1435,48 @@
           "en": "Batken",
           "slug": "batken-kg05"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 9
+      },
+      "ancestors": [
+        {
+          "id": "KG05000000000",
+          "level": 1,
+          "name": {
+            "local": "Баткен",
+            "en": "Batken",
+            "slug": "batken-kg05"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 9
+      },
+      "zip_codes": [
+        "720100"
+      ],
+      "geo": {
+        "lat": "39.841",
+        "lon": "70.98"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "720100"
-    ],
-    "geo": {
-      "lat": "39.841",
-      "lon": "70.98"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG05236000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Лейлек",
-      "en": "Leilek",
-      "slug": "leilek-05236"
-    },
-    "code": {
+    {
       "id": "KG05236000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG05000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Баткен",
-        "en": "Batken",
-        "slug": "batken-kg05"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Лейлек",
+        "en": "Leilek",
+        "slug": "leilek-05236"
+      },
+      "code": {
+        "id": "KG05236000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG05000000000",
         "level": 1,
         "name": {
@@ -1476,48 +1484,48 @@
           "en": "Batken",
           "slug": "batken-kg05"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 10
+      },
+      "ancestors": [
+        {
+          "id": "KG05000000000",
+          "level": 1,
+          "name": {
+            "local": "Баткен",
+            "en": "Batken",
+            "slug": "batken-kg05"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 10
+      },
+      "zip_codes": [
+        "720400"
+      ],
+      "geo": {
+        "lat": "39.877",
+        "lon": "69.739"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "720400"
-    ],
-    "geo": {
-      "lat": "39.877",
-      "lon": "69.739"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG05258000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Кадамжай",
-      "en": "Kadamjai",
-      "slug": "kadamjai-05258"
-    },
-    "code": {
+    {
       "id": "KG05258000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG05000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Баткен",
-        "en": "Batken",
-        "slug": "batken-kg05"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Кадамжай",
+        "en": "Kadamjai",
+        "slug": "kadamjai-05258"
+      },
+      "code": {
+        "id": "KG05258000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG05000000000",
         "level": 1,
         "name": {
@@ -1525,48 +1533,48 @@
           "en": "Batken",
           "slug": "batken-kg05"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 14
+      },
+      "ancestors": [
+        {
+          "id": "KG05000000000",
+          "level": 1,
+          "name": {
+            "local": "Баткен",
+            "en": "Batken",
+            "slug": "batken-kg05"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 14
+      },
+      "zip_codes": [
+        "720200"
+      ],
+      "geo": {
+        "lat": "39.998",
+        "lon": "71.491"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "720200"
-    ],
-    "geo": {
-      "lat": "39.998",
-      "lon": "71.491"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG05410000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Баткен ш.",
-      "en": "Batken (city)",
-      "slug": "batken-city-00001"
-    },
-    "code": {
+    {
       "id": "KG05410000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG05000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Баткен",
-        "en": "Batken",
-        "slug": "batken-kg05"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Баткен ш.",
+        "en": "Batken (city)",
+        "slug": "batken-city-00001"
+      },
+      "code": {
+        "id": "KG05410000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG05000000000",
         "level": 1,
         "name": {
@@ -1574,48 +1582,48 @@
           "en": "Batken",
           "slug": "batken-kg05"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 0
+      },
+      "ancestors": [
+        {
+          "id": "KG05000000000",
+          "level": 1,
+          "name": {
+            "local": "Баткен",
+            "en": "Batken",
+            "slug": "batken-kg05"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 0
+      },
+      "zip_codes": [
+        "720100"
+      ],
+      "geo": {
+        "lat": "40.089",
+        "lon": "70.809"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "720100"
-    ],
-    "geo": {
-      "lat": "40.089",
-      "lon": "70.809"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG05420000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Сүлүктү ш.",
-      "en": "Sulukta (city)",
-      "slug": "sulukta-city-00001"
-    },
-    "code": {
+    {
       "id": "KG05420000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG05000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Баткен",
-        "en": "Batken",
-        "slug": "batken-kg05"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Сүлүктү ш.",
+        "en": "Sulukta (city)",
+        "slug": "sulukta-city-00001"
+      },
+      "code": {
+        "id": "KG05420000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG05000000000",
         "level": 1,
         "name": {
@@ -1623,48 +1631,48 @@
           "en": "Batken",
           "slug": "batken-kg05"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 1
+      },
+      "ancestors": [
+        {
+          "id": "KG05000000000",
+          "level": 1,
+          "name": {
+            "local": "Баткен",
+            "en": "Batken",
+            "slug": "batken-kg05"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 1
+      },
+      "zip_codes": [
+        "720500"
+      ],
+      "geo": {
+        "lat": "39.936",
+        "lon": "69.578"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "720500"
-    ],
-    "geo": {
-      "lat": "39.936",
-      "lon": "69.578"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG05430000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Кызыл-Кыя ш.",
-      "en": "Kyzyl-Kia (city)",
-      "slug": "kyzyl-kia-city-00001"
-    },
-    "code": {
+    {
       "id": "KG05430000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG05000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Баткен",
-        "en": "Batken",
-        "slug": "batken-kg05"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Кызыл-Кыя ш.",
+        "en": "Kyzyl-Kia (city)",
+        "slug": "kyzyl-kia-city-00001"
+      },
+      "code": {
+        "id": "KG05430000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG05000000000",
         "level": 1,
         "name": {
@@ -1672,78 +1680,82 @@
           "en": "Batken",
           "slug": "batken-kg05"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 0
+      },
+      "ancestors": [
+        {
+          "id": "KG05000000000",
+          "level": 1,
+          "name": {
+            "local": "Баткен",
+            "en": "Batken",
+            "slug": "batken-kg05"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 0
+      },
+      "zip_codes": [
+        "720300"
+      ],
+      "geo": {
+        "lat": "40.247",
+        "lon": "72.14"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "720300"
-    ],
-    "geo": {
-      "lat": "40.247",
-      "lon": "72.14"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG06000000000",
-    "level": 1,
-    "level_name": {
-      "local": "Область",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Ош",
-      "en": "Osh",
-      "slug": "osh-kg06"
-    },
-    "code": {
+    {
       "id": "KG06000000000",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Область",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Ош",
+        "en": "Osh",
+        "slug": "osh-kg06"
+      },
+      "code": {
+        "id": "KG06000000000",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 7,
+        "settlement": 79
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "40.164",
+        "lon": "73.361"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kg/regions/osh-kg06/",
+        "api": "https://openadmindata.org/api/kg/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "district": 7,
-      "settlement": 79
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.164",
-      "lon": "73.361"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG06207000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Алай",
-      "en": "Alai",
-      "slug": "alai-06207"
-    },
-    "code": {
+    {
       "id": "KG06207000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG06000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ош",
-        "en": "Osh",
-        "slug": "osh-kg06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Алай",
+        "en": "Alai",
+        "slug": "alai-06207"
+      },
+      "code": {
+        "id": "KG06207000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG06000000000",
         "level": 1,
         "name": {
@@ -1751,48 +1763,48 @@
           "en": "Osh",
           "slug": "osh-kg06"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 11
+      },
+      "ancestors": [
+        {
+          "id": "KG06000000000",
+          "level": 1,
+          "name": {
+            "local": "Ош",
+            "en": "Osh",
+            "slug": "osh-kg06"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 11
+      },
+      "zip_codes": [
+        "723000"
+      ],
+      "geo": {
+        "lat": "39.925",
+        "lon": "73.569"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "723000"
-    ],
-    "geo": {
-      "lat": "39.925",
-      "lon": "73.569"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG06211000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Араван",
-      "en": "Aravan",
-      "slug": "aravan-06211"
-    },
-    "code": {
+    {
       "id": "KG06211000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG06000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ош",
-        "en": "Osh",
-        "slug": "osh-kg06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Араван",
+        "en": "Aravan",
+        "slug": "aravan-06211"
+      },
+      "code": {
+        "id": "KG06211000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG06000000000",
         "level": 1,
         "name": {
@@ -1800,48 +1812,48 @@
           "en": "Osh",
           "slug": "osh-kg06"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 6
+      },
+      "ancestors": [
+        {
+          "id": "KG06000000000",
+          "level": 1,
+          "name": {
+            "local": "Ош",
+            "en": "Osh",
+            "slug": "osh-kg06"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 6
+      },
+      "zip_codes": [
+        "723100"
+      ],
+      "geo": {
+        "lat": "40.48",
+        "lon": "72.563"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "723100"
-    ],
-    "geo": {
-      "lat": "40.48",
-      "lon": "72.563"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG06226000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Кара-Суу",
-      "en": "Kara-Suu",
-      "slug": "kara-suu-06226"
-    },
-    "code": {
+    {
       "id": "KG06226000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG06000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ош",
-        "en": "Osh",
-        "slug": "osh-kg06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Кара-Суу",
+        "en": "Kara-Suu",
+        "slug": "kara-suu-06226"
+      },
+      "code": {
+        "id": "KG06226000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG06000000000",
         "level": 1,
         "name": {
@@ -1849,48 +1861,48 @@
           "en": "Osh",
           "slug": "osh-kg06"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 16
+      },
+      "ancestors": [
+        {
+          "id": "KG06000000000",
+          "level": 1,
+          "name": {
+            "local": "Ош",
+            "en": "Osh",
+            "slug": "osh-kg06"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 16
+      },
+      "zip_codes": [
+        "723301"
+      ],
+      "geo": {
+        "lat": "40.292",
+        "lon": "73.121"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "723301"
-    ],
-    "geo": {
-      "lat": "40.292",
-      "lon": "73.121"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG06242000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ноокат",
-      "en": "Nookat",
-      "slug": "nookat-06242"
-    },
-    "code": {
+    {
       "id": "KG06242000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG06000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ош",
-        "en": "Osh",
-        "slug": "osh-kg06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Ноокат",
+        "en": "Nookat",
+        "slug": "nookat-06242"
+      },
+      "code": {
+        "id": "KG06242000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG06000000000",
         "level": 1,
         "name": {
@@ -1898,48 +1910,48 @@
           "en": "Osh",
           "slug": "osh-kg06"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 14
+      },
+      "ancestors": [
+        {
+          "id": "KG06000000000",
+          "level": 1,
+          "name": {
+            "local": "Ош",
+            "en": "Osh",
+            "slug": "osh-kg06"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 14
+      },
+      "zip_codes": [
+        "723400"
+      ],
+      "geo": {
+        "lat": "40.106",
+        "lon": "72.712"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "723400"
-    ],
-    "geo": {
-      "lat": "40.106",
-      "lon": "72.712"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG06246000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Кара-Кулжа",
-      "en": "Kara-Kulja",
-      "slug": "kara-kulja-06246"
-    },
-    "code": {
+    {
       "id": "KG06246000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG06000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ош",
-        "en": "Osh",
-        "slug": "osh-kg06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Кара-Кулжа",
+        "en": "Kara-Kulja",
+        "slug": "kara-kulja-06246"
+      },
+      "code": {
+        "id": "KG06246000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG06000000000",
         "level": 1,
         "name": {
@@ -1947,48 +1959,48 @@
           "en": "Osh",
           "slug": "osh-kg06"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 11
+      },
+      "ancestors": [
+        {
+          "id": "KG06000000000",
+          "level": 1,
+          "name": {
+            "local": "Ош",
+            "en": "Osh",
+            "slug": "osh-kg06"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 11
+      },
+      "zip_codes": [
+        "723200"
+      ],
+      "geo": {
+        "lat": "40.436",
+        "lon": "74.173"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "723200"
-    ],
-    "geo": {
-      "lat": "40.436",
-      "lon": "74.173"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG06255000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Өзгөн",
-      "en": "Uzgen",
-      "slug": "uzgen-06255"
-    },
-    "code": {
+    {
       "id": "KG06255000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG06000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ош",
-        "en": "Osh",
-        "slug": "osh-kg06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Өзгөн",
+        "en": "Uzgen",
+        "slug": "uzgen-06255"
+      },
+      "code": {
+        "id": "KG06255000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG06000000000",
         "level": 1,
         "name": {
@@ -1996,48 +2008,48 @@
           "en": "Osh",
           "slug": "osh-kg06"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 18
+      },
+      "ancestors": [
+        {
+          "id": "KG06000000000",
+          "level": 1,
+          "name": {
+            "local": "Ош",
+            "en": "Osh",
+            "slug": "osh-kg06"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 18
+      },
+      "zip_codes": [
+        "723400"
+      ],
+      "geo": {
+        "lat": "40.808",
+        "lon": "73.67"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "723400"
-    ],
-    "geo": {
-      "lat": "40.808",
-      "lon": "73.67"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG06259000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Чоӊ-Алай",
-      "en": "Chon-Alai",
-      "slug": "chon-alai-06259"
-    },
-    "code": {
+    {
       "id": "KG06259000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG06000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Ош",
-        "en": "Osh",
-        "slug": "osh-kg06"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Чоӊ-Алай",
+        "en": "Chon-Alai",
+        "slug": "chon-alai-06259"
+      },
+      "code": {
+        "id": "KG06259000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG06000000000",
         "level": 1,
         "name": {
@@ -2045,78 +2057,82 @@
           "en": "Osh",
           "slug": "osh-kg06"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 3
+      },
+      "ancestors": [
+        {
+          "id": "KG06000000000",
+          "level": 1,
+          "name": {
+            "local": "Ош",
+            "en": "Osh",
+            "slug": "osh-kg06"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 3
+      },
+      "zip_codes": [
+        "723000"
+      ],
+      "geo": {
+        "lat": "39.507",
+        "lon": "72.231"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "723000"
-    ],
-    "geo": {
-      "lat": "39.507",
-      "lon": "72.231"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG07000000000",
-    "level": 1,
-    "level_name": {
-      "local": "Область",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Талас",
-      "en": "Talas",
-      "slug": "talas-kg07"
-    },
-    "code": {
+    {
       "id": "KG07000000000",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Область",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Талас",
+        "en": "Talas",
+        "slug": "talas-kg07"
+      },
+      "code": {
+        "id": "KG07000000000",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 5,
+        "settlement": 36
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "42.445",
+        "lon": "72.133"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kg/regions/talas-kg07/",
+        "api": "https://openadmindata.org/api/kg/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "district": 5,
-      "settlement": 36
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "42.445",
-      "lon": "72.133"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG07215000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Кара-Буура",
-      "en": "Kara-Buura",
-      "slug": "kara-buura-07215"
-    },
-    "code": {
+    {
       "id": "KG07215000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG07000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Талас",
-        "en": "Talas",
-        "slug": "talas-kg07"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Кара-Буура",
+        "en": "Kara-Buura",
+        "slug": "kara-buura-07215"
+      },
+      "code": {
+        "id": "KG07215000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG07000000000",
         "level": 1,
         "name": {
@@ -2124,48 +2140,48 @@
           "en": "Talas",
           "slug": "talas-kg07"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 9
+      },
+      "ancestors": [
+        {
+          "id": "KG07000000000",
+          "level": 1,
+          "name": {
+            "local": "Талас",
+            "en": "Talas",
+            "slug": "talas-kg07"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 9
+      },
+      "zip_codes": [
+        "724900"
+      ],
+      "geo": {
+        "lat": "42.479",
+        "lon": "71.409"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "724900"
-    ],
-    "geo": {
-      "lat": "42.479",
-      "lon": "71.409"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG07220000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Бакай-Ата",
-      "en": "Bakai-Ata",
-      "slug": "bakai-ata-g0722"
-    },
-    "code": {
+    {
       "id": "KG07220000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG07000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Талас",
-        "en": "Talas",
-        "slug": "talas-kg07"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Бакай-Ата",
+        "en": "Bakai-Ata",
+        "slug": "bakai-ata-g0722"
+      },
+      "code": {
+        "id": "KG07220000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG07000000000",
         "level": 1,
         "name": {
@@ -2173,48 +2189,48 @@
           "en": "Talas",
           "slug": "talas-kg07"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 9
+      },
+      "ancestors": [
+        {
+          "id": "KG07000000000",
+          "level": 1,
+          "name": {
+            "local": "Талас",
+            "en": "Talas",
+            "slug": "talas-kg07"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 9
+      },
+      "zip_codes": [
+        "724900"
+      ],
+      "geo": {
+        "lat": "42.361",
+        "lon": "71.925"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "724900"
-    ],
-    "geo": {
-      "lat": "42.361",
-      "lon": "71.925"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG07225000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Манас",
-      "en": "Manas",
-      "slug": "manas-07225"
-    },
-    "code": {
+    {
       "id": "KG07225000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG07000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Талас",
-        "en": "Talas",
-        "slug": "talas-kg07"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Манас",
+        "en": "Manas",
+        "slug": "manas-07225"
+      },
+      "code": {
+        "id": "KG07225000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG07000000000",
         "level": 1,
         "name": {
@@ -2222,48 +2238,48 @@
           "en": "Talas",
           "slug": "talas-kg07"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 5
+      },
+      "ancestors": [
+        {
+          "id": "KG07000000000",
+          "level": 1,
+          "name": {
+            "local": "Талас",
+            "en": "Talas",
+            "slug": "talas-kg07"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 5
+      },
+      "zip_codes": [
+        "720900"
+      ],
+      "geo": {
+        "lat": "42.694",
+        "lon": "71.807"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "720900"
-    ],
-    "geo": {
-      "lat": "42.694",
-      "lon": "71.807"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG07232000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Талас",
-      "en": "Talas",
-      "slug": "talas-07232"
-    },
-    "code": {
+    {
       "id": "KG07232000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG07000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
         "local": "Талас",
         "en": "Talas",
-        "slug": "talas-kg07"
-      }
-    },
-    "ancestors": [
-      {
+        "slug": "talas-07232"
+      },
+      "code": {
+        "id": "KG07232000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG07000000000",
         "level": 1,
         "name": {
@@ -2271,48 +2287,48 @@
           "en": "Talas",
           "slug": "talas-kg07"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 13
+      },
+      "ancestors": [
+        {
+          "id": "KG07000000000",
+          "level": 1,
+          "name": {
+            "local": "Талас",
+            "en": "Talas",
+            "slug": "talas-kg07"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 13
+      },
+      "zip_codes": [
+        "724200"
+      ],
+      "geo": {
+        "lat": "42.409",
+        "lon": "72.912"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "724200"
-    ],
-    "geo": {
-      "lat": "42.409",
-      "lon": "72.912"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG07400000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Талас ш.",
-      "en": "Talas (city)",
-      "slug": "talas-city-00001"
-    },
-    "code": {
+    {
       "id": "KG07400000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG07000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Талас",
-        "en": "Talas",
-        "slug": "talas-kg07"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Талас ш.",
+        "en": "Talas (city)",
+        "slug": "talas-city-00001"
+      },
+      "code": {
+        "id": "KG07400000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG07000000000",
         "level": 1,
         "name": {
@@ -2320,78 +2336,82 @@
           "en": "Talas",
           "slug": "talas-kg07"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 0
+      },
+      "ancestors": [
+        {
+          "id": "KG07000000000",
+          "level": 1,
+          "name": {
+            "local": "Талас",
+            "en": "Talas",
+            "slug": "talas-kg07"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 0
+      },
+      "zip_codes": [
+        "724200"
+      ],
+      "geo": {
+        "lat": "42.524",
+        "lon": "72.243"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "724200"
-    ],
-    "geo": {
-      "lat": "42.524",
-      "lon": "72.243"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG08000000000",
-    "level": 1,
-    "level_name": {
-      "local": "Область",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Чүй",
-      "en": "Chui",
-      "slug": "chui-kg08"
-    },
-    "code": {
+    {
       "id": "KG08000000000",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Область",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Чүй",
+        "en": "Chui",
+        "slug": "chui-kg08"
+      },
+      "code": {
+        "id": "KG08000000000",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 9,
+        "settlement": 113
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "42.555",
+        "lon": "74.622"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kg/regions/chui-kg08/",
+        "api": "https://openadmindata.org/api/kg/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "district": 9,
-      "settlement": 113
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "42.555",
-      "lon": "74.622"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG08203000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Аламүдүн",
-      "en": "Alamudun",
-      "slug": "alamudun-08203"
-    },
-    "code": {
+    {
       "id": "KG08203000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG08000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Чүй",
-        "en": "Chui",
-        "slug": "chui-kg08"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Аламүдүн",
+        "en": "Alamudun",
+        "slug": "alamudun-08203"
+      },
+      "code": {
+        "id": "KG08203000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG08000000000",
         "level": 1,
         "name": {
@@ -2399,48 +2419,48 @@
           "en": "Chui",
           "slug": "chui-kg08"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 17
+      },
+      "ancestors": [
+        {
+          "id": "KG08000000000",
+          "level": 1,
+          "name": {
+            "local": "Чүй",
+            "en": "Chui",
+            "slug": "chui-kg08"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 17
+      },
+      "zip_codes": [
+        "725200"
+      ],
+      "geo": {
+        "lat": "42.633",
+        "lon": "74.563"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "725200"
-    ],
-    "geo": {
-      "lat": "42.633",
-      "lon": "74.563"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG08206000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Ысык-Ата",
-      "en": "Ysyk-Ata",
-      "slug": "ysyk-ata-08206"
-    },
-    "code": {
+    {
       "id": "KG08206000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG08000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Чүй",
-        "en": "Chui",
-        "slug": "chui-kg08"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Ысык-Ата",
+        "en": "Ysyk-Ata",
+        "slug": "ysyk-ata-08206"
+      },
+      "code": {
+        "id": "KG08206000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG08000000000",
         "level": 1,
         "name": {
@@ -2448,48 +2468,48 @@
           "en": "Chui",
           "slug": "chui-kg08"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 19
+      },
+      "ancestors": [
+        {
+          "id": "KG08000000000",
+          "level": 1,
+          "name": {
+            "local": "Чүй",
+            "en": "Chui",
+            "slug": "chui-kg08"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 19
+      },
+      "zip_codes": [
+        "725100"
+      ],
+      "geo": {
+        "lat": "42.711",
+        "lon": "74.953"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "725100"
-    ],
-    "geo": {
-      "lat": "42.711",
-      "lon": "74.953"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG08209000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Жайыл",
-      "en": "Jaiyl",
-      "slug": "jaiyl-08209"
-    },
-    "code": {
+    {
       "id": "KG08209000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG08000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Чүй",
-        "en": "Chui",
-        "slug": "chui-kg08"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Жайыл",
+        "en": "Jaiyl",
+        "slug": "jaiyl-08209"
+      },
+      "code": {
+        "id": "KG08209000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG08000000000",
         "level": 1,
         "name": {
@@ -2497,48 +2517,48 @@
           "en": "Chui",
           "slug": "chui-kg08"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 13
+      },
+      "ancestors": [
+        {
+          "id": "KG08000000000",
+          "level": 1,
+          "name": {
+            "local": "Чүй",
+            "en": "Chui",
+            "slug": "chui-kg08"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 13
+      },
+      "zip_codes": [
+        "724400"
+      ],
+      "geo": {
+        "lat": "42.074",
+        "lon": "74.097"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "724400"
-    ],
-    "geo": {
-      "lat": "42.074",
-      "lon": "74.097"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG08213000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Кемин",
-      "en": "Kemin",
-      "slug": "kemin-08213"
-    },
-    "code": {
+    {
       "id": "KG08213000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG08000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Чүй",
-        "en": "Chui",
-        "slug": "chui-kg08"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Кемин",
+        "en": "Kemin",
+        "slug": "kemin-08213"
+      },
+      "code": {
+        "id": "KG08213000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG08000000000",
         "level": 1,
         "name": {
@@ -2546,48 +2566,48 @@
           "en": "Chui",
           "slug": "chui-kg08"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 14
+      },
+      "ancestors": [
+        {
+          "id": "KG08000000000",
+          "level": 1,
+          "name": {
+            "local": "Чүй",
+            "en": "Chui",
+            "slug": "chui-kg08"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 14
+      },
+      "zip_codes": [
+        "724500"
+      ],
+      "geo": {
+        "lat": "42.717",
+        "lon": "75.901"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "724500"
-    ],
-    "geo": {
-      "lat": "42.717",
-      "lon": "75.901"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG08217000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Москва",
-      "en": "Moscow",
-      "slug": "moscow-08217"
-    },
-    "code": {
+    {
       "id": "KG08217000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG08000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Чүй",
-        "en": "Chui",
-        "slug": "chui-kg08"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Москва",
+        "en": "Moscow",
+        "slug": "moscow-08217"
+      },
+      "code": {
+        "id": "KG08217000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG08000000000",
         "level": 1,
         "name": {
@@ -2595,48 +2615,48 @@
           "en": "Chui",
           "slug": "chui-kg08"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 12
+      },
+      "ancestors": [
+        {
+          "id": "KG08000000000",
+          "level": 1,
+          "name": {
+            "local": "Чүй",
+            "en": "Chui",
+            "slug": "chui-kg08"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 12
+      },
+      "zip_codes": [
+        "725300"
+      ],
+      "geo": {
+        "lat": "42.777",
+        "lon": "74.041"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "725300"
-    ],
-    "geo": {
-      "lat": "42.777",
-      "lon": "74.041"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG08219000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Панфилов",
-      "en": "Panfilov",
-      "slug": "panfilov-08219"
-    },
-    "code": {
+    {
       "id": "KG08219000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG08000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Чүй",
-        "en": "Chui",
-        "slug": "chui-kg08"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Панфилов",
+        "en": "Panfilov",
+        "slug": "panfilov-08219"
+      },
+      "code": {
+        "id": "KG08219000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG08000000000",
         "level": 1,
         "name": {
@@ -2644,48 +2664,48 @@
           "en": "Chui",
           "slug": "chui-kg08"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 8
+      },
+      "ancestors": [
+        {
+          "id": "KG08000000000",
+          "level": 1,
+          "name": {
+            "local": "Чүй",
+            "en": "Chui",
+            "slug": "chui-kg08"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 8
+      },
+      "zip_codes": [
+        "724700"
+      ],
+      "geo": {
+        "lat": "42.205",
+        "lon": "73.375"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "724700"
-    ],
-    "geo": {
-      "lat": "42.205",
-      "lon": "73.375"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG08222000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Сокулук",
-      "en": "Sokuluk",
-      "slug": "sokuluk-08222"
-    },
-    "code": {
+    {
       "id": "KG08222000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG08000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Чүй",
-        "en": "Chui",
-        "slug": "chui-kg08"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Сокулук",
+        "en": "Sokuluk",
+        "slug": "sokuluk-08222"
+      },
+      "code": {
+        "id": "KG08222000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG08000000000",
         "level": 1,
         "name": {
@@ -2693,48 +2713,48 @@
           "en": "Chui",
           "slug": "chui-kg08"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 20
+      },
+      "ancestors": [
+        {
+          "id": "KG08000000000",
+          "level": 1,
+          "name": {
+            "local": "Чүй",
+            "en": "Chui",
+            "slug": "chui-kg08"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 20
+      },
+      "zip_codes": [
+        "724800"
+      ],
+      "geo": {
+        "lat": "42.849",
+        "lon": "74.391"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "724800"
-    ],
-    "geo": {
-      "lat": "42.849",
-      "lon": "74.391"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG08223000000",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Чүй",
-      "en": "Chui",
-      "slug": "chui-08223"
-    },
-    "code": {
+    {
       "id": "KG08223000000",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG08000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
         "local": "Чүй",
         "en": "Chui",
-        "slug": "chui-kg08"
-      }
-    },
-    "ancestors": [
-      {
+        "slug": "chui-08223"
+      },
+      "code": {
+        "id": "KG08223000000",
+        "iso": null
+      },
+      "parent": {
         "id": "KG08000000000",
         "level": 1,
         "name": {
@@ -2742,48 +2762,48 @@
           "en": "Chui",
           "slug": "chui-kg08"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 10
+      },
+      "ancestors": [
+        {
+          "id": "KG08000000000",
+          "level": 1,
+          "name": {
+            "local": "Чүй",
+            "en": "Chui",
+            "slug": "chui-kg08"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 10
+      },
+      "zip_codes": [
+        "725300"
+      ],
+      "geo": {
+        "lat": "42.649",
+        "lon": "75.305"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "725300"
-    ],
-    "geo": {
-      "lat": "42.649",
-      "lon": "75.305"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG08400000010",
-    "level": 2,
-    "level_name": {
-      "local": "Район",
-      "en": "District"
-    },
-    "name": {
-      "local": "Токмок ш.",
-      "en": "Tokmok (city)",
-      "slug": "tokmok-city-00001"
-    },
-    "code": {
+    {
       "id": "KG08400000010",
-      "iso": null
-    },
-    "parent": {
-      "id": "KG08000000000",
-      "level": 1,
+      "level": 2,
+      "level_name": {
+        "local": "Район",
+        "en": "District"
+      },
       "name": {
-        "local": "Чүй",
-        "en": "Chui",
-        "slug": "chui-kg08"
-      }
-    },
-    "ancestors": [
-      {
+        "local": "Токмок ш.",
+        "en": "Tokmok (city)",
+        "slug": "tokmok-city-00001"
+      },
+      "code": {
+        "id": "KG08400000010",
+        "iso": null
+      },
+      "parent": {
         "id": "KG08000000000",
         "level": 1,
         "name": {
@@ -2791,79 +2811,98 @@
           "en": "Chui",
           "slug": "chui-kg08"
         }
-      }
-    ],
-    "children_count": {
-      "settlement": 0
+      },
+      "ancestors": [
+        {
+          "id": "KG08000000000",
+          "level": 1,
+          "name": {
+            "local": "Чүй",
+            "en": "Chui",
+            "slug": "chui-kg08"
+          }
+        }
+      ],
+      "children_count": {
+        "settlement": 0
+      },
+      "zip_codes": [
+        "725400"
+      ],
+      "geo": {
+        "lat": "42.821",
+        "lon": "75.322"
+      },
+      "metadata": {},
+      "source": {}
     },
-    "zip_codes": [
-      "725400"
-    ],
-    "geo": {
-      "lat": "42.821",
-      "lon": "75.322"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG11000000000",
-    "level": 1,
-    "level_name": {
-      "local": "Область",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Бишкек ш.",
-      "en": "Bishkek (city)",
-      "slug": "bishkek-city-kg11"
-    },
-    "code": {
+    {
       "id": "KG11000000000",
-      "iso": null
+      "level": 1,
+      "level_name": {
+        "local": "Область",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Бишкек ш.",
+        "en": "Bishkek (city)",
+        "slug": "bishkek-city-kg11"
+      },
+      "code": {
+        "id": "KG11000000000",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 0,
+        "settlement": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "42.871",
+        "lon": "74.6"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kg/regions/bishkek-city-kg11/",
+        "api": "https://openadmindata.org/api/kg/"
+      }
     },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "district": 0,
-      "settlement": 0
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "42.871",
-      "lon": "74.6"
-    },
-    "metadata": {},
-    "source": {}
-  },
-  {
-    "id": "KG21000000000",
-    "level": 1,
-    "level_name": {
-      "local": "Область",
-      "en": "Region"
-    },
-    "name": {
-      "local": "Ош ш.",
-      "en": "Osh (city)",
-      "slug": "osh-city-kg21"
-    },
-    "code": {
+    {
       "id": "KG21000000000",
-      "iso": null
-    },
-    "parent": null,
-    "ancestors": [],
-    "children_count": {
-      "district": 0,
-      "settlement": 0
-    },
-    "zip_codes": [],
-    "geo": {
-      "lat": "40.531",
-      "lon": "72.795"
-    },
-    "metadata": {},
-    "source": {}
-  }
-]
+      "level": 1,
+      "level_name": {
+        "local": "Область",
+        "en": "Region"
+      },
+      "name": {
+        "local": "Ош ш.",
+        "en": "Osh (city)",
+        "slug": "osh-city-kg21"
+      },
+      "code": {
+        "id": "KG21000000000",
+        "iso": null
+      },
+      "parent": null,
+      "ancestors": [],
+      "children_count": {
+        "district": 0,
+        "settlement": 0
+      },
+      "zip_codes": [],
+      "geo": {
+        "lat": "40.531",
+        "lon": "72.795"
+      },
+      "metadata": {},
+      "source": {
+        "name": "Open Admin Data",
+        "url": "https://openadmindata.org/kg/regions/osh-city-kg21/",
+        "api": "https://openadmindata.org/api/kg/"
+      }
+    }
+  ]
+}

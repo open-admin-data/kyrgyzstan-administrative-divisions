@@ -27,7 +27,11 @@
       "lon": "71.57"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kg/regions/batken-kg05/",
+      "api": "https://openadmindata.org/api/kg/"
+    }
   },
   {
     "id": "KG11000000000",
@@ -57,7 +61,11 @@
       "lon": "74.6"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kg/regions/bishkek-city-kg11/",
+      "api": "https://openadmindata.org/api/kg/"
+    }
   },
   {
     "id": "KG08000000000",
@@ -87,7 +95,11 @@
       "lon": "74.622"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kg/regions/chui-kg08/",
+      "api": "https://openadmindata.org/api/kg/"
+    }
   },
   {
     "id": "KG02000000000",
@@ -117,7 +129,11 @@
       "lon": "78.159"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kg/regions/issyk-kul-kg02/",
+      "api": "https://openadmindata.org/api/kg/"
+    }
   },
   {
     "id": "KG03000000000",
@@ -147,7 +163,11 @@
       "lon": "73.218"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kg/regions/jalal-abad-kg03/",
+      "api": "https://openadmindata.org/api/kg/"
+    }
   },
   {
     "id": "KG04000000000",
@@ -177,7 +197,11 @@
       "lon": "75.993"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kg/regions/naryn-kg04/",
+      "api": "https://openadmindata.org/api/kg/"
+    }
   },
   {
     "id": "KG06000000000",
@@ -207,7 +231,11 @@
       "lon": "73.361"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kg/regions/osh-kg06/",
+      "api": "https://openadmindata.org/api/kg/"
+    }
   },
   {
     "id": "KG21000000000",
@@ -237,7 +265,11 @@
       "lon": "72.795"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kg/regions/osh-city-kg21/",
+      "api": "https://openadmindata.org/api/kg/"
+    }
   },
   {
     "id": "KG07000000000",
@@ -267,6 +299,10 @@
       "lon": "72.133"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/kg/regions/talas-kg07/",
+      "api": "https://openadmindata.org/api/kg/"
+    }
   }
 ]

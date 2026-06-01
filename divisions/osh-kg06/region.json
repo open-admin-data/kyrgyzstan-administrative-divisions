@@ -26,5 +26,9 @@
     "lon": "73.361"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kg/regions/osh-kg06/",
+    "api": "https://openadmindata.org/api/kg/"
+  }
 }

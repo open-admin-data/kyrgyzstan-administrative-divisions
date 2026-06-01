@@ -26,5 +26,9 @@
     "lon": "71.57"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/kg/regions/batken-kg05/",
+    "api": "https://openadmindata.org/api/kg/"
+  }
 }
